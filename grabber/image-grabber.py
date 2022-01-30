@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup as soup
-import json
 from os import mkdir
 import re
 import argparse
