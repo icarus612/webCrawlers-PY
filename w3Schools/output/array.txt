@@ -1,0 +1,760 @@
+
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: concat()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: concat()</div>
+						<div id="" back""><b>array method</b> that joins two or more arrays, and returns a copy of the joined arrays</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: copywithin()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: copywithin()</div>
+						<div id="" back""><b>array method</b> that copies array elements within the array, to and from specified positions</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: entries()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: entries()</div>
+						<div id="" back""><b>array method</b> that returns a key/value pair array iteration object</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: every()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: every()</div>
+						<div id="" back""><b>array method</b> that checks if every element in an array pass a test</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: fill()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: fill()</div>
+						<div id="" back""><b>array method</b> that fill the elements in an array with a static value</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: filter()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: filter()</div>
+						<div id="" back""><b>array method</b> that creates a new array with every element in an array that pass a test</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: find()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: find()</div>
+						<div id="" back""><b>array method</b> that returns the value of the first element in an array that pass a test</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: findindex()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: findindex()</div>
+						<div id="" back""><b>array method</b> that returns the index of the first element in an array that pass a test</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: foreach()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: foreach()</div>
+						<div id="" back""><b>array method</b> that calls a function for each array element</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: from()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: from()</div>
+						<div id="" back""><b>array method</b> that creates an array from an object</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: includes()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: includes()</div>
+						<div id="" back""><b>array method</b> that check if an array contains the specified element</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: indexof()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: indexof()</div>
+						<div id="" back""><b>array method</b> that search the array for an element and returns its position</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: isarray()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: isarray()</div>
+						<div id="" back""><b>array method</b> that checks whether an object is an array</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: join()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: join()</div>
+						<div id="" back""><b>array method</b> that joins all elements of an array into a string</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: keys()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: keys()</div>
+						<div id="" back""><b>array method</b> that returns a array iteration object, containing the keys of the original array</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: lastindexof()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: lastindexof()</div>
+						<div id="" back""><b>array method</b> that search the array for an element, starting at the end, and returns its position</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: map()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: map()</div>
+						<div id="" back""><b>array method</b> that creates a new array with the result of calling a function for each array element</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: pop()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: pop()</div>
+						<div id="" back""><b>array method</b> that removes the last element of an array, and returns that element</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: push()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: push()</div>
+						<div id="" back""><b>array method</b> that adds new elements to the end of an array, and returns the new length</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: reduce()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: reduce()</div>
+						<div id="" back""><b>array method</b> that reduce the values of an array to a single value (going left-to-right)</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: reduceright()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: reduceright()</div>
+						<div id="" back""><b>array method</b> that reduce the values of an array to a single value (going right-to-left)</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: reverse()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: reverse()</div>
+						<div id="" back""><b>array method</b> that reverses the order of the elements in an array</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: shift()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: shift()</div>
+						<div id="" back""><b>array method</b> that removes the first element of an array, and returns that element</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: slice()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: slice()</div>
+						<div id="" back""><b>array method</b> that selects a part of an array, and returns the new array</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: some()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: some()</div>
+						<div id="" back""><b>array method</b> that checks if any of the elements in an array pass a test</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: sort()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: sort()</div>
+						<div id="" back""><b>array method</b> that sorts the elements of an array</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: splice()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: splice()</div>
+						<div id="" back""><b>array method</b> that adds/removes elements from an array</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: tostring()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: tostring()</div>
+						<div id="" back""><b>array method</b> that converts an array to a string, and returns the result</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: unshift()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: unshift()</div>
+						<div id="" back""><b>array method</b> that adds new elements to the beginning of an array, and returns the new length</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: valueof()</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array method</b>: valueof()</div>
+						<div id="" back""><b>array method</b> that returns the primitive value of an array</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array property</b>: constructor</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array property</b>: constructor</div>
+						<div id="" back""><b>array property</b> that returns the function that created the array object's prototype</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array property</b>: length</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array property</b>: length</div>
+						<div id="" back""><b>array property</b> that sets or returns the number of elements in an array</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array property</b>: prototype</div>
+					</div>
+					
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > ""); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); 
+					</script> 
+					<div id="" items"">
+						<div id="" path""></div>
+						<div id="" deck"">JavaScript > array</div>
+						<div id="" front""><b>array property</b>: prototype</div>
+						<div id="" back""><b>array property</b> that allows you to add properties and methods to an array object</div>
+						<div id="" additional-info""></div>
+						<div id="" options""></div>
+						<div id="" example""></div> 
+						<div id="" version""></div>
+					</div> 
+					<script>
+						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
+					</script>
+				

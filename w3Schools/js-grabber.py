@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as soup
-from os import mkdir
+from os import mkdir, getcwd, mkdir
 import re
 
 cards = []
@@ -15,7 +15,7 @@ for url in url_arr:
 	
 		for tr in table.find_all("tr"):
 			if len(tr.find_all("th")) > 0: 
-				bold = f'{url.capitalize()} {tr.find("th").text}'
+				bold = f'<b>{url.capitalize()} {tr.find("th").text}</b>'
 			else:
 				content = [i.text for i in tr.find_all("td")]
 				front_value = f'{bold}: {content[0]}'.capitalize()
@@ -44,6 +44,11 @@ for url in url_arr:
 						deck = document.getElementById(""deck""); dName = deck.innerText.split("":: "")         deck.innerHTML = dName[dName.length - 1]; document.getElementById(""path"").innerHTML = dName.join("" > "")         version = document.getElementById(""version""); version.innerHTML = version.innerHTML || "" >= 3.7"";[...document.getElementById(""items"").children].map((el) => el.innerText ? null : el.classList.add(""hidden"")); function addTitle(id = false, title = "" "") { let el = document.getElementById(id); if (el.innerText) { let t = document.createElement(""div""); t.classList.add(""title""); t.innerHTML = title; let b = document.createElement(""div""); b.classList.add(""body""); b.innerHTML = el.innerHTML; while (el.firstChild) { el.removeChild(el.firstChild); } el.append(t, b); } } addTitle(""front"", ""Q. ""); addTitle(""back"", ""A. ""); addTitle(""options"", ""Optional Arguments: ""); addTitle(""example"", ""Example: ""); addTitle(""additional - info"", "" &#9432; ""); addTitle(""version"", ""Version: "");
 					</script>
 				''')
-with open('output.txt', 'w') as file:
-		file.writelines(cards)
+	try: 
+		mkdir(f'{getcwd()}/output/')
+	except FileExistsError:
+		pass
+	finally:
+		with open(f'{getcwd()}/output/{url}.txt', 'w') as file:
+			file.writelines(cards)
 	
