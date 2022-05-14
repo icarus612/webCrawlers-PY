@@ -9,11 +9,10 @@ url_arr = ["array", "string", "number", "math", "date", "global", "regexp", "cla
 for url in url_arr:
 	res = soup(requests.get(f'https://www.w3schools.com/jsref/jsref_obj_{url}.asp').content, 'html.parser')
 	deck_name = "JavaScript > " + url
-
 	for table in res.find_all("table", {"class": "ws-table-all"}):
 		bold = []
-	
 		for tr in table.find_all("tr"):
+			ref = soup(requests.get(f'https://www.w3schools.com/jsref/{table.find("a")["href"]}').content, 'html.parser')
 			if len(tr.find_all("th")) > 0: 
 				bold = f'<b>{url.capitalize()} {tr.find("th").text}</b>'
 			else:
@@ -47,8 +46,7 @@ for url in url_arr:
 	try: 
 		mkdir(f'{getcwd()}/output/')
 	except FileExistsError:
-		pass
-	finally:
-		with open(f'{getcwd()}/output/{url}.txt', 'w') as file:
-			file.writelines(cards)
+		pass	
+	with open(f'{getcwd()}/output/{url}.txt', 'w') as file:
+		file.writelines(cards)
 	
