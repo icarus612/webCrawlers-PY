@@ -23,7 +23,7 @@ for url in url_arr[0: 1]:
 					front = f'{bold}: {back_extended}'
 				except Exception as e:
 					back_extended = ""
-					front = f'{bold}: {b[0]}'
+					front = f'{bold}: {b[0]}.'
 					print(e)
 
 				back_basic = f'{bold} that {b[1]}'
@@ -37,6 +37,5 @@ for url in url_arr[0: 1]:
 	except FileExistsError:
 		pass	
 	
-	print(cards[0])
 	with open(f'{getcwd()}/output/{url}.txt', 'w') as file:
-		file.writelines(cards)
+		file.writelines([f'{i} \n' for i in cards])
