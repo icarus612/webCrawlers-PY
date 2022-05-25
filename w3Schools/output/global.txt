@@ -1,19 +1,16 @@
-<b>global function</b>: decodeuri() | <b>global function</b> that decodes a uri 
-<b>global function</b>: decodeuricomponent() | <b>global function</b> that decodes a uri component 
-<b>global function</b>: encodeuri() | <b>global function</b> that encodes a uri 
-<b>global function</b>: encodeuricomponent() | <b>global function</b> that encodes a uri component 
-<b>global function</b>: escape() | <b>global function</b> that deprecated. use instead:
-encodeuri()
-encodeuricomponent() 
-<b>global function</b>: eval() | <b>global function</b> that evaluates a string and executes it as if it was script code 
-<b>global function</b>: isfinite() | <b>global function</b> that determines whether a value is a finite, legal number 
-<b>global function</b>: isnan() | <b>global function</b> that determines whether a value is an illegal number 
-<b>global function</b>: number() | <b>global function</b> that converts an object's value to a number 
-<b>global function</b>: parsefloat() | <b>global function</b> that parses a string and returns a floating point number 
-<b>global function</b>: parseint() | <b>global function</b> that parses a string and returns an integer 
-<b>global function</b>: string() | <b>global function</b> that converts an object's value to a string 
-<b>global function</b>: unescape() | <b>global function</b> that deprecated. use instead:decodeuri()
-decodeuricomponent() 
-<b>global property</b>: infinity | <b>global property</b> that a numeric value that represents positive/negative infinity 
-<b>global property</b>: nan | <b>global property</b> that "not-a-number" value 
-<b>global property</b>: undefined | <b>global property</b> that indicates that a variable has not been assigned a value 
+<b>Global function</b>: None | <b>Global function</b> that decodes a uri. | None |  | <div class="w3-code notranslate jsHigh"> let uri = "my test.asp?name=ståle&amp;car=saab";<br/> let encoded = encodeURI(uri);<br/> let decoded = decodeURI(encoded); </div> |  
+<b>Global function</b>: None | <b>Global function</b> that decodes a uri component. | None |  | <div class="w3-code notranslate jsHigh"> let uri = "https://w3schools.com/my test.asp?name=ståle&amp;car=saab";<br/> let encoded = encodeURIComponent(uri);<br/> let decoded = decodeURIComponent(encoded); </div> |  
+<b>Global function</b>: None | <b>Global function</b> that encodes a uri. | None |  | <div class="w3-code notranslate jsHigh"> let uri = "my test.asp?name=ståle&amp;car=saab";<br/> let encoded = encodeURI(uri); </div> |  
+<b>Global function</b>: None | <b>Global function</b> that encodes a uri component. | None |  | <div class="w3-code notranslate jsHigh"> let uri = "https://w3schools.com/my test.asp?name=ståle&amp;car=saab";<br/> let encoded = encodeURIComponent(uri);</div> |  
+<b>Global function</b>: escape() | <b>Global function</b> that deprecated. use instead: encodeuri() encodeuricomponent(). |  |  |  |  
+<b>Global function</b>: None | <b>Global function</b> that evaluates a string and executes it as if it was script code. | None |  | <div class="w3-code notranslate jsHigh"> let x = 10;<br/> let y = 20;<br/> let text = "x * y";<br/> let result = eval(text); </div> |  
+<b>Global function</b>: None | <b>Global function</b> that determines whether a value is a finite, legal number. | None |  | <div class="w3-code notranslate jsHigh"> let result = isFinite(123); </div> |  
+<b>Global function</b>: None | <b>Global function</b> that determines whether a value is an illegal number. | None |  | <div class="w3-code notranslate jsHigh"> isNaN(123);<br/> isNaN(-1.23);<br/> isNaN(5-2);<br/> isNaN(0);<br/> </div> |  
+<b>Global function</b>: None | <b>Global function</b> that converts an object's value to a number. | None |  | <div class="w3-code notranslate jsHigh"> Number(true);<br/>  Number(false);<br/>  Number(new Date()); </div> |  
+<b>Global function</b>: None | <b>Global function</b> that parses a string and returns a floating point number. | None |  | <div class="w3-code notranslate jsHigh"> parseFloat(10);<br/> parseFloat("10");<br/> parseFloat("10.33");<br/> parseFloat("34 45 66");<br/> parseFloat("He was 40");<br/> </div> |  
+<b>Global function</b>: None | <b>Global function</b> that parses a string and returns an integer. | None |  | <div class="w3-code notranslate jsHigh"> parseInt("10");<br/> parseInt("10.00");<br/> parseInt("10.33");<br/> parseInt("34 45 66");<br/> parseInt("   60   ");<br/> parseInt("40 years");<br/> parseInt("He was 40"); </div> |  
+<b>Global function</b>: None | <b>Global function</b> that converts an object's value to a string. | None |  | <div class="w3-code notranslate jsHigh"> String(new Date());<br/> String("12345");<br/> String(12345); </div> |  
+<b>Global function</b>: unescape() | <b>Global function</b> that deprecated. use instead:decodeuri() decodeuricomponent(). |  |  |  |  
+<b>Global property</b>: None | <b>Global property</b> that a numeric value that represents positive/negative infinity. | None |  | <div class="w3-code notranslate jsHigh"> let x = 1.797693134862315E+308;<br/> let y = x * 1.001; </div> |  
+<b>Global property</b>: None | <b>Global property</b> that "not-a-number" value. | None |  |  |  
+<b>Global property</b>: undefined | <b>Global property</b> that indicates that a variable has not been assigned a value. |  |  | <div class="w3-code notranslate jsHigh"> let x;<br/> if (x === "undefined") {<br/>   text = "x is undefined";<br/>} else {<br/>     text = "x is defined";<br/>}   </div> |  

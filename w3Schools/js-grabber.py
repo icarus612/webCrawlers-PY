@@ -9,7 +9,8 @@ try:
 	mkdir(f'{getcwd()}/output/')
 except FileExistsError:
 	pass	
-for url in url_arr:
+
+for url in url_arr[0:1]:
 	print(url)
 	cards = []
 	res = soup(requests.get(f'https://www.w3schools.com/jsref/jsref_obj_{url}.asp').content, 'html.parser')
@@ -22,7 +23,7 @@ for url in url_arr:
 				ref = soup(requests.get(f'https://www.w3schools.com/jsref/{tr.find("a")["href"]}').content, 'html.parser')
 				b = [i.text for i in tr.find_all("td")]
 				try: 		
-					back_extended = ref.find("h2", text="Syntax").findNext().findChild("div").findChild("div")
+					back_extended = ref.find("h2", text="Syntax").findNext().findChild("div").decode_contents().strip()
 					front = f'{bold}: {back_extended}'
 				except Exception as e:
 					back_extended = ""
@@ -31,8 +32,8 @@ for url in url_arr:
 				back_basic = f'{bold} that {b[1].lower()}.'
 				additional_info = ""
 				try: 
-					example = ref.find("div", {"class": "w3-example"}).find("div", {"class": "w3-code"})
-				except NoneType:
+					example = ref.find("div", {"class": "w3-example"}).find("div", {"class": "w3-code"}).decode_contents().strip()
+				except AttributeError:
 					example = ""
 				version = ""
 				cards.append(" ".join(f'{front} | {back_basic} | {back_extended} | {additional_info} | {example} | {version}'.splitlines()))

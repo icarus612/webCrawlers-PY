@@ -1,41 +1,41 @@
-<b>String method</b>: None | <b>String method</b> that returns the character at a specified index (position). | None |  | <div class="w3-code notranslate jsHigh"> let text = "HELLO WORLD";<br/> let letter = text.charAt(0); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns the unicode of the character at a specified index. | None |  | <div class="w3-code notranslate jsHigh"> let text = "HELLO WORLD";<br/> let code = text.charCodeAt(0); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns two or more joined strings. | None |  | <div class="w3-code notranslate jsHigh"> let text1 = "sea";<br/> let text2 = "food";<br/> let result = text1.concat(text2); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns if a string ends with a specified value. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello world";<br/> let result = text.endsWith("world");<br/> </div> |  
-<b>String method</b>: None | <b>String method</b> that returns unicode values as characters. | None |  | <div class="w3-code notranslate jsHigh"> let char = String.fromCharCode(65); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns if a string contains a specified value. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello world, welcome to the universe.";<br/> let result = text.includes("world"); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns the index (position) of the first occurrence of a value in a string. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello world, welcome to the universe.";<br/> let result = text.indexOf("welcome"); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns the index (position) of the last occurrence of a value in a string. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello planet earth, you are a great planet.";<br/> let result = text.lastIndexOf("planet");<br/> </div> |  
-<b>String method</b>: None | <b>String method</b> that compares two strings in the current locale. | None |  | <div class="w3-code notranslate jsHigh"> let text1 = "ab";<br/> let text2 = "cd";<br/> let result = text1.localeCompare(text2); </div> |  
-<b>String method</b>: None | <b>String method</b> that searches a string for a value, or a regular expression, and returns the matches. | None |  | <div class="w3-code notranslate jsHigh"> let text = "The rain in SPAIN stays mainly in the plain"; <br/> text.match("ain"); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns a new string with a number of copies of a string. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello world!";<br/> let result = text.repeat(2); </div> |  
-<b>String method</b>: None | <b>String method</b> that searches a string for a value, or a regular expression, and returns a string where the values are replaced. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Visit Microsoft!";<br/> let result = text.replace("Microsoft", "W3Schools"); </div> |  
-<b>String method</b>: None | <b>String method</b> that searches a string for a value, or regular expression, and returns the index (position) of the match. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Mr. Blue has a blue house";<br/> let position = text.search("Blue"); </div> |  
-<b>String method</b>: None | <b>String method</b> that extracts a part of a string and returns a new string. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello world!";<br/> let result = text.slice(0, 5); </div> |  
-<b>String method</b>: None | <b>String method</b> that splits a string into an array of substrings. | None |  | <div class="w3-code notranslate jsHigh"> let text = "How are you doing today?";<br/> const myArray = text.split(" "); </div> |  
-<b>String method</b>: None | <b>String method</b> that checks whether a string begins with specified characters. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello world, welcome to the universe.";<br/> text.startsWith("Hello"); </div> |  
-<b>String method</b>: None | <b>String method</b> that extracts a number of characters from a string, from a start index (position). | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello world!";<br/> let result = text.substr(1, 4);" </div> |  
-<b>String method</b>: None | <b>String method</b> that extracts characters from a string, between two specified indices (positions). | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello world!";<br/> let result = text.substring(1, 4); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns a string converted to lowercase letters, using the host's locale. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.toLocaleLowerCase(); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns a string converted to uppercase letters, using the host's locale. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.toLocaleUpperCase(); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns a string converted to lowercase letters. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.toLowerCase(); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns a string or a string object as a string. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.toString(); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns a string converted to uppercase letters. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.toUpperCase(); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns a string with removed whitespaces. | None |  | <div class="w3-code notranslate jsHigh"> let text = "       Hello World!        ";<br/> let result = text.trim(); </div> |  
-<b>String method</b>: None | <b>String method</b> that returns the primitive value of a string or a string object. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.valueOf(); </div> |  
-<b>String property</b>: None | <b>String property</b> that returns the string's constructor function. | None |  | <div class="w3-code notranslate jsHigh"> let message = "Hello World!";<br/> let text = message.constructor; </div> |  
-<b>String property</b>: None | <b>String property</b> that returns the length of a string. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let length = text.length; </div> |  
-<b>String property</b>: None | <b>String property</b> that allows you to add properties and methods to an object. | None |  | <div class="w3-code notranslate jsHigh"> function employee(name, jobtitle, born) {<br/>     this.name = name;<br/>     this.jobtitle = jobtitle;<br/>   this.born = born;<br/> }<br/> employee.prototype.salary = 2000;<br/> <br/> const fred = new employee("Fred Flintstone", "Caveman", 1970);</div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string as an anchor. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.anchor("Chapter 10"); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string using a big font. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.big(); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a blinking string. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.blink(); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string in bold. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.bold(); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string using a fixed-pitch font. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.fixed(); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string using a specified color. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.fontcolor("green"); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string using a specified size. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.fontsize(6); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string in italic. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.italics(); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string as a hyperlink. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Free Web Building Tutorials!";<br/> let result = text.link("https://www.w3schools.com"); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string using a small font. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.small(); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string with a strikethrough. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.strike(); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string as subscript text. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.sub(); </div> |  
-<b>String method</b>: None | <b>String method</b> that displays a string as superscript text. | None |  | <div class="w3-code notranslate jsHigh"> let text = "Hello World!";<br/> let result = text.sup(); </div> |  
+<b>String method</b>: None | <b>String method</b> that returns the character at a specified index (position). | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns the unicode of the character at a specified index. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns two or more joined strings. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns if a string ends with a specified value. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns unicode values as characters. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns if a string contains a specified value. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns the index (position) of the first occurrence of a value in a string. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns the index (position) of the last occurrence of a value in a string. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that compares two strings in the current locale. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that searches a string for a value, or a regular expression, and returns the matches. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns a new string with a number of copies of a string. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that searches a string for a value, or a regular expression, and returns a string where the values are replaced. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that searches a string for a value, or regular expression, and returns the index (position) of the match. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that extracts a part of a string and returns a new string. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that splits a string into an array of substrings. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that checks whether a string begins with specified characters. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that extracts a number of characters from a string, from a start index (position). | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that extracts characters from a string, between two specified indices (positions). | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns a string converted to lowercase letters, using the host's locale. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns a string converted to uppercase letters, using the host's locale. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns a string converted to lowercase letters. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns a string or a string object as a string. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns a string converted to uppercase letters. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns a string with removed whitespaces. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that returns the primitive value of a string or a string object. | None |  | None |  
+<b>String property</b>: None | <b>String property</b> that returns the string's constructor function. | None |  | None |  
+<b>String property</b>: None | <b>String property</b> that returns the length of a string. | None |  | None |  
+<b>String property</b>: None | <b>String property</b> that allows you to add properties and methods to an object. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string as an anchor. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string using a big font. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a blinking string. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string in bold. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string using a fixed-pitch font. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string using a specified color. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string using a specified size. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string in italic. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string as a hyperlink. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string using a small font. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string with a strikethrough. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string as subscript text. | None |  | None |  
+<b>String method</b>: None | <b>String method</b> that displays a string as superscript text. | None |  | None |  
