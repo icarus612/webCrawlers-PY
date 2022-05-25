@@ -7,7 +7,6 @@ import re
 url_arr = ["array", "string", "number", "math", "date", "global", "regexp", "classes", "error", "boolean", "operators", "statements", "json"]
  
 for url in url_arr:
-	print(e)
 	cards = []
 	res = soup(requests.get(f'https://www.w3schools.com/jsref/jsref_obj_{url}.asp').content, 'html.parser')
 	for table in res.find_all("table", {"class": "ws-table-all"}):
