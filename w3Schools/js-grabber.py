@@ -18,12 +18,12 @@ for url in url_arr:
 				ref = soup(requests.get(f'https://www.w3schools.com/jsref/{tr.find("a")["href"]}').content, 'html.parser')
 				b = [i.text for i in tr.find_all("td")]
 				try: 		
-					back_extended = ref.find("h2", text="Syntax").findNext().findChild("div")
+					back_extended = ref.find("h2", text="Syntax").findNext().findChild("div").findChild("div")
 					front = f'{bold}: {back_extended}'
 				except Exception as e:
 					back_extended = ""
 					front = f'{bold}: {b[0].lower()}'
-
+					print(e)
 				back_basic = f'{bold} that {b[1].lower()}.'
 				additional_info = ""
 				example = ref.find("div", {"class": "w3-example"}).find("div", {"class": "w3-code"})

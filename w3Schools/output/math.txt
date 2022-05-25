@@ -1,41 +1,41 @@
-<b>math property</b>: e | <b>math property</b> that returns euler's number (approx. 2.718) 
-<b>math property</b>: ln2 | <b>math property</b> that returns the natural logarithm of 2 (approx. 0.693) 
-<b>math property</b>: ln10 | <b>math property</b> that returns the natural logarithm of 10 (approx. 2.302) 
-<b>math property</b>: log2e | <b>math property</b> that returns the base-2 logarithm of e (approx. 1.442) 
-<b>math property</b>: log10e | <b>math property</b> that returns the base-10 logarithm of e (approx. 0.434) 
-<b>math property</b>: pi | <b>math property</b> that returns pi (approx. 3.14) 
-<b>math property</b>: sqrt1_2 | <b>math property</b> that returns the square root of 1/2 (approx. 0.707) 
-<b>math property</b>: sqrt2 | <b>math property</b> that returns the square root of 2 (approx. 1.414) 
-<b>math method</b>: abs(x) | <b>math method</b> that returns the absolute value of x 
-<b>math method</b>: acos(x) | <b>math method</b> that returns the arccosine of x, in radians 
-<b>math method</b>: acosh(x) | <b>math method</b> that returns the hyperbolic arccosine of x 
-<b>math method</b>: asin(x) | <b>math method</b> that returns the arcsine of x, in radians 
-<b>math method</b>: asinh(x) | <b>math method</b> that returns the hyperbolic arcsine of x 
-<b>math method</b>: atan(x) | <b>math method</b> that returns the arctangent of x as a numeric value between -pi/2 and pi/2 radians 
-<b>math method</b>: atan2(y, x) | <b>math method</b> that returns the arctangent of the quotient of its arguments 
-<b>math method</b>: atanh(x) | <b>math method</b> that returns the hyperbolic arctangent of x 
-<b>math method</b>: cbrt(x) | <b>math method</b> that returns the cubic root of x 
-<b>math method</b>: ceil(x) | <b>math method</b> that returns x, rounded upwards to the nearest integer 
-<b>math method</b>: clz32(x) | <b>math method</b> that returns the number of leading zeros in a 32-bit binary representation of x 
-<b>math method</b>: cos(x) | <b>math method</b> that returns the cosine of x (x is in radians) 
-<b>math method</b>: cosh(x) | <b>math method</b> that returns the hyperbolic cosine of x 
-<b>math method</b>: exp(x) | <b>math method</b> that returns the value of ex 
-<b>math method</b>: expm1(x) | <b>math method</b> that returns the value of ex minus 1 
-<b>math method</b>: floor(x) | <b>math method</b> that returns x, rounded downwards to the nearest integer 
-<b>math method</b>: fround(x) | <b>math method</b> that returns the nearest (32-bit single precision) float representation of a number 
-<b>math method</b>: log(x) | <b>math method</b> that returns the natural logarithmof x 
-<b>math method</b>: log10(x) | <b>math method</b> that returns the base-10 logarithm of x 
-<b>math method</b>: log1p(x) | <b>math method</b> that returns the natural logarithm of 1 + x 
-<b>math method</b>: log2(x) | <b>math method</b> that returns the base-2 logarithm of x 
-<b>math method</b>: max(x, y, z, ..., n) | <b>math method</b> that returns the number with the highest value 
-<b>math method</b>: min(x, y, z, ..., n) | <b>math method</b> that returns the number with the lowest value 
-<b>math method</b>: pow(x, y) | <b>math method</b> that returns the value of x to the power of y 
-<b>math method</b>: random() | <b>math method</b> that returns a random number between 0 and 1 
-<b>math method</b>: round(x) | <b>math method</b> that rounds x to the nearest integer 
-<b>math method</b>: sign(x) | <b>math method</b> that returns the sign of a number (checks whether it is positive, negative or zero) 
-<b>math method</b>: sin(x) | <b>math method</b> that returns the sine of x (x is in radians) 
-<b>math method</b>: sinh(x) | <b>math method</b> that returns the hyperbolic sine of x 
-<b>math method</b>: sqrt(x) | <b>math method</b> that returns the square root of x 
-<b>math method</b>: tan(x) | <b>math method</b> that returns the tangent of an angle 
-<b>math method</b>: tanh(x) | <b>math method</b> that returns the hyperbolic tangent of a number 
-<b>math method</b>: trunc(x) | <b>math method</b> that returns the integer part of a number (x) 
+<b>Math property</b>: None | <b>Math property</b> that returns euler's number (approx. 2.718). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.E; </div> |  
+<b>Math property</b>: None | <b>Math property</b> that returns the natural logarithm of 2 (approx. 0.693). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.LN2; </div> |  
+<b>Math property</b>: None | <b>Math property</b> that returns the natural logarithm of 10 (approx. 2.302). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.LN10; </div> |  
+<b>Math property</b>: None | <b>Math property</b> that returns the base-2 logarithm of e (approx. 1.442). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.LOG2E; </div> |  
+<b>Math property</b>: None | <b>Math property</b> that returns the base-10 logarithm of e (approx. 0.434). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.LOG10E; </div> |  
+<b>Math property</b>: None | <b>Math property</b> that returns pi (approx. 3.14). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.PI; </div> |  
+<b>Math property</b>: None | <b>Math property</b> that returns the square root of 1/2 (approx. 0.707). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.SQRT1_2; </div> |  
+<b>Math property</b>: None | <b>Math property</b> that returns the square root of 2 (approx. 1.414). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.SQRT2; </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the absolute value of x. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.abs(-7.25); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the arccosine of x, in radians. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.acos(0.5); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the hyperbolic arccosine of x. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.acosh(2); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the arcsine of x, in radians. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.asin(0.5); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the hyperbolic arcsine of x. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.asinh(1); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the arctangent of x as a numeric value between -pi/2 and pi/2 radians. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.atan(2); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the arctangent of the quotient of its arguments. | None |  | <div class="w3-code notranslate jsHigh"> Math.atan2(8, 4); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the hyperbolic arctangent of x. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.atanh(0.5)  </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the cubic root of x. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.cbrt(125);  </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns x, rounded upwards to the nearest integer. | None |  | <div class="w3-code notranslate jsHigh"> Math.ceil(1.4)   // Rounds 1.4 upward to its nearest integer  </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the number of leading zeros in a 32-bit binary representation of x. | None |  | <div class="w3-code notranslate jsHigh"> let a = Math.clz32(0);<br/> let b = Math.clz32(1);<br/> let c = Math.clz32(2);<br/> let d = Math.clz32(4);</div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the cosine of x (x is in radians). | None |  | <div class="w3-code notranslate jsHigh"> Math.cos(3) </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the hyperbolic cosine of x. | None |  | <div class="w3-code notranslate jsHigh"> Math.cosh(3) </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the value of ex. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.exp(3); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the value of ex minus 1. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.expm1(3); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns x, rounded downwards to the nearest integer. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.floor(1.6); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the nearest (32-bit single precision) float representation of a number. | None |  | <div class="w3-code notranslate jsHigh"> let a = Math.fround(2.60);<br/> let b = Math.fround(2.50);<br/> let c = Math.fround(2.49);<br/> let d = Math.fround(-2.60);<br/> let e = Math.fround(-2.50);<br/> let f = Math.fround(-2.49); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the natural logarithmof x. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.log(2);  </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the base-10 logarithm of x. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.log10(2);  </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the natural logarithm of 1 + x. | None |  | <div class="w3-code notranslate jsHigh"> let a = Math.log1p(2.7183);<br/> let b = Math.log1p(2);<br/> let c = Math.log1p(1);<br/> let d = Math.log1p(0);<br/> let e = Math.log1p(-1); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the base-2 logarithm of x. | None |  | <div class="w3-code notranslate jsHigh"> let a = Math.log2(2.7183);<br/> let b = Math.log2(2);<br/> let c = Math.log2(1);<br/> let d = Math.log2(0);<br/> let e = Math.log2(-1); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the number with the highest value. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.max(5, 10); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the number with the lowest value. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.min(5, 10); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the value of x to the power of y. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.pow(4, 3); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns a random number between 0 and 1. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.random(); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that rounds x to the nearest integer. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.round(2.5); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the sign of a number (checks whether it is positive, negative or zero). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.sign(3); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the sine of x (x is in radians). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.sin(3); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the hyperbolic sine of x. | None |  | <div class="w3-code notranslate jsHigh"> Math.sinh(3); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the square root of x. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.sqrt(9); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the tangent of an angle. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.tan(1); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the hyperbolic tangent of a number. | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.tanh(1); </div> |  
+<b>Math method</b>: None | <b>Math method</b> that returns the integer part of a number (x). | None |  | <div class="w3-code notranslate jsHigh"> let x = Math.trunc(8.76); </div> |  

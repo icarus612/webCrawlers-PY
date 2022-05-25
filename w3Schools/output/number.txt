@@ -1,17 +1,17 @@
-<b>number method</b>: isfinite() | <b>number method</b> that checks whether a value is a finite number 
-<b>number method</b>: isinteger() | <b>number method</b> that checks whether a value is an integer 
-<b>number method</b>: isnan() | <b>number method</b> that checks whether a value is number.nan 
-<b>number method</b>: issafeinteger() | <b>number method</b> that checks whether a value is a safe integer 
-<b>number method</b>: toexponential(x) | <b>number method</b> that converts a number into an exponential notation 
-<b>number method</b>: tofixed(x) | <b>number method</b> that formats a number with x numbers of digits after the decimal point 
-<b>number method</b>: tolocalestring() | <b>number method</b> that converts a number into a string, based on the locale settings 
-<b>number method</b>: toprecision(x) | <b>number method</b> that formats a number to x length 
-<b>number method</b>: tostring() | <b>number method</b> that converts a number to a string 
-<b>number method</b>: valueof() | <b>number method</b> that returns the primitive value of a number 
-<b>number property</b>: constructor | <b>number property</b> that returns the function that created javascript's number prototype 
-<b>number property</b>: max_value | <b>number property</b> that returns the largest number possible in javascript 
-<b>number property</b>: min_value | <b>number property</b> that returns the smallest number possible in javascript 
-<b>number property</b>: negative_infinity | <b>number property</b> that represents negative infinity (returned on overflow) 
-<b>number property</b>: nan | <b>number property</b> that represents a "not-a-number" value 
-<b>number property</b>: positive_infinity | <b>number property</b> that represents infinity (returned on overflow) 
-<b>number property</b>: prototype | <b>number property</b> that allows you to add properties and methods to an object 
+<b>Number method</b>: None | <b>Number method</b> that checks whether a value is a finite number. | None |  | <div class="w3-code notranslate jsHigh"> Number.isFinite(123)<br/> </div> |  
+<b>Number method</b>: None | <b>Number method</b> that checks whether a value is an integer. | None |  | <div class="w3-code notranslate jsHigh"> Number.isInteger(123);<br/> Number.isInteger(-123);<br/> Number.isInteger('123');<br/> </div> |  
+<b>Number method</b>: None | <b>Number method</b> that checks whether a value is number.nan. | None |  | <div class="w3-code notranslate jsHigh"> Number.isNaN(123);<br/> Number.isNaN(-1.23);<br/> Number.isNaN('123');<br/> Number.isNaN(0/0); </div> |  
+<b>Number method</b>: None | <b>Number method</b> that checks whether a value is a safe integer. | None |  | <div class="w3-code notranslate jsHigh"> Number.isSafeInteger(123);<br/> Number.isSafeInteger(-123);<br/> Number.isSafeInteger('123');<br/> </div> |  
+<b>Number method</b>: None | <b>Number method</b> that converts a number into an exponential notation. | None |  | <div class="w3-code notranslate jsHigh"> let num = 5.56789;<br/> let n = num.toExponential();</div> |  
+<b>Number method</b>: None | <b>Number method</b> that formats a number with x numbers of digits after the decimal point. | None |  | <div class="w3-code notranslate jsHigh"> let num = 5.56789;<br/> let n = num.toFixed(); </div> |  
+<b>Number method</b>: None | <b>Number method</b> that converts a number into a string, based on the locale settings. | None |  | <div class="w3-code notranslate jsHigh"> let num = 1000000;<br/> let text = num.toLocaleString(); </div> |  
+<b>Number method</b>: None | <b>Number method</b> that formats a number to x length. | None |  | <div class="w3-code notranslate jsHigh"> let num = 13.3714;<br/> let n = num.toPrecision(2); </div> |  
+<b>Number method</b>: None | <b>Number method</b> that converts a number to a string. | None |  | <div class="w3-code notranslate jsHigh"> let num = 15;<br/> let text = num.toString(); </div> |  
+<b>Number method</b>: None | <b>Number method</b> that returns the primitive value of a number. | None |  | <div class="w3-code notranslate jsHigh"> let num = 15;<br/> let n = num.valueOf(); </div> |  
+<b>Number property</b>: None | <b>Number property</b> that returns the function that created javascript's number prototype. | None |  | <div class="w3-code notranslate jsHigh"> let num = 134.5;<br/> let text = num.constructor; </div> |  
+<b>Number property</b>: None | <b>Number property</b> that returns the largest number possible in javascript. | None |  | <div class="w3-code notranslate"> let x = Number.MAX_VALUE; </div> |  
+<b>Number property</b>: None | <b>Number property</b> that returns the smallest number possible in javascript. | None |  | <div class="w3-code notranslate"> let x = Number.MIN_VALUE; </div> |  
+<b>Number property</b>: None | <b>Number property</b> that represents negative infinity (returned on overflow). | None |  | <div class="w3-code notranslate"> let x = Number.NEGATIVE_INFINITY; </div> |  
+<b>Number property</b>: None | <b>Number property</b> that represents a "not-a-number" value. | None |  | <div class="w3-code jsHigh notranslate"> let x = Number.NaN; </div> |  
+<b>Number property</b>: None | <b>Number property</b> that represents infinity (returned on overflow). | None |  | <div class="w3-code notranslate"> let x = Number.POSITIVE_INFINITY; </div> |  
+<b>Number property</b>: None | <b>Number property</b> that allows you to add properties and methods to an object. | None |  | <div class="w3-code notranslate jsHigh"> Number.prototype.myMethod = function() {<br/>     return this.valueOf() / 2;<br/> };</div> |  

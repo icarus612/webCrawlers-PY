@@ -1,51 +1,51 @@
-<b>date method</b>: getdate() | <b>date method</b> that returns the day of the month (from 1-31) 
-<b>date method</b>: getday() | <b>date method</b> that returns the day of the week (from 0-6) 
-<b>date method</b>: getfullyear() | <b>date method</b> that returns the year 
-<b>date method</b>: gethours() | <b>date method</b> that returns the hour (from 0-23) 
-<b>date method</b>: getmilliseconds() | <b>date method</b> that returns the milliseconds (from 0-999) 
-<b>date method</b>: getminutes() | <b>date method</b> that returns the minutes (from 0-59) 
-<b>date method</b>: getmonth() | <b>date method</b> that returns the month (from 0-11) 
-<b>date method</b>: getseconds() | <b>date method</b> that returns the seconds (from 0-59) 
-<b>date method</b>: gettime() | <b>date method</b> that returns the number of milliseconds since midnight jan 1 1970, and a specified date 
-<b>date method</b>: gettimezoneoffset() | <b>date method</b> that returns the time difference between utc time and local time, in minutes 
-<b>date method</b>: getutcdate() | <b>date method</b> that returns the day of the month, according to universal time (from 1-31) 
-<b>date method</b>: getutcday() | <b>date method</b> that returns the day of the week, according to universal time (from 0-6) 
-<b>date method</b>: getutcfullyear() | <b>date method</b> that returns the year, according to universal time 
-<b>date method</b>: getutchours() | <b>date method</b> that returns the hour, according to universal time (from 0-23) 
-<b>date method</b>: getutcmilliseconds() | <b>date method</b> that returns the milliseconds, according to universal time (from 0-999) 
-<b>date method</b>: getutcminutes() | <b>date method</b> that returns the minutes, according to universal time (from 0-59) 
-<b>date method</b>: getutcmonth() | <b>date method</b> that returns the month, according to universal time (from 0-11) 
-<b>date method</b>: getutcseconds() | <b>date method</b> that returns the seconds, according to universal time (from 0-59) 
-<b>date method</b>: getyear() | <b>date method</b> that deprecated. use the getfullyear() method instead 
-<b>date method</b>: now() | <b>date method</b> that returns the number of milliseconds since midnight jan 1, 1970 
-<b>date method</b>: parse() | <b>date method</b> that parses a date string and returns the number of milliseconds since january 1, 1970 
-<b>date method</b>: setdate() | <b>date method</b> that sets the day of the month of a date object 
-<b>date method</b>: setfullyear() | <b>date method</b> that sets the year of a date object 
-<b>date method</b>: sethours() | <b>date method</b> that sets the hour of a date object 
-<b>date method</b>: setmilliseconds() | <b>date method</b> that sets the milliseconds of a date object 
-<b>date method</b>: setminutes() | <b>date method</b> that set the minutes of a date object 
-<b>date method</b>: setmonth() | <b>date method</b> that sets the month of a date object 
-<b>date method</b>: setseconds() | <b>date method</b> that sets the seconds of a date object 
-<b>date method</b>: settime() | <b>date method</b> that sets a date to a specified number of milliseconds after/before january 1, 1970 
-<b>date method</b>: setutcdate() | <b>date method</b> that sets the day of the month of a date object, according to universal time 
-<b>date method</b>: setutcfullyear() | <b>date method</b> that sets the year of a date object, according to universal time 
-<b>date method</b>: setutchours() | <b>date method</b> that sets the hour of a date object, according to universal time 
-<b>date method</b>: setutcmilliseconds() | <b>date method</b> that sets the milliseconds of a date object, according to universal time 
-<b>date method</b>: setutcminutes() | <b>date method</b> that set the minutes of a date object, according to universal time 
-<b>date method</b>: setutcmonth() | <b>date method</b> that sets the month of a date object, according to universal time 
-<b>date method</b>: setutcseconds() | <b>date method</b> that set the seconds of a date object, according to universal time 
-<b>date method</b>: setyear() | <b>date method</b> that deprecated. use the setfullyear() method instead 
-<b>date method</b>: todatestring() | <b>date method</b> that converts the date portion of a date object into a readable string 
-<b>date method</b>: togmtstring() | <b>date method</b> that deprecated. use the toutcstring() method instead 
-<b>date method</b>: toisostring() | <b>date method</b> that returns the date as a string, using the iso standard 
-<b>date method</b>: tojson() | <b>date method</b> that returns the date as a string, formatted as a json date 
-<b>date method</b>: tolocaledatestring() | <b>date method</b> that returns the date portion of a date object as a string, using locale conventions 
-<b>date method</b>: tolocaletimestring() | <b>date method</b> that returns the time portion of a date object as a string, using locale conventions 
-<b>date method</b>: tolocalestring() | <b>date method</b> that converts a date object to a string, using locale conventions 
-<b>date method</b>: tostring() | <b>date method</b> that converts a date object to a string 
-<b>date method</b>: totimestring() | <b>date method</b> that converts the time portion of a date object to a string 
-<b>date method</b>: toutcstring() | <b>date method</b> that converts a date object to a string, according to universal time 
-<b>date method</b>: utc() | <b>date method</b> that returns the number of milliseconds in a date since midnight of january 1, 1970, according to utc time 
-<b>date method</b>: valueof() | <b>date method</b> that returns the primitive value of a date object 
-<b>date property</b>: constructor | <b>date property</b> that returns the function that created the date object's prototype 
-<b>date property</b>: prototype | <b>date property</b> that allows you to add properties and methods to an object 
+<b>Date method</b>: None | <b>Date method</b> that returns the day of the month (from 1-31). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let day = d.getDate(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the day of the week (from 0-6). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let day = d.getDay(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the year. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let year = d.getFullYear(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the hour (from 0-23). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let hour = d.getHours(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the milliseconds (from 0-999). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let ms = d.getMilliseconds(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the minutes (from 0-59). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let minutes = d.getMinutes(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the month (from 0-11). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let month = d.getMonth(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the seconds (from 0-59). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let seconds = d.getSeconds(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the number of milliseconds since midnight jan 1 1970, and a specified date. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let time = d.getTime(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the time difference between utc time and local time, in minutes. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let diff = d.getTimezoneOffset();<br/> </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the day of the month, according to universal time (from 1-31). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let day = d.getUTCDate(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the day of the week, according to universal time (from 0-6). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let day = d.getUTCDay(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the year, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let year = d.getUTCFullYear(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the hour, according to universal time (from 0-23). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let hour = d.getUTCHours(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the milliseconds, according to universal time (from 0-999). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let ms = d.getUTCMilliseconds(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the minutes, according to universal time (from 0-59). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let minutes = d.getUTCMinutes(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the month, according to universal time (from 0-11). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let month = d.getUTCMonth(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the seconds, according to universal time (from 0-59). | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let seconds = d.getUTCSeconds(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that deprecated. use the getfullyear() method instead. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let year = d.getFullYear(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the number of milliseconds since midnight jan 1, 1970. | None |  | <div class="w3-code notranslate jsHigh"> let ms = Date.now(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that parses a date string and returns the number of milliseconds since january 1, 1970. | None |  | <div class="w3-code notranslate jsHigh"> let ms = Date.parse("March 21, 2012"); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the day of the month of a date object. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setDate(15); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the year of a date object. | None |  | <div class="w3-code notranslat jsHigh"> const d = new Date();<br/> d.setFullYear(2020); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the hour of a date object. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setHours(15); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the milliseconds of a date object. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setMilliseconds(192);<br/> </div> |  
+<b>Date method</b>: None | <b>Date method</b> that set the minutes of a date object. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setMinutes(17); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the month of a date object. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setMonth(4); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the seconds of a date object. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setSeconds(35); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets a date to a specified number of milliseconds after/before january 1, 1970. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setTime(1332403882588); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the day of the month of a date object, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setUTCDate(15); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the year of a date object, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setUTCFullYear(2015); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the hour of a date object, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setUTCHours(15); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the milliseconds of a date object, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setUTCMilliseconds(192);<br/> </div> |  
+<b>Date method</b>: None | <b>Date method</b> that set the minutes of a date object, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setUTCMinutes(17); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that sets the month of a date object, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setUTCMonth(4); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that set the seconds of a date object, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> d.setUTCSeconds(35); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that deprecated. use the setfullyear() method instead. | None |  | <div class="w3-code notranslat jsHigh"> const d = new Date();<br/> d.setFullYear(2020); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that converts the date portion of a date object into a readable string. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toDateString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that deprecated. use the toutcstring() method instead. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toUTCString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the date as a string, using the iso standard. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toISOString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the date as a string, formatted as a json date. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toJSON(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the date portion of a date object as a string, using locale conventions. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toLocaleDateString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the time portion of a date object as a string, using locale conventions. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toLocaleTimeString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that converts a date object to a string, using locale conventions. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toLocaleString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that converts a date object to a string. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that converts the time portion of a date object to a string. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toTimeString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that converts a date object to a string, according to universal time. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.toUTCString(); </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the number of milliseconds in a date since midnight of january 1, 1970, according to utc time. | None |  | <div class="w3-code notranslate jsHigh"> let ms = Date.UTC(2020, 02, 30);<br/> </div> |  
+<b>Date method</b>: None | <b>Date method</b> that returns the primitive value of a date object. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let ms = d.valueOf(); </div> |  
+<b>Date property</b>: None | <b>Date property</b> that returns the function that created the date object's prototype. | None |  | <div class="w3-code notranslate jsHigh"> const d = new Date();<br/> let text = d.constructor; </div> |  
+<b>Date property</b>: None | <b>Date property</b> that allows you to add properties and methods to an object. | None |  | <div class="w3-code notranslate jsHigh"> Date.prototype.myMonth = function()<br/> {<br/> if (this.getMonth()==0) {return "January"};<br/> if (this.getMonth()==1) {return "February"};<br/> if (this.getMonth()==2) {return "March"};<br/> if (this.getMonth()==3) {return "April"};<br/> if (this.getMonth()==4) {return "May"};<br/> if (this.getMonth()==5) {return "June"};<br/> if (this.getMonth()==6) {return "July"};<br/> if (this.getMonth()==7) {return "August"};<br/> if (this.getMonth()==8) {return "September"};<br/> if (this.getMonth()==9) {return "October"};<br/> if (this.getMonth()==10) {return "November"};<br/> if (this.getMonth()==11) {return "December"};<br/> } </div> |  
