@@ -30,7 +30,10 @@ for url in url_arr:
 					print(e)
 				back_basic = f'{bold} that {b[1].lower()}.'
 				additional_info = ""
-				example = ref.find("div", {"class": "w3-example"}).find("div", {"class": "w3-code"})
+				try: 
+					example = ref.find("div", {"class": "w3-example"}).find("div", {"class": "w3-code"})
+				except NoneType:
+					example = ""
 				version = ""
 				cards.append(" ".join(f'{front} | {back_basic} | {back_extended} | {additional_info} | {example} | {version}'.splitlines()))
 	with open(f'{getcwd()}/output/{url}.txt', 'w') as file:
