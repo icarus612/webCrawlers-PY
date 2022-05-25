@@ -5,7 +5,10 @@ import re
 
 # front, back, example, 
 url_arr = ["array", "string", "number", "math", "date", "global", "regexp", "classes", "error", "boolean", "operators", "statements", "json"]
- 
+try: 
+	mkdir(f'{getcwd()}/output/')
+except FileExistsError:
+	pass	
 for url in url_arr:
 	print(url)
 	cards = []
@@ -30,11 +33,5 @@ for url in url_arr:
 				example = ref.find("div", {"class": "w3-example"}).find("div", {"class": "w3-code"})
 				version = ""
 				cards.append(" ".join(f'{front} | {back_basic} | {back_extended} | {additional_info} | {example} | {version}'.splitlines()))
-	try: 
-		mkdir(f'{getcwd()}/output/')
-	except FileExistsError:
-		pass	
-	
-
 	with open(f'{getcwd()}/output/{url}.txt', 'w') as file:
 		file.writelines([f'{i} \n' for i in cards])
