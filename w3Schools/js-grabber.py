@@ -10,7 +10,7 @@ try:
 except FileExistsError:
 	pass	
 
-for url in url_arr[0:1]:
+for url in url_arr:
 	print(f'getting the content for {url}')
 	cards = []
 	res = soup(requests.get(f'https://www.w3schools.com/jsref/jsref_obj_{url}.asp').content, 'html.parser')
@@ -31,11 +31,11 @@ for url in url_arr[0:1]:
 					print(e)
 				back_basic = f'{bold} that {b[1].lower()}.'
 				additional_info = ''
+				version = ''
 				try: 
 					example = ref.find('div', {'class': 'w3-example'}).find('div', {'class': 'w3-code'}).decode_contents().strip()
 				except AttributeError:
 					example = ''
-				version = ''
 				cards.append(' '.join(f'{front} | {back_basic} | {back_extended} | {additional_info} | {example} | {version}'.splitlines()))
 	with open(f'{getcwd()}/output/{url}.txt', 'w') as file:
 		file.writelines([f'{i} \n' for i in cards])
