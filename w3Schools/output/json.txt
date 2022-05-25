@@ -5066,7 +5066,7 @@ decodeuricomponent()</div>
 					<div id="" items"">
 						<div id="" path""></div>
 						<div id="" deck"">JavaScript > regexp</div>
-						<div id="" front""><b>regexp metacharacter</b>: \t</div>
+						<div id="" front""><b>regexp metacharacter</b>: |</div>
 					</div>
 					
 					<script>
@@ -5075,7 +5075,7 @@ decodeuricomponent()</div>
 					<div id="" items"">
 						<div id="" path""></div>
 						<div id="" deck"">JavaScript > regexp</div>
-						<div id="" front""><b>regexp metacharacter</b>: \t</div>
+						<div id="" front""><b>regexp metacharacter</b>: |</div>
 						<div id="" back""><b>regexp metacharacter</b> that find a tab character</div>
 						<div id="" additional-info""></div>
 						<div id="" options""></div>

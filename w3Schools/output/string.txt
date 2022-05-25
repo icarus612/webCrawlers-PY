@@ -1,41 +1,41 @@
-<b>string method</b>: charat() | <b>string method</b> that returns the character at a specified index (position) 
-<b>string method</b>: charcodeat() | <b>string method</b> that returns the unicode of the character at a specified index 
-<b>string method</b>: concat() | <b>string method</b> that returns two or more joined strings 
-<b>string method</b>: endswith() | <b>string method</b> that returns if a string ends with a specified value 
-<b>string method</b>: fromcharcode() | <b>string method</b> that returns unicode values as characters 
-<b>string method</b>: includes() | <b>string method</b> that returns if a string contains a specified value 
-<b>string method</b>: indexof() | <b>string method</b> that returns the index (position) of the first occurrence of a value in a string 
-<b>string method</b>: lastindexof() | <b>string method</b> that returns the index (position) of the last occurrence of a value in a string 
-<b>string method</b>: localecompare() | <b>string method</b> that compares two strings in the current locale 
-<b>string method</b>: match() | <b>string method</b> that searches a string for a value, or a regular expression, and returns the matches 
-<b>string method</b>: repeat() | <b>string method</b> that returns a new string with a number of copies of a string 
-<b>string method</b>: replace() | <b>string method</b> that searches a string for a value, or a regular expression, and returns a string where the values are replaced 
-<b>string method</b>: search() | <b>string method</b> that searches a string for a value, or regular expression, and returns the index (position) of the match 
-<b>string method</b>: slice() | <b>string method</b> that extracts a part of a string and returns a new string 
-<b>string method</b>: split() | <b>string method</b> that splits a string into an array of substrings 
-<b>string method</b>: startswith() | <b>string method</b> that checks whether a string begins with specified characters 
-<b>string method</b>: substr() | <b>string method</b> that extracts a number of characters from a string, from a start index (position) 
-<b>string method</b>: substring() | <b>string method</b> that extracts characters from a string, between two specified indices (positions) 
-<b>string method</b>: tolocalelowercase() | <b>string method</b> that returns a string converted to lowercase letters, using the host's locale 
-<b>string method</b>: tolocaleuppercase() | <b>string method</b> that returns a string converted to uppercase letters, using the host's locale 
-<b>string method</b>: tolowercase() | <b>string method</b> that returns a string converted to lowercase letters 
-<b>string method</b>: tostring() | <b>string method</b> that returns a string or a string object as a string 
-<b>string method</b>: touppercase() | <b>string method</b> that returns a string converted to uppercase letters 
-<b>string method</b>: trim() | <b>string method</b> that returns a string with removed whitespaces 
-<b>string method</b>: valueof() | <b>string method</b> that returns the primitive value of a string or a string object 
-<b>string property</b>: constructor | <b>string property</b> that returns the string's constructor function 
-<b>string property</b>: length | <b>string property</b> that returns the length of a string 
-<b>string property</b>: prototype | <b>string property</b> that allows you to add properties and methods to an object 
-<b>string method</b>: anchor() | <b>string method</b> that displays a string as an anchor 
-<b>string method</b>: big() | <b>string method</b> that displays a string using a big font 
-<b>string method</b>: blink() | <b>string method</b> that displays a blinking string 
-<b>string method</b>: bold() | <b>string method</b> that displays a string in bold 
-<b>string method</b>: fixed() | <b>string method</b> that displays a string using a fixed-pitch font 
-<b>string method</b>: fontcolor() | <b>string method</b> that displays a string using a specified color 
-<b>string method</b>: fontsize() | <b>string method</b> that displays a string using a specified size 
-<b>string method</b>: italics() | <b>string method</b> that displays a string in italic 
-<b>string method</b>: link() | <b>string method</b> that displays a string as a hyperlink 
-<b>string method</b>: small() | <b>string method</b> that displays a string using a small font 
-<b>string method</b>: strike() | <b>string method</b> that displays a string with a strikethrough 
-<b>string method</b>: sub() | <b>string method</b> that displays a string as subscript text 
-<b>string method</b>: sup() | <b>string method</b> that displays a string as superscript text 
+<b>String method</b>: <div> <i>string</i>.charAt(<em>index</em>)</div> | <b>String method</b> that returns the character at a specified index (position). | <div> <i>string</i>.charAt(<em>index</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.charCodeAt(<em>index</em>)</div> | <b>String method</b> that returns the unicode of the character at a specified index. | <div> <i>string</i>.charCodeAt(<em>index</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.concat(<em>string1</em>, <em>string2</em>, ..., <em>stringX</em>)</div> | <b>String method</b> that returns two or more joined strings. | <div> <i>string</i>.concat(<em>string1</em>, <em>string2</em>, ..., <em>stringX</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.endsWith(<em>searchvalue</em>,<em> length</em>)</div> | <b>String method</b> that returns if a string ends with a specified value. | <div> <i>string</i>.endsWith(<em>searchvalue</em>,<em> length</em>)</div> |  | None |  
+<b>String method</b>: <div> String.fromCharCode(<em>n1</em>, <em>n2</em>, ..., <em>nX</em>)</div> | <b>String method</b> that returns unicode values as characters. | <div> String.fromCharCode(<em>n1</em>, <em>n2</em>, ..., <em>nX</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.includes(<em>searchvalue</em>,<em> start</em>)</div> | <b>String method</b> that returns if a string contains a specified value. | <div> <i>string</i>.includes(<em>searchvalue</em>,<em> start</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.indexOf(<em>searchvalue</em>,<em> start</em>)</div> | <b>String method</b> that returns the index (position) of the first occurrence of a value in a string. | <div> <i>string</i>.indexOf(<em>searchvalue</em>,<em> start</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.lastIndexOf(<em>searchvalue</em>,<em> start</em>) </div> | <b>String method</b> that returns the index (position) of the last occurrence of a value in a string. | <div> <i>string</i>.lastIndexOf(<em>searchvalue</em>,<em> start</em>) </div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.localeCompare(<em>compareString</em>)</div> | <b>String method</b> that compares two strings in the current locale. | <div> <i>string</i>.localeCompare(<em>compareString</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.match(<em>match</em>)</div> | <b>String method</b> that searches a string for a value, or a regular expression, and returns the matches. | <div> <i>string</i>.match(<em>match</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.repeat(<em>count</em>)</div> | <b>String method</b> that returns a new string with a number of copies of a string. | <div> <i>string</i>.repeat(<em>count</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.replace(<i>searchValue, newValue</i>)</div> | <b>String method</b> that searches a string for a value, or a regular expression, and returns a string where the values are replaced. | <div> <i>string</i>.replace(<i>searchValue, newValue</i>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.search(<em>searchValue</em>)</div> | <b>String method</b> that searches a string for a value, or regular expression, and returns the index (position) of the match. | <div> <i>string</i>.search(<em>searchValue</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.slice(<em>start</em>,<em> end</em>)</div> | <b>String method</b> that extracts a part of a string and returns a new string. | <div> <i>string</i>.slice(<em>start</em>,<em> end</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.split(<em>separator</em>,<em> limit</em>)</div> | <b>String method</b> that splits a string into an array of substrings. | <div> <i>string</i>.split(<em>separator</em>,<em> limit</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.startsWith(<em>searchValue</em>,<em> start</em>)</div> | <b>String method</b> that checks whether a string begins with specified characters. | <div> <i>string</i>.startsWith(<em>searchValue</em>,<em> start</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.substr(<em>start</em>,<em> length</em>)</div> | <b>String method</b> that extracts a number of characters from a string, from a start index (position). | <div> <i>string</i>.substr(<em>start</em>,<em> length</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.substring(<em>start, end</em>)</div> | <b>String method</b> that extracts characters from a string, between two specified indices (positions). | <div> <i>string</i>.substring(<em>start, end</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.toLocaleLowerCase()</div> | <b>String method</b> that returns a string converted to lowercase letters, using the host's locale. | <div> <i>string</i>.toLocaleLowerCase()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.toLocaleUpperCase()</div> | <b>String method</b> that returns a string converted to uppercase letters, using the host's locale. | <div> <i>string</i>.toLocaleUpperCase()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.toLowerCase()</div> | <b>String method</b> that returns a string converted to lowercase letters. | <div> <i>string</i>.toLowerCase()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.toString()</div> | <b>String method</b> that returns a string or a string object as a string. | <div> <i>string</i>.toString()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.toUpperCase()</div> | <b>String method</b> that returns a string converted to uppercase letters. | <div> <i>string</i>.toUpperCase()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.trim()</div> | <b>String method</b> that returns a string with removed whitespaces. | <div> <i>string</i>.trim()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.valueOf()</div> | <b>String method</b> that returns the primitive value of a string or a string object. | <div> <i>string</i>.valueOf()</div> |  | None |  
+<b>String property</b>: <div> <i>string</i>.constructor</div> | <b>String property</b> that returns the string's constructor function. | <div> <i>string</i>.constructor</div> |  | None |  
+<b>String property</b>: <div> <i>string</i>.length</div> | <b>String property</b> that returns the length of a string. | <div> <i>string</i>.length</div> |  | None |  
+<b>String property</b>: <div> <em>object</em>.prototype.<em>name</em> = <em>value</em></div> | <b>String property</b> that allows you to add properties and methods to an object. | <div> <em>object</em>.prototype.<em>name</em> = <em>value</em></div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.anchor("<em>name</em>")</div> | <b>String method</b> that displays a string as an anchor. | <div> <i>string</i>.anchor("<em>name</em>")</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.big()</div> | <b>String method</b> that displays a string using a big font. | <div> <i>string</i>.big()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.blink()</div> | <b>String method</b> that displays a blinking string. | <div> <i>string</i>.blink()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.bold()</div> | <b>String method</b> that displays a string in bold. | <div> <i>string</i>.bold()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.fixed()</div> | <b>String method</b> that displays a string using a fixed-pitch font. | <div> <i>string</i>.fixed()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.fontcolor("<em>color</em>")</div> | <b>String method</b> that displays a string using a specified color. | <div> <i>string</i>.fontcolor("<em>color</em>")</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.fontsize(<em>size</em>)</div> | <b>String method</b> that displays a string using a specified size. | <div> <i>string</i>.fontsize(<em>size</em>)</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.italics()</div> | <b>String method</b> that displays a string in italic. | <div> <i>string</i>.italics()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.link("<em>url</em>")</div> | <b>String method</b> that displays a string as a hyperlink. | <div> <i>string</i>.link("<em>url</em>")</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.small()</div> | <b>String method</b> that displays a string using a small font. | <div> <i>string</i>.small()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.strike()</div> | <b>String method</b> that displays a string with a strikethrough. | <div> <i>string</i>.strike()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.sub()</div> | <b>String method</b> that displays a string as subscript text. | <div> <i>string</i>.sub()</div> |  | None |  
+<b>String method</b>: <div> <i>string</i>.sup()</div> | <b>String method</b> that displays a string as superscript text. | <div> <i>string</i>.sup()</div> |  | None |  
