@@ -17,11 +17,14 @@ make_folder('output/')
 for idx, t in enumerate(title_arr):
 	title = "".join(t.title().split())
 	make_folder(f'output/{title}')	
-
 	for url in url_arr[idx]:
 		print(f'getting the content for {url}')
 		cards = []
-		res = soup(requests.get(f'https://www.w3schools.com/jsref/{url}').content, 'html.parser')
+		try:
+			res = soup(requests.get(f'https://www.w3schools.com/jsref/{url}').content, 'html.parser')
+		except:
+			url_arr[idx].append(url)
+			continue
 		for table in res.find_all('table', {'class': 'ws-table-all'}):
 			bold = ''
 			for tr in table.find_all('tr'):
