@@ -21,7 +21,7 @@ for idx, t in enumerate(title_arr):
 	for url in url_arr[idx]:
 		print(f'getting the content for {url}')
 		cards = []
-		res = soup(requests.get(f'https://www.w3schools.com/jsref/{url}.asp').content, 'html.parser')
+		res = soup(requests.get(f'https://www.w3schools.com/jsref/{url}').content, 'html.parser')
 		for table in res.find_all('table', {'class': 'ws-table-all'}):
 			bold = ''
 			for tr in table.find_all('tr'):
