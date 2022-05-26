@@ -11,11 +11,11 @@ def make_folder(name):
 
 home_page =  soup(requests.get('https://www.w3schools.com/jsref/default.asp').content, 'html.parser')
 url_arr = [[a['href'] for a in div.find_all('a')] for div in home_page.find_all("div", {'class': 'refcont'})][0:4]
-title_arr = [h2.text for h2 in home_page.find_all("h2")][0:4]
+title_arr = ['Built-in Objects', 'Window', 'DOM', 'Web Api', 'Window']
 make_folder('output/')	
 
 for idx, t in enumerate(title_arr):
-	title = "".join(t.title().split())
+	title = "".join(t.split())
 	make_folder(f'output/{title}')	
 	for url in url_arr[idx]:
 		print(f'getting the content for {url}')
