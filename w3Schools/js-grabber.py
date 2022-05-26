@@ -10,7 +10,7 @@ def make_folder(name):
 		pass	
 
 home_page =  soup(requests.get('https://www.w3schools.com/jsref/default.asp').content, 'html.parser')
-url_arr = [[a['href'] for a in div.find_all('a')] for div in home_page.find_all("div", {'class': 'refcont'})][0:4]
+url_arr = [[a['href'] for a in div.find_all('a')] for div in home_page.find_all("div", {'class': 'refcont'})]
 title_arr = ['Built-in Objects', 'Window', 'DOM', 'Web Api', 'Window']
 make_folder('output/')	
 
