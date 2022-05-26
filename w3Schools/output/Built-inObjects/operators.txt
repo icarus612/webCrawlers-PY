@@ -1,0 +1,33 @@
+<b>Jsref_operators.asp operator</b>: + | <b>Jsref_operators.asp operator</b> that addition. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: - | <b>Jsref_operators.asp operator</b> that subtraction. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: * | <b>Jsref_operators.asp operator</b> that multiplication. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: * | <b>Jsref_operators.asp operator</b> that exponentiation (es2016). |  |  |  |  
+<b>Jsref_operators.asp operator</b>: / | <b>Jsref_operators.asp operator</b> that division. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: % | <b>Jsref_operators.asp operator</b> that modulus (division remainder). |  |  |  |  
+<b>Jsref_operators.asp operator</b>: ++ | <b>Jsref_operators.asp operator</b> that increment. |  |  |  |  
+<b>Jsref_operators.asp operator</b>:  | <b>Jsref_operators.asp operator</b> that . |  |  |  |  
+<b>Jsref_operators.asp operator</b>: -- | <b>Jsref_operators.asp operator</b> that decrement. |  |  |  |  
+<b>Jsref_operators.asp operator</b>:  | <b>Jsref_operators.asp operator</b> that . |  |  |  |  
+<b>Jsref_operators.asp operator</b>: = | <b>Jsref_operators.asp operator</b> that x = y. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: += | <b>Jsref_operators.asp operator</b> that x += y. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: -= | <b>Jsref_operators.asp operator</b> that x -= y. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: *= | <b>Jsref_operators.asp operator</b> that x *= y. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: /= | <b>Jsref_operators.asp operator</b> that x /= y. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: %= | <b>Jsref_operators.asp operator</b> that x %= y. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: + | <b>Jsref_operators.asp operator</b> that text3 = text1 + text2 . |  |  |  |  
+<b>Jsref_operators.asp operator</b>: += | <b>Jsref_operators.asp operator</b> that text1 += text2 . |  |  |  |  
+<b>Jsref_operators.asp operator</b>: == | <b>Jsref_operators.asp operator</b> that equal to. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: x == 5 | <b>Jsref_operators.asp operator</b> that true. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: === | <b>Jsref_operators.asp operator</b> that equal value and equal type. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: x === 5 | <b>Jsref_operators.asp operator</b> that true. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: != | <b>Jsref_operators.asp operator</b> that not equal. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: !== | <b>Jsref_operators.asp operator</b> that not equal value or not equal type. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: x !== 5 | <b>Jsref_operators.asp operator</b> that false. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: > | <b>Jsref_operators.asp operator</b> that greater than. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: < | <b>Jsref_operators.asp operator</b> that less than. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: >= | <b>Jsref_operators.asp operator</b> that greater than or equal to. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: <= | <b>Jsref_operators.asp operator</b> that less than or equal to. |  |  |  |  
+<b>Jsref_operators.asp syntax</b>:  variablename = (condition) ? value1:value2 | <b>Jsref_operators.asp syntax</b> that  voteable = (age < 18) ? "too young":"old enough";. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: && | <b>Jsref_operators.asp operator</b> that and. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: || | <b>Jsref_operators.asp operator</b> that or. |  |  |  |  
+<b>Jsref_operators.asp operator</b>: ! | <b>Jsref_operators.asp operator</b> that not. |  |  |  |  

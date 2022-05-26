@@ -1,0 +1,17 @@
+<b>Obj_events.asp event object</b>: event | <b>Obj_events.asp event object</b> that the parent of all event objects. |  |  |  |  
+<b>Obj_events.asp event object</b>: animationevent | <b>Obj_events.asp event object</b> that for css animations. |  |  |  |  
+<b>Obj_events.asp event object</b>: clipboardevent | <b>Obj_events.asp event object</b> that for modification of the clipboard. |  |  |  |  
+<b>Obj_events.asp event object</b>: dragevent | <b>Obj_events.asp event object</b> that for drag and drop interaction. |  |  |  |  
+<b>Obj_events.asp event object</b>: focusevent | <b>Obj_events.asp event object</b> that for focus-related events. |  |  |  |  
+<b>Obj_events.asp event object</b>: hashchangeevent | <b>Obj_events.asp event object</b> that for changes in the anchor part of the url. |  |  |  |  
+<b>Obj_events.asp event object</b>: inputevent | <b>Obj_events.asp event object</b> that for user input. |  |  |  |  
+<b>Obj_events.asp event object</b>: keyboardevent | <b>Obj_events.asp event object</b> that for keyboard interaction. |  |  |  |  
+<b>Obj_events.asp event object</b>: mouseevent | <b>Obj_events.asp event object</b> that for mouse interaction. |  |  |  |  
+<b>Obj_events.asp event object</b>: pagetransitionevent | <b>Obj_events.asp event object</b> that for navigating to, and away from, web pages. |  |  |  |  
+<b>Obj_events.asp event object</b>: popstateevent | <b>Obj_events.asp event object</b> that for changes in the history entry. |  |  |  |  
+<b>Obj_events.asp event object</b>: progressevent | <b>Obj_events.asp event object</b> that for the progress of loading external resources. |  |  |  |  
+<b>Obj_events.asp event object</b>: storageevent | <b>Obj_events.asp event object</b> that for changes in the window's storage area.. |  |  |  |  
+<b>Obj_events.asp event object</b>: touchevent | <b>Obj_events.asp event object</b> that for touch interaction. |  |  |  |  
+<b>Obj_events.asp event object</b>: transitionevent | <b>Obj_events.asp event object</b> that for css transitions. |  |  |  |  
+<b>Obj_events.asp event object</b>: uievent | <b>Obj_events.asp event object</b> that for user interface interaction. |  |  |  |  
+<b>Obj_events.asp event object</b>: wheelevent | <b>Obj_events.asp event object</b> that for mousewheel interaction. |  |  |  |  

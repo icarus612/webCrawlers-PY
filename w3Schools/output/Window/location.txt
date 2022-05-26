@@ -1,0 +1,12 @@
+<b>Obj_location.asp property</b>: hash | <b>Obj_location.asp property</b> that sets or returns the anchor part (#) of a url. |  |  | &lt;a href="/js/js_strings.asp#part2"&gt;JavaScript Strings&lt;/a&gt; |  
+<b>Obj_location.asp property</b>: host | <b>Obj_location.asp property</b> that sets or returns the hostname and port number of a url. |  |  | let host = location.host; |  
+<b>Obj_location.asp property</b>: hostname | <b>Obj_location.asp property</b> that sets or returns the hostname of a url. |  |  | let hostname = location.hostname; |  
+<b>Obj_location.asp property</b>: href | <b>Obj_location.asp property</b> that sets or returns the entire url. |  |  | let url = location.href; |  
+<b>Obj_location.asp property</b>: location.origin | <b>Obj_location.asp property</b> that returns the protocol, hostname and port number of a url. | location.origin |  | let origin = location.origin; |  
+<b>Obj_location.asp property</b>: pathname | <b>Obj_location.asp property</b> that sets or returns the path name of a url. |  |  | let path x = location.pathname; |  
+<b>Obj_location.asp property</b>: port | <b>Obj_location.asp property</b> that sets or returns the port number of a url. |  |  | let port = location.port; |  
+<b>Obj_location.asp property</b>: protocol | <b>Obj_location.asp property</b> that sets or returns the protocol of a url. |  |  | let protocol = location.protocol; |  
+<b>Obj_location.asp property</b>: search | <b>Obj_location.asp property</b> that sets or returns the querystring part of a url. |  |  | let query = location.search; |  
+<b>Obj_location.asp method</b>: location.assign(<i>URL</i>) | <b>Obj_location.asp method</b> that loads a new document. | location.assign(<i>URL</i>) |  | location.assign("https://www.w3schools.com"); |  
+<b>Obj_location.asp method</b>: location.reload() | <b>Obj_location.asp method</b> that reloads the current document. | location.reload() |  | location.reload(); |  
+<b>Obj_location.asp method</b>: location.replace(<em>newURL</em>) | <b>Obj_location.asp method</b> that replaces the current document with a new one. | location.replace(<em>newURL</em>) |  | location.replace("https://www.w3schools.com");<br/> |  
