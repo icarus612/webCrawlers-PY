@@ -27,7 +27,7 @@ for idx, t in enumerate(title_arr):
 			for tr in table.find_all('tr'):
 				if len(tr.find_all('th')) > 0: 
 					bold = f'<b>{url.capitalize()} {tr.find("th").text.lower()}</b>'
-				else:		
+				elif tr.find('a'):		
 					ref = soup(requests.get(f'https://www.w3schools.com/jsref/{tr.find("a")["href"]}').content, 'html.parser')
 					b = [i.text for i in tr.find_all('td')]
 					try: 		
@@ -36,7 +36,7 @@ for idx, t in enumerate(title_arr):
 					except Exception as e:
 						back_extended = ''
 						front = f'{bold}: {b[0].lower()}'
-						print(e)
+						print(f'back content error: {e}')
 					back_basic = f'{bold} that {b[1].lower()}.'
 					additional_info = ''
 					version = ''
