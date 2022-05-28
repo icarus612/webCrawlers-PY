@@ -1,0 +1,17 @@
+<b>Event objects event object</b>: event | <b>Event objects event object</b> that the parent of all event objects. |  |  |  |  
+<b>Event objects event object</b>: animationevent | <b>Event objects event object</b> that for css animations. |  |  |  |  
+<b>Event objects event object</b>: clipboardevent | <b>Event objects event object</b> that for modification of the clipboard. |  |  |  |  
+<b>Event objects event object</b>: dragevent | <b>Event objects event object</b> that for drag and drop interaction. |  |  |  |  
+<b>Event objects event object</b>: focusevent | <b>Event objects event object</b> that for focus-related events. |  |  |  |  
+<b>Event objects event object</b>: hashchangeevent | <b>Event objects event object</b> that for changes in the anchor part of the url. |  |  |  |  
+<b>Event objects event object</b>: inputevent | <b>Event objects event object</b> that for user input. |  |  |  |  
+<b>Event objects event object</b>: keyboardevent | <b>Event objects event object</b> that for keyboard interaction. |  |  |  |  
+<b>Event objects event object</b>: mouseevent | <b>Event objects event object</b> that for mouse interaction. |  |  |  |  
+<b>Event objects event object</b>: pagetransitionevent | <b>Event objects event object</b> that for navigating to, and away from, web pages. |  |  |  |  
+<b>Event objects event object</b>: popstateevent | <b>Event objects event object</b> that for changes in the history entry. |  |  |  |  
+<b>Event objects event object</b>: progressevent | <b>Event objects event object</b> that for the progress of loading external resources. |  |  |  |  
+<b>Event objects event object</b>: storageevent | <b>Event objects event object</b> that for changes in the window's storage area.. |  |  |  |  
+<b>Event objects event object</b>: touchevent | <b>Event objects event object</b> that for touch interaction. |  |  |  |  
+<b>Event objects event object</b>: transitionevent | <b>Event objects event object</b> that for css transitions. |  |  |  |  
+<b>Event objects event object</b>: uievent | <b>Event objects event object</b> that for user interface interaction. |  |  |  |  
+<b>Event objects event object</b>: wheelevent | <b>Event objects event object</b> that for mousewheel interaction. |  |  |  |  
