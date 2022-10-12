@@ -39,7 +39,7 @@ for idx, t in enumerate(title_arr):
 					except Exception as e:
 						back_extended = ''
 						front = f'{bold}: {b[0].lower()}'
-						print(f'back content error: {e}')
+						print(f'Error at {ref.find("h2", text="Syntax")}: {e}')
 					back_basic = f'{bold} that {b[1].lower()}.'
 					additional_info = ''
 					version = ''

@@ -1,0 +1,41 @@
+<b>Operators oper</b>: + | <b>Operators oper</b> that addition. |  |  |  |  
+<b>Operators oper</b>: - | <b>Operators oper</b> that subtraction. |  |  |  |  
+<b>Operators oper</b>: * | <b>Operators oper</b> that multiplication. |  |  |  |  
+<b>Operators oper</b>: ** | <b>Operators oper</b> that exponentiationes2016. |  |  |  |  
+<b>Operators oper</b>: / | <b>Operators oper</b> that division. |  |  |  |  
+<b>Operators oper</b>: % | <b>Operators oper</b> that modulus(remainder). |  |  |  |  
+<b>Operators oper</b>: ++ | <b>Operators oper</b> that pre increment. |  |  |  |  
+<b>Operators oper</b>: ++ | <b>Operators oper</b> that post increment. |  |  |  |  
+<b>Operators oper</b>: -- | <b>Operators oper</b> that pre decrement. |  |  |  |  
+<b>Operators oper</b>: -- | <b>Operators oper</b> that post decrement. |  |  |  |  
+<b>Operators oper</b>: = | <b>Operators oper</b> that x = y. |  |  |  |  
+<b>Operators oper</b>: += | <b>Operators oper</b> that x += y. |  |  |  |  
+<b>Operators oper</b>: -= | <b>Operators oper</b> that x -= y. |  |  |  |  
+<b>Operators oper</b>: *= | <b>Operators oper</b> that x *= y. |  |  |  |  
+<b>Operators oper</b>: /= | <b>Operators oper</b> that x /= y. |  |  |  |  
+<b>Operators oper</b>: %= | <b>Operators oper</b> that x %= y. |  |  |  |  
+<b>Operators oper</b>: : | <b>Operators oper</b> that x: 45. |  |  |  |  
+<b>Operators oper</b>: + | <b>Operators oper</b> that t3 = t1 + t2. |  |  |  |  
+<b>Operators oper</b>: += | <b>Operators oper</b> that t1 += t2. |  |  |  |  
+<b>Operators oper</b>: == | <b>Operators oper</b> that equal to. |  |  |  |  
+<b>Operators oper</b>: == | <b>Operators oper</b> that equal to. |  |  |  |  
+<b>Operators oper</b>: === | <b>Operators oper</b> that equal value and type. |  |  |  |  
+<b>Operators oper</b>: === | <b>Operators oper</b> that equal value and type. |  |  |  |  
+<b>Operators oper</b>: != | <b>Operators oper</b> that not equal. |  |  |  |  
+<b>Operators oper</b>: !== | <b>Operators oper</b> that not equal value or type. |  |  |  |  
+<b>Operators oper</b>: !== | <b>Operators oper</b> that not equal value or type. |  |  |  |  
+<b>Operators oper</b>: > | <b>Operators oper</b> that greater than. |  |  |  |  
+<b>Operators oper</b>: < | <b>Operators oper</b> that less than. |  |  |  |  
+<b>Operators oper</b>: >= | <b>Operators oper</b> that greater or equal to. |  |  |  |  
+<b>Operators oper</b>: <= | <b>Operators oper</b> that less or equal to. |  |  |  |  
+<b>Operators syntax</b>:  (condition) ? x : y | <b>Operators syntax</b> that (z < 18) ? x : y. |  |  |  |  
+<b>Operators oper</b>: && | <b>Operators oper</b> that and. |  |  |  |  
+<b>Operators oper</b>: || | <b>Operators oper</b> that or. |  |  |  |  
+<b>Operators oper</b>: ! | <b>Operators oper</b> that not. |  |  |  |  
+<b>Operators oper</b>: & | <b>Operators oper</b> that and. |  |  |  |  
+<b>Operators oper</b>: | | <b>Operators oper</b> that or. |  |  |  |  
+<b>Operators oper</b>: ~ | <b>Operators oper</b> that not. |  |  |  |  
+<b>Operators oper</b>: ^ | <b>Operators oper</b> that xor. |  |  |  |  
+<b>Operators oper</b>: << | <b>Operators oper</b> that left shift. |  |  |  |  
+<b>Operators oper</b>: >> | <b>Operators oper</b> that right shift. |  |  |  |  
+<b>Operators oper</b>: >>> | <b>Operators oper</b> that unsigned right. |  |  |  |  
