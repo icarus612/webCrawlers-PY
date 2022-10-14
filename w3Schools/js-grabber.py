@@ -47,6 +47,6 @@ for idx, t in enumerate(title_arr):
 						example = ref.find('div', {'class': 'w3-example'}).find('div', {'class': 'w3-code'}).decode_contents().strip()
 					except AttributeError:
 						example = ''
-					cards.append(' '.join(f'{front} | {back_basic} | {back_extended} | {additional_info} | {example} | {version}'.splitlines()))
+					cards.append(' '.join(f'{front} | {back_basic} | {additional_info} | {back_extended} | {example} | {version}'.splitlines()))
 		with open(f'{getcwd()}/output/{title}/{"".join(url["title"].split(" "))}.txt', 'w') as file:
 			file.writelines([f'{i} \n' for i in cards])
