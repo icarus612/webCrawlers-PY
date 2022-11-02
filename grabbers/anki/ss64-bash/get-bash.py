@@ -13,7 +13,9 @@ page =  soup(requests.get('https://ss64.com/bash/').content, 'html.parser')
 make_folder('output/')	
 cards = []
 for el in page.find_all('tr'):
-	td = el.find_all('td')
-	cards.append(''.join(f'{td[1].text} | {td[2].text}'))
+	td = list(filter(lambda x: x != "&nbsp;", [el.text for el in el.find_all('td')]))
+	if len(td) < 2: 
+		continue
+	cards.append(''.join(f'{td[1]} | {td[2]}'))
 	with open(f'{getcwd()}/output.txt', 'w') as file:
 		file.writelines([f'{i} \n' for i in cards])
