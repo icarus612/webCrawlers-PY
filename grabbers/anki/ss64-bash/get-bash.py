@@ -13,6 +13,7 @@ page =  soup(requests.get('https://ss64.com/bash/').content, 'html.parser')
 make_folder('output/')	
 cards = []
 for el in page.find_all('tr'):
-	cards.append(' '.join(f'{front} | {back_basic} | {additional_info} | {back_extended} | {example} | {version}'.splitlines()))
-	with open(f'{getcwd()}/output/{title}/{"".join(url["title"].split(" "))}.txt', 'w') as file:
+	td = el.find_all('td')
+	cards.append(' '.join(f'{td[1]} | {td[2]}'))
+	with open(f'{getcwd()}/output.txt', 'w') as file:
 		file.writelines([f'{i} \n' for i in cards])
