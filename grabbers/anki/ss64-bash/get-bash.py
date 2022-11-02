@@ -14,6 +14,6 @@ make_folder('output/')
 cards = []
 for el in page.find_all('tr'):
 	td = el.find_all('td')
-	cards.append(' '.join(f'{td[1]} | {td[2]}'))
+	cards.append(''.join(f'{td[1].text} | {td[2].text}'))
 	with open(f'{getcwd()}/output.txt', 'w') as file:
 		file.writelines([f'{i} \n' for i in cards])

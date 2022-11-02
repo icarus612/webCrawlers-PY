@@ -1,312 +1,312 @@
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " b g . h t m l " > & a m p ; < / a > < / t d >   |   < t d > S t a r t   a   n e w   p r o c e s s   i n   t h e   b a c k g r o u n d < / t d > 
-< t d > < a   h r e f = " a l i a s . h t m l " > a l i a s < / a > < / t d >   |   < t d > C r e a t e   a n   a l i a s   • < / t d > 
-< t d > < a   h r e f = " a p r o p o s . h t m l " > a p r o p o s < / a > < / t d >   |   < t d > S e a r c h   H e l p   m a n u a l   p a g e s   ( m a n   - k ) < / t d > 
-< t d > < a   h r e f = " a p t . h t m l " > a p t < / a > < / t d >   |   < t d > S e a r c h   f o r   a n d   i n s t a l l   s o f t w a r e   p a c k a g e s   ( D e b i a n / U b u n t u ) < / t d > 
-< t d > < a   h r e f = " a p t - g e t . h t m l " > a p t - g e t < / a > < / t d >   |   < t d > S e a r c h   f o r   a n d   i n s t a l l   s o f t w a r e   p a c k a g e s   ( D e b i a n / U b u n t u ) < / t d > 
-< t d > < a   h r e f = " a p t i t u d e . h t m l " > a p t i t u d e < / a > < / t d >   |   < t d > S e a r c h   f o r   a n d   i n s t a l l   s o f t w a r e   p a c k a g e s   ( D e b i a n / U b u n t u ) < / t d > 
-< t d > < a   h r e f = " a s p e l l . h t m l " > a s p e l l < / a > < / t d >   |   < t d > S p e l l   C h e c k e r   < / t d > 
-< t d > < a   h r e f = " a t . h t m l " > a t < / a > < / t d >   |   < t d > S c h e d u l e   a   c o m m a n d   t o   r u n   o n c e   a t   a   p a r t i c u l a r   t i m e < / t d > 
-< t d > < a   h r e f = " a w k . h t m l " > a w k < / a > < / t d >   |   < t d > F i n d   a n d   R e p l a c e   t e x t ,   d a t a b a s e   s o r t / v a l i d a t e / i n d e x < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " b a s e n a m e . h t m l " > b a s e n a m e < / a > < / t d >   |   < t d > S t r i p   d i r e c t o r y   a n d   s u f f i x   f r o m   f i l e n a m e s < / t d > 
-< t d > < a   h r e f = " b a s e 3 2 . h t m l " > b a s e 3 2 < / a > < / t d >   |   < t d > B a s e 3 2   e n c o d e / d e c o d e   d a t a   a n d   p r i n t   t o   s t a n d a r d   o u t p u t < / t d > 
-< t d > < a   h r e f = " b a s e 6 4 . h t m l " > b a s e 6 4 < / a > < / t d >   |   < t d > B a s e 6 4   e n c o d e / d e c o d e   d a t a   a n d   p r i n t   t o   s t a n d a r d   o u t p u t < / t d > 
-< t d > < a   h r e f = " b a s h . h t m l " > b a s h < / a > < / t d >   |   < t d > G N U   B o u r n e - A g a i n   S H e l l < / t d > 
-< t d > < a   h r e f = " b c . h t m l " > b c < / a > < / t d >   |   < t d > A r b i t r a r y   p r e c i s i o n   c a l c u l a t o r   l a n g u a g e < / t d > 
-< t d > < a   h r e f = " b g . h t m l " > b g < / a > < / t d >   |   < t d > S e n d   t o   b a c k g r o u n d < / t d > 
-< t d > < a   h r e f = " b i n d . h t m l " > b i n d < / a > < / t d >   |   < t d > S e t   o r   d i s p l a y   r e a d l i n e   k e y   a n d   f u n c t i o n   b i n d i n g s   • < / t d > 
-< t d > < a   h r e f = " b r e a k . h t m l " > b r e a k < / a > < / t d >   |   < t d > E x i t   f r o m   a   l o o p   • < / t d > 
-< t d > < a   h r e f = " b u i l t i n . h t m l " > b u i l t i n < / a > < / t d >   |   < t d > R u n   a   s h e l l   b u i l t i n < / t d > 
-< t d > < a   h r e f = " b z i p 2 . h t m l " > b z i p 2 < / a > < / t d >   |   < t d > C o m p r e s s   o r   d e c o m p r e s s   n a m e d   f i l e ( s ) < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " c a l . h t m l " > c a l < / a > < / t d >   |   < t d > D i s p l a y   a   c a l e n d a r < / t d > 
-< t d > < a   h r e f = " c a l l e r . h t m l " > c a l l e r < / a > < / t d >   |   < t d > R e t u r n   t h e   c o n t e x t   o f   a n y   a c t i v e   s u b r o u t i n e   c a l l   • < / t d > 
-< t d > < a   h r e f = " c a s e . h t m l " > c a s e < / a > < / t d >   |   < t d > C o n d i t i o n a l l y   p e r f o r m   a   c o m m a n d < / t d > 
-< t d > < a   h r e f = " c a t . h t m l " > c a t < / a > < / t d >   |   < t d > C o n c a t e n a t e   a n d   p r i n t   ( d i s p l a y )   t h e   c o n t e n t   o f   f i l e s < / t d > 
-< t d > < a   h r e f = " c d . h t m l " > c d < / a > < / t d >   |   < t d > C h a n g e   D i r e c t o r y < / t d > 
-< t d > < a   h r e f = " c f d i s k . h t m l " > c f d i s k < / a > < / t d >   |   < t d > P a r t i t i o n   t a b l e   m a n i p u l a t o r   f o r   L i n u x < / t d > 
-< t d > < a   h r e f = " c h a t t r . h t m l " > c h a t t r < / a > < / t d >   |   < t d > C h a n g e   f i l e   a t t r i b u t e s   o n   a   L i n u x   f i l e   s y s t e m < / t d > 
-< t d > < a   h r e f = " c h g r p . h t m l " > c h g r p < / a > < / t d >   |   < t d > C h a n g e   g r o u p   o w n e r s h i p < / t d > 
-< t d > < a   h r e f = " c h m o d . h t m l " > c h m o d < / a > < / t d >   |   < t d > C h a n g e   a c c e s s   p e r m i s s i o n s < / t d > 
-< t d > < a   h r e f = " c h o w n . h t m l " > c h o w n < / a > < / t d >   |   < t d > C h a n g e   f i l e   o w n e r   a n d   g r o u p < / t d > 
-< t d > < a   h r e f = " c h p a s s w d . h t m l " > c h p a s s w d < / a > < / t d >   |   < t d > U p d a t e   p a s s w o r d s   i n   b a t c h   m o d e < / t d > 
-< t d > < a   h r e f = " c h r o o t . h t m l " > c h r o o t < / a > < / t d >   |   < t d > R u n   a   c o m m a n d   w i t h   a   d i f f e r e n t   r o o t   d i r e c t o r y < / t d > 
-< t d > < a   h r e f = " c h k c o n f i g . h t m l " > c h k c o n f i g < / a > < / t d >   |   < t d > S y s t e m   s e r v i c e s   ( r u n l e v e l ) < / t d > 
-< t d > < a   h r e f = " c k s u m . h t m l " > c k s u m < / a > < / t d >   |   < t d > P r i n t   C R C   c h e c k s u m   a n d   b y t e   c o u n t s < / t d > 
-< t d > c l e a r < / t d >   |   < t d > C l e a r   t e r m i n a l   s c r e e n < / t d > 
-< t d > < a   h r e f = " c m p . h t m l " > c m p < / a > < / t d >   |   < t d > C o m p a r e   t w o   f i l e s < / t d > 
-< t d > < a   h r e f = " c o m m . h t m l " > c o m m < / a > < / t d >   |   < t d > C o m p a r e   t w o   s o r t e d   f i l e s   l i n e   b y   l i n e < / t d > 
-< t d > < a   h r e f = " c o m m a n d . h t m l " > c o m m a n d < / a > < / t d >   |   < t d > R u n   a   c o m m a n d   -   i g n o r i n g   s h e l l   f u n c t i o n s   • < / t d > 
-< t d > < a   h r e f = " c o n t i n u e . h t m l " > c o n t i n u e < / a > < / t d >   |   < t d > R e s u m e   t h e   n e x t   i t e r a t i o n   o f   a   l o o p   • < / t d > 
-< t d > < a   h r e f = " c p . h t m l " > c p < / a > < / t d >   |   < t d > C o p y   o n e   o r   m o r e   f i l e s   t o   a n o t h e r   l o c a t i o n < / t d > 
-< t d > < a   h r e f = " c p i o . h t m l " > c p i o < / a > < / t d >   |   < t d > C o p y   f i l e s   t o   a n d   f r o m   a r c h i v e s < / t d > 
-< t d > < a   h r e f = " c r o n . h t m l " > c r o n < / a > < / t d >   |   < t d > D a e m o n   t o   e x e c u t e   s c h e d u l e d   c o m m a n d s < / t d > 
-< t d > < a   h r e f = " c r o n t a b . h t m l " > c r o n t a b < / a > < / t d >   |   < t d > S c h e d u l e   a   c o m m a n d   t o   r u n   a t   a   l a t e r   t i m e < / t d > 
-< t d > < a   h r e f = " c s p l i t . h t m l " > c s p l i t < / a > < / t d >   |   < t d > S p l i t   a   f i l e   i n t o   c o n t e x t - d e t e r m i n e d   p i e c e s < / t d > 
-< t d > < a   h r e f = " c u r l . h t m l " > c u r l < / a > < / t d >   |   < t d > T r a n s f e r   d a t a     f r o m   o r   t o   a   s e r v e r < / t d > 
-< t d > < a   h r e f = " c u t . h t m l " > c u t < / a > < / t d >   |   < t d > D i v i d e   a   f i l e   i n t o   s e v e r a l   p a r t s < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " d a t e . h t m l " > d a t e < / a > < / t d >   |   < t d > D i s p l a y   o r   c h a n g e   t h e   d a t e   & a m p ;   t i m e < / t d > 
-< t d > < a   h r e f = " d c . h t m l " > d c < / a > < / t d >   |   < t d > D e s k   C a l c u l a t o r < / t d > 
-< t d > < a   h r e f = " d d . h t m l " > d d < / a > < / t d >   |   < t d > D a t a   D u p l i c a t o r   -   c o n v e r t   a n d   c o p y   a   f i l e ,   w r i t e   d i s k   h e a d e r s ,   b o o t   r e c o r d s < / t d > 
-< t d > < a   h r e f = " d d r e s c u e . h t m l " > d d r e s c u e < / a > < / t d >   |   < t d > D a t a   r e c o v e r y   t o o l < / t d > 
-< t d > < a   h r e f = " d e c l a r e . h t m l " > d e c l a r e < / a > < / t d >   |   < t d > D e c l a r e   v a r i a b l e s   a n d   g i v e   t h e m   a t t r i b u t e s   • < / t d > 
-< t d > < a   h r e f = " d f . h t m l " > d f < / a > < / t d >   |   < t d > D i s p l a y   f r e e   d i s k   s p a c e < / t d > 
-< t d > < a   h r e f = " d i f f . h t m l " > d i f f < / a > < / t d >   |   < t d > D i s p l a y   t h e   d i f f e r e n c e s   b e t w e e n   t w o   f i l e s < / t d > 
-< t d > < a   h r e f = " d i f f 3 . h t m l " > d i f f 3 < / a > < / t d >   |   < t d > S h o w   d i f f e r e n c e s   a m o n g   t h r e e   f i l e s < / t d > 
-< t d > < a   h r e f = " d i g . h t m l " > d i g < / a > < / t d >   |   < t d > D N S   l o o k u p < / t d > 
-< t d > < a   h r e f = " d i r . h t m l " > d i r < / a > < / t d >   |   < t d > B r i e f l y   l i s t   d i r e c t o r y   c o n t e n t s < / t d > 
-< t d > < a   h r e f = " d i r c o l o r s . h t m l " > d i r c o l o r s < / a > < / t d >   |   < t d > C o l o u r   s e t u p   f o r   ' l s ' < / t d > 
-< t d > < a   h r e f = " d i r n a m e . h t m l " > d i r n a m e < / a > < / t d >   |   < t d > C o n v e r t   a   f u l l   p a t h n a m e   t o   j u s t   a   p a t h < / t d > 
-< t d > < a   h r e f = " d i r s . h t m l " > d i r s < / a > < / t d >   |   < t d > D i s p l a y   l i s t   o f   r e m e m b e r e d   d i r e c t o r i e s < / t d > 
-< t d > < a   h r e f = " d o s 2 u n i x . h t m l " > d o s 2 u n i x < / a > < / t d >   |   < t d > W i n d o w s / M A C   t o   U N I X   t e x t   f i l e   f o r m a t   c o n v e r t e r < / t d > 
-< t d > < a   h r e f = " d m e s g . h t m l " > d m e s g < / a > < / t d >   |   < t d > P r i n t   k e r n e l   & a m p ;   d r i v e r   m e s s a g e s   < / t d > 
-< t d > < a   h r e f = " d p k g . h t m l " > d p k g < / a > < / t d >   |   < t d > P a c k a g e   m a n a g e r     ( D e b i a n / U b u n t u ) . < / t d > 
-< t d > < a   h r e f = " d u . h t m l " > d u < / a > < / t d >   |   < t d > E s t i m a t e   f i l e   s p a c e   u s a g e < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " e c h o . h t m l " > e c h o < / a > < / t d >   |   < t d > D i s p l a y   m e s s a g e   o n   s c r e e n   • < / t d > 
-< t d > < a   h r e f = " e g r e p . h t m l " > e g r e p < / a > < / t d >   |   < t d > S e a r c h   f i l e ( s )   f o r   l i n e s   t h a t   m a t c h   a n   e x t e n d e d   e x p r e s s i o n < / t d > 
-< t d > < a   h r e f = " e j e c t . h t m l " > e j e c t < / a > < / t d >   |   < t d > E j e c t   r e m o v a b l e   m e d i a < / t d > 
-< t d > < a   h r e f = " e n a b l e . h t m l " > e n a b l e < / a > < / t d >   |   < t d > E n a b l e   a n d   d i s a b l e   b u i l t i n   s h e l l   c o m m a n d s   • < / t d > 
-< t d > < a   h r e f = " e n v . h t m l " > e n v < / a > < / t d >   |   < t d > E n v i r o n m e n t   v a r i a b l e s < / t d > 
-< t d > e t h t o o l < / t d >   |   < t d > E t h e r n e t   c a r d   s e t t i n g s < / t d > 
-< t d > < a   h r e f = " e v a l . h t m l " > e v a l < / a > < / t d >   |   < t d > E v a l u a t e   s e v e r a l   c o m m a n d s / a r g u m e n t s < / t d > 
-< t d > < a   h r e f = " e x e c . h t m l " > e x e c < / a > < / t d >   |   < t d > E x e c u t e   a   c o m m a n d < / t d > 
-< t d > < a   h r e f = " e x i t . h t m l " > e x i t < / a > < / t d >   |   < t d > E x i t   t h e   s h e l l < / t d > 
-< t d > < a   h r e f = " e x p a n d . h t m l " > e x p a n d < / a > < / t d >   |   < t d > C o n v e r t   t a b s   t o   s p a c e s < / t d > 
-< t d > < a   h r e f = " e x p o r t . h t m l " > e x p o r t < / a > < / t d >   |   < t d > S e t   a n   e n v i r o n m e n t   v a r i a b l e < / t d > 
-< t d > < a   h r e f = " e x p r . h t m l " > e x p r < / a > < / t d >   |   < t d > E v a l u a t e   e x p r e s s i o n s < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " f a l s e . h t m l " > f a l s e < / a > < / t d >   |   < t d > D o   n o t h i n g ,   u n s u c c e s s f u l l y < / t d > 
-< t d > < a   h r e f = " f d f o r m a t . h t m l " > f d f o r m a t < / a > < / t d >   |   < t d > L o w - l e v e l   f o r m a t   a   f l o p p y   d i s k < / t d > 
-< t d > < a   h r e f = " f d i s k . h t m l " > f d i s k < / a > < / t d >   |   < t d > P a r t i t i o n   t a b l e   m a n i p u l a t o r   f o r   L i n u x < / t d > 
-< t d > < a   h r e f = " f g . h t m l " > f g < / a > < / t d >   |   < t d > S e n d   j o b   t o   f o r e g r o u n d < / t d > 
-< t d > < a   h r e f = " f g r e p . h t m l " > f g r e p < / a > < / t d >   |   < t d > S e a r c h   f i l e ( s )   f o r   l i n e s   t h a t   m a t c h   a   f i x e d   s t r i n g < / t d > 
-< t d > < a   h r e f = " f i l e . h t m l " > f i l e < / a > < / t d >   |   < t d > D e t e r m i n e   f i l e   t y p e < / t d > 
-< t d > < a   h r e f = " f i n d . h t m l " > f i n d < / a > < / t d >   |   < t d > S e a r c h   f o r   f i l e s   t h a t   m e e t   a   d e s i r e d   c r i t e r i a < / t d > 
-< t d > < a   h r e f = " f m t . h t m l " > f m t < / a > < / t d >   |   < t d > R e f o r m a t   p a r a g r a p h   t e x t < / t d > 
-< t d > < a   h r e f = " f o l d . h t m l " > f o l d < / a > < / t d >   |   < t d > W r a p   t e x t   t o   f i t   a   s p e c i f i e d   w i d t h < / t d > 
-< t d > < a   h r e f = " f o r . h t m l " > f o r < / a > < / t d >   |   < t d > E x p a n d   < i > w o r d s < / i > ,   a n d   e x e c u t e   < i > c o m m a n d s < / i > < / t d > 
-< t d > f o r m a t < / t d >   |   < t d > F o r m a t   d i s k s   o r   t a p e s < / t d > 
-< t d > f r e e < / t d >   |   < t d > D i s p l a y   m e m o r y   u s a g e < / t d > 
-< t d > < a   h r e f = " f s c k . h t m l " > f s c k < / a > < / t d >   |   < t d > F i l e   s y s t e m   c o n s i s t e n c y   c h e c k   a n d   r e p a i r < / t d > 
-< t d > < a   h r e f = " f t p . h t m l " > f t p < / a > < / t d >   |   < t d > F i l e   T r a n s f e r   P r o t o c o l < / t d > 
-< t d > < a   h r e f = " f u n c t i o n . h t m l " > f u n c t i o n < / a > < / t d >   |   < t d > D e f i n e   F u n c t i o n   M a c r o s < / t d > 
-< t d > < a   h r e f = " f u s e r . h t m l " > f u s e r < / a > < / t d >   |   < t d > I d e n t i f y / k i l l   t h e   p r o c e s s   t h a t   i s   a c c e s s i n g   a   f i l e < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " a w k . h t m l " > g a w k < / a > < / t d >   |   < t d > F i n d   a n d   R e p l a c e   t e x t   w i t h i n   f i l e ( s ) < / t d > 
-< t d > < a   h r e f = " g e t o p t s . h t m l " > g e t o p t s < / a > < / t d >   |   < t d > P a r s e   p o s i t i o n a l   p a r a m e t e r s < / t d > 
-< t d > < a   h r e f = " g e t f a c l . h t m l " > g e t f a c l < / a > < / t d >   |   < t d > G e t   f i l e   a c c e s s   c o n t r o l   l i s t s < / t d > 
-< t d > < a   h r e f = " g r e p . h t m l " > g r e p < / a > < / t d >   |   < t d > S e a r c h   f i l e ( s )   f o r   l i n e s   t h a t   m a t c h   a   g i v e n   p a t t e r n < / t d > 
-< t d > < a   h r e f = " g r o u p a d d . h t m l " > g r o u p a d d < / a > < / t d >   |   < t d > A d d   a   u s e r   s e c u r i t y   g r o u p < / t d > 
-< t d > < a   h r e f = " g r o u p d e l . h t m l " > g r o u p d e l < / a > < / t d >   |   < t d > D e l e t e   a   g r o u p < / t d > 
-< t d > < a   h r e f = " g r o u p m o d . h t m l " > g r o u p m o d < / a > < / t d >   |   < t d > M o d i f y   a   g r o u p < / t d > 
-< t d > < a   h r e f = " g r o u p s . h t m l " > g r o u p s < / a > < / t d >   |   < t d > P r i n t   g r o u p   n a m e s   a   u s e r   i s   i n < / t d > 
-< t d > < a   h r e f = " g z i p . h t m l " > g z i p < / a > < / t d >   |   < t d > C o m p r e s s   o r   d e c o m p r e s s   n a m e d   f i l e ( s ) < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " h a s h . h t m l " > h a s h < / a > < / t d >   |   < t d > R e m e m b e r   t h e   f u l l   p a t h n a m e   o f   a   n a m e   a r g u m e n t < / t d > 
-< t d > < a   h r e f = " h e a d . h t m l " > h e a d < / a > < / t d >   |   < t d > O u t p u t   t h e   f i r s t   p a r t   o f   f i l e ( s ) < / t d > 
-< t d > h e l p < / t d >   |   < t d > D i s p l a y   h e l p   f o r   a   b u i l t - i n   c o m m a n d   • < / t d > 
-< t d > < a   h r e f = " h i s t o r y . h t m l " > h i s t o r y < / a > < / t d >   |   < t d > C o m m a n d   H i s t o r y < / t d > 
-< t d > < a   h r e f = " h o s t n a m e . h t m l " > h o s t n a m e < / a > < / t d >   |   < t d > P r i n t   o r   s e t   s y s t e m   n a m e < / t d > 
-< t d > < a   h r e f = " h t o p . h t m l " > h t o p < / a > < / t d >   |   < t d > I n t e r a c t i v e   p r o c e s s   v i e w e r < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " i c o n v . h t m l " > i c o n v < / a > < / t d >   |   < t d > C o n v e r t   t h e   c h a r a c t e r   s e t   o f   a   f i l e < / t d > 
-< t d > < a   h r e f = " i d . h t m l " > i d < / a > < / t d >   |   < t d > P r i n t   u s e r   a n d   g r o u p   i d ' s < / t d > 
-< t d > < a   h r e f = " i f . h t m l " > i f < / a > < / t d >   |   < t d > C o n d i t i o n a l l y   p e r f o r m   a   c o m m a n d < / t d > 
-< t d > < a   h r e f = " i f c o n f i g . h t m l " > i f c o n f i g < / a > < / t d >   |   < t d > C o n f i g u r e   a   n e t w o r k   i n t e r f a c e < / t d > 
-< t d > < a   h r e f = " i f u p . h t m l " > i f d o w n < / a > < / t d >   |   < t d > S t o p   a   n e t w o r k   i n t e r f a c e < / t d > 
-< t d > < a   h r e f = " i f u p . h t m l " > i f u p < / a > < / t d >   |   < t d > S t a r t   a   n e t w o r k   i n t e r f a c e   u p < / t d > 
-< t d > < a   h r e f = " i m p o r t . h t m l " > i m p o r t < / a > < / t d >   |   < t d > C a p t u r e   a n   X   s e r v e r   s c r e e n   a n d   s a v e   t h e   i m a g e   t o   f i l e < / t d > 
-< t d > < a   h r e f = " i n s t a l l . h t m l " > i n s t a l l < / a > < / t d >   |   < t d > C o p y   f i l e s   a n d   s e t   a t t r i b u t e s < / t d > 
-< t d > < a   h r e f = " i o s t a t . h t m l " > i o s t a t < / a > < / t d >   |   < t d > R e p o r t   C P U   a n d   i / o   s t a t i s t i c s < / t d > 
-< t d > < a   h r e f = " i p . h t m l " > i p < / a > < / t d >   |   < t d > R o u t i n g ,   d e v i c e s   a n d   t u n n e l s < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " j o b s . h t m l " > j o b s < / a > < / t d >   |   < t d > L i s t   a c t i v e   j o b s   • < / t d > 
-< t d > < a   h r e f = " j o i n . h t m l " > j o i n < / a > < / t d >   |   < t d > J o i n   l i n e s   o n   a   c o m m o n   f i e l d < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " k i l l . h t m l " > k i l l < / a > < / t d >   |   < t d > K i l l   a   p r o c e s s   b y   s p e c i f y i n g   i t s   P I D < / t d > 
-< t d > < a   h r e f = " k i l l a l l . h t m l " > k i l l a l l < / a > < / t d >   |   < t d > K i l l   p r o c e s s e s   b y   n a m e < / t d > 
-< t d > < a   h r e f = " k l i s t . h t m l " > k l i s t < / a > < / t d >   |   < t d > L i s t   c a c h e d   K e r b e r o s   t i c k e t s < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " l e s s . h t m l " > l e s s < / a > < / t d >   |   < t d > D i s p l a y   o u t p u t   o n e   s c r e e n   a t   a   t i m e < / t d > 
-< t d > < a   h r e f = " l e t . h t m l " > l e t < / a > < / t d >   |   < t d > P e r f o r m   a r i t h m e t i c   o n   s h e l l   v a r i a b l e s   • < / t d > 
-< t d > < a   h r e f = " l i n k . h t m l " > l i n k < / a > < / t d >   |   < t d > C r e a t e   a   l i n k   t o   a   f i l e   < / t d > 
-< t d > < a   h r e f = " l n . h t m l " > l n < / a > < / t d >   |   < t d > C r e a t e   a   s y m b o l i c   l i n k   t o   a   f i l e < / t d > 
-< t d > < a   h r e f = " l o c a l . h t m l " > l o c a l < / a > < / t d >   |   < t d > C r e a t e   a   f u n c t i o n   v a r i a b l e   • < / t d > 
-< t d > < a   h r e f = " l o c a t e . h t m l " > l o c a t e < / a > < / t d >   |   < t d > F i n d   f i l e s < / t d > 
-< t d > < a   h r e f = " l o g n a m e . h t m l " > l o g n a m e < / a > < / t d >   |   < t d > P r i n t   c u r r e n t   l o g i n   n a m e < / t d > 
-< t d > < a   h r e f = " l o g o u t . h t m l " > l o g o u t < / a > < / t d >   |   < t d > E x i t   a   l o g i n   s h e l l   • < / t d > 
-< t d > < a   h r e f = " l o o k . h t m l " > l o o k < / a > < / t d >   |   < t d > D i s p l a y   l i n e s   b e g i n n i n g   w i t h   a   g i v e n   s t r i n g < / t d > 
-< t d > < a   h r e f = " l p c . h t m l " > l p c < / a > < / t d >   |   < t d > L i n e   p r i n t e r   c o n t r o l   p r o g r a m < / t d > 
-< t d > < a   h r e f = " l p r . h t m l " > l p r < / a > < / t d >   |   < t d > P r i n t   f i l e s < / t d > 
-< t d > l p r i n t < / t d >   |   < t d > P r i n t   a   f i l e < / t d > 
-< t d > l p r i n t d < / t d >   |   < t d > D e l e t e   a   p r i n t   j o b < / t d > 
-< t d > l p r i n t q < / t d >   |   < t d > L i s t   t h e   p r i n t   q u e u e < / t d > 
-< t d > < a   h r e f = " l p r m . h t m l " > l p r m < / a > < / t d >   |   < t d > R e m o v e   j o b s   f r o m   t h e   p r i n t   q u e u e < / t d > 
-< t d > < a   h r e f = " l s a t t r . h t m l " > l s a t t r < / a > < / t d >   |   < t d > L i s t   f i l e   a t t r i b u t e s   o n   a   L i n u x   s e c o n d   e x t e n d e d   f i l e   s y s t e m < / t d > 
-< t d > < a   h r e f = " l s b l k . h t m l " > l s b l k < / a > < / t d >   |   < t d > L i s t   b l o c k   d e v i c e s < / t d > 
-< t d > < a   h r e f = " l s . h t m l " > l s < / a > < / t d >   |   < t d > L i s t   i n f o r m a t i o n   a b o u t   f i l e ( s ) < / t d > 
-< t d > < a   h r e f = " l s o f . h t m l " > l s o f < / a > < / t d >   |   < t d > L i s t   o p e n   f i l e s < / t d > 
-< t d > < a   h r e f = " l s p c i . h t m l " > l s p c i < / a > < / t d >   |   < t d > L i s t   a l l   P C I   d e v i c e s < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > m a k e < / t d >   |   < t d > R e c o m p i l e   a   g r o u p   o f   p r o g r a m s < / t d > 
-< t d > < a   h r e f = " m a n . h t m l " > m a n < / a > < / t d >   |   < t d > H e l p   m a n u a l < / t d > 
-< t d > < a   h r e f = " m a p f i l e . h t m l " > m a p f i l e < / a > < / t d >   |   < t d > R e a d   l i n e s   f r o m   s t a n d a r d   i n p u t   i n t o   a n   i n d e x e d   a r r a y   v a r i a b l e   • < / t d > 
-< t d > < a   h r e f = " m k d i r . h t m l " > m k d i r < / a > < / t d >   |   < t d > C r e a t e   n e w   f o l d e r ( s ) < / t d > 
-< t d > < a   h r e f = " m k f i f o . h t m l " > m k f i f o < / a > < / t d >   |   < t d > M a k e   F I F O s   ( n a m e d   p i p e s ) < / t d > 
-< t d > < a   h r e f = " m k f i l e . h t m l " > m k f i l e < / a > < / t d >   |   < t d > M a k e   a   f i l e < / t d > 
-< t d > m k i s o f s < / t d >   |   < t d > C r e a t e   a   h y b r i d   I S O 9 6 6 0 / J O L I E T / H F S   f i l e s y s t e m < / t d > 
-< t d > < a   h r e f = " m k n o d . h t m l " > m k n o d < / a > < / t d >   |   < t d > M a k e   b l o c k   o r   c h a r a c t e r   s p e c i a l   f i l e s < / t d > 
-< t d > < a   h r e f = " m k t e m p . h t m l " > m k t e m p < / a > < / t d >   |   < t d > M a k e   a   t e m p o r a r y   f i l e < / t d > 
-< t d > < a   h r e f = " m o r e . h t m l " > m o r e < / a > < / t d >   |   < t d > D i s p l a y   o u t p u t   o n e   s c r e e n   a t   a   t i m e < / t d > 
-< t d > < a   h r e f = " m o s t . h t m l " > m o s t < / a > < / t d >   |   < t d > B r o w s e   o r   p a g e   t h r o u g h   a   t e x t   f i l e < / t d > 
-< t d > < a   h r e f = " m o u n t . h t m l " > m o u n t < / a > < / t d >   |   < t d > M o u n t   a   f i l e   s y s t e m < / t d > 
-< t d > < a   h r e f = " m t o o l s . h t m l " > m t o o l s < / a > < / t d >   |   < t d > M a n i p u l a t e   M S - D O S   f i l e s < / t d > 
-< t d > < a   h r e f = " m t r . h t m l " > m t r < / a > < / t d >   |   < t d > N e t w o r k   d i a g n o s t i c s   ( t r a c e r o u t e / p i n g ) < / t d > 
-< t d > < a   h r e f = " m v . h t m l " > m v < / a > < / t d >   |   < t d > M o v e   o r   r e n a m e   f i l e s   o r   d i r e c t o r i e s < / t d > 
-< t d > < a   h r e f = " m m v . h t m l " > m m v < / a > < / t d >   |   < t d > M a s s   M o v e   a n d   r e n a m e   ( f i l e s ) < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " n c . h t m l " > n c < / a > < / t d >   |   < t d > N e t c a t ,   r e a d   a n d   w r i t e   d a t a   a c r o s s   n e t w o r k s < / t d > 
-< t d > < a   h r e f = " n e t s t a t . h t m l " > n e t s t a t < / a > < / t d >   |   < t d > N e t w o r k i n g   c o n n e c t i o n s / s t a t s < / t d > 
-< t d > < a   h r e f = " n f t . h t m l " > n f t < / a > < / t d >   |   < t d > n f t a b l e s   f o r   p a c k e t   f i l t e r i n g   a n d   c l a s s i f i c a t i o n < / t d > 
-< t d > < a   h r e f = " n i c e . h t m l " > n i c e < / a > < / t d >   |   < t d > S e t   t h e   p r i o r i t y   o f   a   c o m m a n d   o r   j o b < / t d > 
-< t d > < a   h r e f = " n l . h t m l " > n l < / a > < / t d >   |   < t d > N u m b e r   l i n e s   a n d   w r i t e   f i l e s < / t d > 
-< t d > < a   h r e f = " n o h u p . h t m l " > n o h u p < / a > < / t d >   |   < t d > R u n   a   c o m m a n d   i m m u n e   t o   h a n g u p s < / t d > 
-< t d > < a   h r e f = " n o t i f y - s e n d . h t m l " > n o t i f y - s e n d < / a > < / t d >   |   < t d > S e n d   d e s k t o p   n o t i f i c a t i o n s < / t d > 
-< t d > < a   h r e f = " n s l o o k u p . h t m l " > n s l o o k u p < / a > < / t d >   |   < t d > Q u e r y   I n t e r n e t   n a m e   s e r v e r s   i n t e r a c t i v e l y < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " o p e n . h t m l " > o p e n < / a > < / t d >   |   < t d > O p e n   a   f i l e   i n   i t s   d e f a u l t   a p p l i c a t i o n < / t d > 
-< t d > < a   h r e f = " o p . h t m l " > o p < / a > < / t d >   |   < t d > O p e r a t o r   a c c e s s < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " p a s s w d . h t m l " > p a s s w d < / a > < / t d >   |   < t d > M o d i f y   a   u s e r   p a s s w o r d < / t d > 
-< t d > < a   h r e f = " p a s t e . h t m l " > p a s t e < / a > < / t d >   |   < t d > M e r g e   l i n e s   o f   f i l e s < / t d > 
-< t d > p a t h c h k < / t d >   |   < t d > C h e c k   f i l e   n a m e   p o r t a b i l i t y < / t d > 
-< t d > < a   h r e f = " p e r f . h t m l " > P e r f < / a > < / t d >   |   < t d > P e r f o r m a n c e   a n a l y s i s   t o o l s   f o r   L i n u x < / t d > 
-< t d > < a   h r e f = " p i n g . h t m l " > p i n g < / a > < / t d >   |   < t d > T e s t   a   n e t w o r k   c o n n e c t i o n < / t d > 
-< t d > < a   h r e f = " p k i l l . h t m l " > p g r e p < / a > < / t d >   |   < t d > L i s t   p r o c e s s e s   b y   n a m e < / t d > 
-< t d > < a   h r e f = " p k i l l . h t m l " > p k i l l < / a > < / t d >   |   < t d > K i l l   p r o c e s s e s   b y   n a m e < / t d > 
-< t d > < a   h r e f = " p o p d . h t m l " > p o p d < / a > < / t d >   |   < t d > R e s t o r e   t h e   p r e v i o u s   v a l u e   o f   t h e   c u r r e n t   d i r e c t o r y < / t d > 
-< t d > < a   h r e f = " p r . h t m l " > p r < / a > < / t d >   |   < t d > P r e p a r e   f i l e s   f o r   p r i n t i n g < / t d > 
-< t d > p r i n t c a p < / t d >   |   < t d > P r i n t e r   c a p a b i l i t y   d a t a b a s e < / t d > 
-< t d > < a   h r e f = " p r i n t e n v . h t m l " > p r i n t e n v < / a > < / t d >   |   < t d > P r i n t   e n v i r o n m e n t   v a r i a b l e s < / t d > 
-< t d > < a   h r e f = " p r i n t f . h t m l " > p r i n t f < / a > < / t d >   |   < t d > F o r m a t   a n d   p r i n t   d a t a   • < / t d > 
-< t d > < a   h r e f = " p s . h t m l " > p s < / a > < / t d >   |   < t d > P r o c e s s   s t a t u s < / t d > 
-< t d > < a   h r e f = " p u s h d . h t m l " > p u s h d < / a > < / t d >   |   < t d > S a v e   a n d   t h e n   c h a n g e   t h e   c u r r e n t   d i r e c t o r y < / t d > 
-< t d > < a   h r e f = " p v . h t m l " > p v < / a > < / t d >   |   < t d > M o n i t o r   t h e   p r o g r e s s   o f   d a t a   t h r o u g h   a   p i p e < / t d > 
-< t d > < a   h r e f = " p w d . h t m l " > p w d < / a > < / t d >   |   < t d > P r i n t   W o r k i n g   D i r e c t o r y < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " q u o t a . h t m l " > q u o t a < / a > < / t d >   |   < t d > D i s p l a y   d i s k   u s a g e   a n d   l i m i t s < / t d > 
-< t d > < a   h r e f = " q u o t a c h e c k . h t m l " > q u o t a c h e c k < / a > < / t d >   |   < t d > S c a n   a   f i l e   s y s t e m   f o r   d i s k   u s a g e < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " r a m . h t m l " > r a m < / a > < / t d >   |   < t d > r a m   d i s k   d e v i c e < / t d > 
-< t d > < a   h r e f = " r a r . h t m l " > r a r < / a > < / t d >   |   < t d > A r c h i v e   f i l e s   w i t h   c o m p r e s s i o n < / t d > 
-< t d > < a   h r e f = " r c p . h t m l " > r c p < / a > < / t d >   |   < t d > C o p y   f i l e s   b e t w e e n   t w o   m a c h i n e s < / t d > 
-< t d > < a   h r e f = " r e a d . h t m l " > r e a d < / a > < / t d >   |   < t d > R e a d   a   l i n e   f r o m   s t a n d a r d   i n p u t   • < / t d > 
-< t d > < a   h r e f = " m a p f i l e . h t m l " > r e a d a r r a y < / a > < / t d >   |   < t d > R e a d   f r o m   s t d i n   i n t o   a n   a r r a y   v a r i a b l e   • < / t d > 
-< t d > < a   h r e f = " r e a d o n l y . h t m l " > r e a d o n l y < / a > < / t d >   |   < t d > M a r k   v a r i a b l e s / f u n c t i o n s   a s   r e a d o n l y < / t d > 
-< t d > r e b o o t < / t d >   |   < t d > R e b o o t   t h e   s y s t e m < / t d > 
-< t d > < a   h r e f = " r e n a m e . h t m l " > r e n a m e < / a > < / t d >   |   < t d > R e n a m e   f i l e s < / t d > 
-< t d > r e n i c e < / t d >   |   < t d > A l t e r   p r i o r i t y   o f   r u n n i n g   p r o c e s s e s < / t d > 
-< t d > r e m s y n c < / t d >   |   < t d > S y n c h r o n i z e   r e m o t e   f i l e s   v i a   e m a i l < / t d > 
-< t d > < a   h r e f = " r e t u r n . h t m l " > r e t u r n < / a > < / t d >   |   < t d > E x i t   a   s h e l l   f u n c t i o n < / t d > 
-< t d > < a   h r e f = " r e v . h t m l " > r e v < / a > < / t d >   |   < t d > R e v e r s e   l i n e s   o f   a   f i l e < / t d > 
-< t d > < a   h r e f = " r m . h t m l " > r m < / a > < / t d >   |   < t d > R e m o v e   f i l e s < / t d > 
-< t d > < a   h r e f = " r m d i r . h t m l " > r m d i r < / a > < / t d >   |   < t d > R e m o v e   f o l d e r ( s ) < / t d > 
-< t d > < a   h r e f = " r s y n c . h t m l " > r s y n c < / a > < / t d >   |   < t d > R e m o t e   f i l e   c o p y   ( S y n c h r o n i z e   f i l e   t r e e s ) < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " s c r e e n . h t m l " > s c r e e n < / a > < / t d >   |   < t d > M u l t i p l e x   t e r m i n a l ,   r u n   r e m o t e   s h e l l s   v i a   s s h < / t d > 
-< t d > < a   h r e f = " s c p . h t m l " > s c p < / a > < / t d >   |   < t d > S e c u r e   c o p y   ( r e m o t e   f i l e   c o p y ) < / t d > 
-< t d > < a   h r e f = " s d i f f . h t m l " > s d i f f < / a > < / t d >   |   < t d > M e r g e   t w o   f i l e s   i n t e r a c t i v e l y < / t d > 
-< t d > < a   h r e f = " s e d . h t m l " > s e d < / a > < / t d >   |   < t d > S t r e a m   E d i t o r < / t d > 
-< t d > < a   h r e f = " s e l e c t . h t m l " > s e l e c t < / a > < / t d >   |   < t d > A c c e p t   u s e r   c h o i c e s   v i a   k e y b o a r d   i n p u t < / t d > 
-< t d > < a   h r e f = " s e q . h t m l " > s e q < / a > < / t d >   |   < t d > P r i n t   n u m e r i c   s e q u e n c e s < / t d > 
-< t d > < a   h r e f = " s e t . h t m l " > s e t < / a > < / t d >   |   < t d > M a n i p u l a t e   s h e l l   v a r i a b l e s   a n d   f u n c t i o n s < / t d > 
-< t d > < a   h r e f = " s e t f a c l . h t m l " > s e t f a c l < / a > < / t d >   |   < t d > S e t   f i l e   a c c e s s   c o n t r o l   l i s t s . < / t d > 
-< t d > s f t p < / t d >   |   < t d > S e c u r e   F i l e   T r a n s f e r   P r o g r a m < / t d > 
-< t d > < a   h r e f = " s h i f t . h t m l " > s h i f t < / a > < / t d >   |   < t d > S h i f t   p o s i t i o n a l   p a r a m e t e r s < / t d > 
-< t d > < a   h r e f = " s h o p t . h t m l " > s h o p t < / a > < / t d >   |   < t d > S h e l l   O p t i o n s < / t d > 
-< t d > < a   h r e f = " s h u f . h t m l " > s h u f < / a > < / t d >   |   < t d > G e n e r a t e   r a n d o m   p e r m u t a t i o n s < / t d > 
-< t d > < a   h r e f = " s h u t d o w n . h t m l " > s h u t d o w n < / a > < / t d >   |   < t d > S h u t d o w n   o r   r e s t a r t   l i n u x < / t d > 
-< t d > < a   h r e f = " s l e e p . h t m l " > s l e e p < / a > < / t d >   |   < t d > D e l a y   f o r   a   s p e c i f i e d   t i m e < / t d > 
-< t d > < a   h r e f = " s l o c a t e . h t m l " > s l o c a t e < / a > < / t d >   |   < t d > F i n d   f i l e s < / t d > 
-< t d > < a   h r e f = " s o r t . h t m l " > s o r t < / a > < / t d >   |   < t d > S o r t   t e x t   f i l e s < / t d > 
-< t d > < a   h r e f = " s o u r c e . h t m l " > s o u r c e < / a > < / t d >   |   < t d > R u n   c o m m a n d s   f r o m   a   f i l e   ' . '     • < / t d > 
-< t d > < a   h r e f = " s p l i t . h t m l " > s p l i t < / a > < / t d >   |   < t d > S p l i t   a   f i l e   i n t o   f i x e d - s i z e   p i e c e s < / t d > 
-< t d > < a   h r e f = " s s . h t m l " > s s < / a > < / t d >   |   < t d > S o c k e t   S t a t i s t i c s < / t d > 
-< t d > < a   h r e f = " s s h . h t m l " > s s h < / a > < / t d >   |   < t d > S e c u r e   S h e l l   c l i e n t   ( r e m o t e   l o g i n   p r o g r a m ) < / t d > 
-< t d > < a   h r e f = " s t a t . h t m l " > s t a t < / a > < / t d >   |   < t d > D i s p l a y   f i l e   o r   f i l e   s y s t e m   s t a t u s < / t d > 
-< t d > < a   h r e f = " s t r a c e . h t m l " > s t r a c e < / a > < / t d >   |   < t d > T r a c e   s y s t e m   c a l l s   a n d   s i g n a l s < / t d > 
-< t d > < a   h r e f = " s u . h t m l " > s u < / a > < / t d >   |   < t d > S u b s t i t u t e   u s e r   i d e n t i t y < / t d > 
-< t d > < a   h r e f = " s u d o . h t m l " > s u d o < / a > < / t d >   |   < t d > E x e c u t e   a   c o m m a n d   a s   a n o t h e r   u s e r < / t d > 
-< t d > < a   h r e f = " s u m . h t m l " > s u m < / a > < / t d >   |   < t d > P r i n t   a   c h e c k s u m   f o r   a   f i l e < / t d > 
-< t d > < a   h r e f = " s u s p e n d . h t m l " > s u s p e n d < / a > < / t d >   |   < t d > S u s p e n d   e x e c u t i o n   o f   t h i s   s h e l l   • < / t d > 
-< t d > < a   h r e f = " s y n c . h t m l " > s y n c < / a > < / t d >   |   < t d > S y n c h r o n i z e   d a t a   o n   d i s k   w i t h   m e m o r y < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " t a i l . h t m l " > t a i l < / a > < / t d >   |   < t d > O u t p u t   t h e   l a s t   p a r t   o f   a   f i l e < / t d > 
-< t d > < a   h r e f = " t a r . h t m l " > t a r < / a > < / t d >   |   < t d > S t o r e ,   l i s t   o r   e x t r a c t   f i l e s   i n   a n   a r c h i v e < / t d > 
-< t d > < a   h r e f = " t e e . h t m l " > t e e < / a > < / t d >   |   < t d > R e d i r e c t   o u t p u t   t o   m u l t i p l e   f i l e s < / t d > 
-< t d > < a   h r e f = " t e s t . h t m l " > t e s t < / a > < / t d >   |   < t d > E v a l u a t e   a   c o n d i t i o n a l   e x p r e s s i o n < / t d > 
-< t d > < a   h r e f = " t i m e . h t m l " > t i m e < / a > < / t d >   |   < t d > M e a s u r e   P r o g r a m   r u n n i n g   t i m e < / t d > 
-< t d > < a   h r e f = " t i m e o u t . h t m l " > t i m e o u t < / a > < / t d >   |   < t d > R u n   a   c o m m a n d   w i t h   a   t i m e   l i m i t < / t d > 
-< t d > < a   h r e f = " t i m e s . h t m l " > t i m e s < / a > < / t d >   |   < t d > U s e r   a n d   s y s t e m   t i m e s < / t d > 
-< t d > < a   h r e f = " t m u x . h t m l " > t m u x < / a > < / t d >   |   < t d > T e r m i n a l   m u l t i p l e x e r < / t d > 
-< t d > < a   h r e f = " t o u c h . h t m l " > t o u c h < / a > < / t d >   |   < t d > C h a n g e   f i l e   t i m e s t a m p s < / t d > 
-< t d > < a   h r e f = " t o p . h t m l " > t o p < / a > < / t d >   |   < t d > L i s t   p r o c e s s e s   r u n n i n g   o n   t h e   s y s t e m < / t d > 
-< t d > < a   h r e f = " t p u t . h t m l " > t p u t < / a > < / t d >   |   < t d > S e t   t e r m i n a l - d e p e n d e n t   c a p a b i l i t i e s ,   c o l o r ,   p o s i t i o n < / t d > 
-< t d > < a   h r e f = " t r a c e r o u t e . h t m l " > t r a c e r o u t e < / a > < / t d >   |   < t d > T r a c e   R o u t e   t o   H o s t < / t d > 
-< t d > < a   h r e f = " t r a p . h t m l " > t r a p < / a > < / t d >   |   < t d > E x e c u t e   a   c o m m a n d   w h e n   t h e   s h e l l   r e c e i v e s   a   s i g n a l   • < / t d > 
-< t d > < a   h r e f = " t r . h t m l " > t r < / a > < / t d >   |   < t d > T r a n s l a t e ,   s q u e e z e ,   a n d / o r   d e l e t e   c h a r a c t e r s < / t d > 
-< t d > < a   h r e f = " t r u e . h t m l " > t r u e < / a > < / t d >   |   < t d > D o   n o t h i n g ,   s u c c e s s f u l l y < / t d > 
-< t d > < a   h r e f = " t s o r t . h t m l " > t s o r t < / a > < / t d >   |   < t d > T o p o l o g i c a l   s o r t < / t d > 
-< t d > < a   h r e f = " t t y . h t m l " > t t y < / a > < / t d >   |   < t d > P r i n t   f i l e n a m e   o f   t e r m i n a l   o n   s t d i n < / t d > 
-< t d > < a   h r e f = " t y p e . h t m l " > t y p e < / a > < / t d >   |   < t d > D e s c r i b e   a   c o m m a n d   • < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " u l i m i t . h t m l " > u l i m i t < / a > < / t d >   |   < t d > L i m i t   u s e r   r e s o u r c e s   • < / t d > 
-< t d > < a   h r e f = " u m a s k . h t m l " > u m a s k < / a > < / t d >   |   < t d > U s e r s   f i l e   c r e a t i o n   m a s k < / t d > 
-< t d > u m o u n t < / t d >   |   < t d > U n m o u n t   a   d e v i c e < / t d > 
-< t d > < a   h r e f = " a l i a s . h t m l " > u n a l i a s < / a > < / t d >   |   < t d > R e m o v e   a n   a l i a s   • < / t d > 
-< t d > < a   h r e f = " u n a m e . h t m l " > u n a m e < / a > < / t d >   |   < t d > P r i n t   s y s t e m   i n f o r m a t i o n < / t d > 
-< t d > < a   h r e f = " u n e x p a n d . h t m l " > u n e x p a n d < / a > < / t d >   |   < t d > C o n v e r t   s p a c e s   t o   t a b s < / t d > 
-< t d > < a   h r e f = " u n i q . h t m l " > u n i q < / a > < / t d >   |   < t d > U n i q u i f y   f i l e s < / t d > 
-< t d > < a   h r e f = " u n i t s . h t m l " > u n i t s < / a > < / t d >   |   < t d > C o n v e r t   u n i t s   f r o m   o n e   s c a l e   t o   a n o t h e r < / t d > 
-< t d > < a   h r e f = " u n i x 2 d o s . h t m l " > u n i x 2 d o s < / a > < / t d >   |   < t d > U N I X   t o   W i n d o w s   o r   M A C   t e x t   f i l e   f o r m a t   c o n v e r t e r < / t d > 
-< t d > < a   h r e f = " u n r a r . h t m l " > u n r a r < / a > < / t d >   |   < t d > E x t r a c t   f i l e s   f r o m   a   r a r   a r c h i v e < / t d > 
-< t d > < a   h r e f = " u n s e t . h t m l " > u n s e t < / a > < / t d >   |   < t d > R e m o v e   v a r i a b l e   o r   f u n c t i o n   n a m e s < / t d > 
-< t d > < a   h r e f = " u n s h a r . h t m l " > u n s h a r < / a > < / t d >   |   < t d > U n p a c k   s h e l l   a r c h i v e   s c r i p t s < / t d > 
-< t d > < a   h r e f = " u n t i l . h t m l " > u n t i l < / a > < / t d >   |   < t d > E x e c u t e   c o m m a n d s   ( u n t i l   e r r o r ) < / t d > 
-< t d > u p t i m e < / t d >   |   < t d > S h o w   u p t i m e < / t d > 
-< t d > < a   h r e f = " u s e r a d d . h t m l " > u s e r a d d < / a > < / t d >   |   < t d > C r e a t e   n e w   u s e r   a c c o u n t < / t d > 
-< t d > < a   h r e f = " u s e r d e l . h t m l " > u s e r d e l < / a > < / t d >   |   < t d > D e l e t e   a   u s e r   a c c o u n t < / t d > 
-< t d > < a   h r e f = " u s e r m o d . h t m l " > u s e r m o d < / a > < / t d >   |   < t d > M o d i f y   u s e r   a c c o u n t < / t d > 
-< t d > < a   h r e f = " u s e r s . h t m l " > u s e r s < / a > < / t d >   |   < t d > L i s t   u s e r s   c u r r e n t l y   l o g g e d   i n < / t d > 
-< t d > < a   h r e f = " u u e n c o d e . h t m l " > u u e n c o d e < / a > < / t d >   |   < t d > E n c o d e   a   b i n a r y   f i l e < / t d > 
-< t d > < a   h r e f = " u u e n c o d e . h t m l " > u u d e c o d e < / a > < / t d >   |   < t d > D e c o d e   a   f i l e   c r e a t e d   b y   u u e n c o d e < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > v < / t d >   |   < t d > V e r b o s e l y   l i s t   d i r e c t o r y   c o n t e n t s   ( ' l s   - l   - b ' ) < / t d > 
-< t d > v d i r < / t d >   |   < t d > V e r b o s e l y   l i s t   d i r e c t o r y   c o n t e n t s   ( ' l s   - l   - b ' ) < / t d > 
-< t d > < a   h r e f = " . . / v i . h t m l " > v i < / a > < / t d >   |   < t d > T e x t   E d i t o r < / t d > 
-< t d > < a   h r e f = " v m s t a t . h t m l " > v m s t a t < / a > < / t d >   |   < t d > R e p o r t   v i r t u a l   m e m o r y   s t a t i s t i c s < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " w . h t m l " > w < / a > < / t d >   |   < t d > S h o w   w h o   i s   l o g g e d   o n   a n d   w h a t   t h e y   a r e   d o i n g < / t d > 
-< t d > < a   h r e f = " w a i t . h t m l " > w a i t < / a > < / t d >   |   < t d > W a i t   f o r   a   p r o c e s s   t o   c o m p l e t e   • < / t d > 
-< t d > < a   h r e f = " w a t c h . h t m l " > w a t c h < / a > < / t d >   |   < t d > E x e c u t e / d i s p l a y   a   p r o g r a m   p e r i o d i c a l l y < / t d > 
-< t d > < a   h r e f = " w c . h t m l " > w c < / a > < / t d >   |   < t d > P r i n t   b y t e ,   w o r d ,   a n d   l i n e   c o u n t s < / t d > 
-< t d > < a   h r e f = " w h e r e i s . h t m l " > w h e r e i s < / a > < / t d >   |   < t d > S e a r c h   t h e   u s e r ' s   $ p a t h ,   m a n   p a g e s   a n d   s o u r c e   f i l e s   f o r   a   p r o g r a m < / t d > 
-< t d > < a   h r e f = " w h i c h . h t m l " > w h i c h < / a > < / t d >   |   < t d > S e a r c h   t h e   u s e r ' s   $ p a t h   f o r   a   p r o g r a m   f i l e < / t d > 
-< t d > < a   h r e f = " w h i l e . h t m l " > w h i l e < / a > < / t d >   |   < t d > E x e c u t e   c o m m a n d s < / t d > 
-< t d > < a   h r e f = " w h o . h t m l " > w h o < / a > < / t d >   |   < t d > P r i n t   a l l   u s e r n a m e s   c u r r e n t l y   l o g g e d   i n < / t d > 
-< t d > < a   h r e f = " w h o a m i . h t m l " > w h o a m i < / a > < / t d >   |   < t d > P r i n t   t h e   c u r r e n t   u s e r   i d   a n d   n a m e   ( ' i d   - u n ' ) < / t d > 
-< t d > w g e t < / t d >   |   < t d > R e t r i e v e   w e b   p a g e s   o r   f i l e s   v i a   H T T P ,   H T T P S   o r   F T P < / t d > 
-< t d > < a   h r e f = " w r i t e . h t m l " > w r i t e < / a > < / t d >   |   < t d > S e n d   a   m e s s a g e   t o   a n o t h e r   u s e r < / t d > 
-< t d >   < / t d >   |   < t d >   < / t d > 
-< t d > < a   h r e f = " x a r g s . h t m l " > x a r g s < / a > < / t d >   |   < t d > E x e c u t e   u t i l i t y ,   p a s s i n g   c o n s t r u c t e d   a r g u m e n t   l i s t ( s ) < / t d > 
-< t d > < a   h r e f = " x d g - o p e n . h t m l " > x d g - o p e n < / a > < / t d >   |   < t d > O p e n   a   f i l e   o r   U R L   i n   t h e   u s e r ' s   p r e f e r r e d   a p p l i c a t i o n . < / t d > 
-< t d > < a   h r e f = " x x d . h t m l " > x x d < / a > < / t d >   |   < t d > M a k e   a   h e x d u m p   o r   d o   t h e   r e v e r s e < / t d > 
-< t d > < a   h r e f = " x z . h t m l " > x z < / a > < / t d >   |   < t d > C o m p r e s s   o r   d e c o m p r e s s   . x z   a n d   . l z m a   f i l e s < / t d > 
-< t d > < a   h r e f = " y e s . h t m l " > y e s < / a > < / t d >   |   < t d > P r i n t   a   s t r i n g   u n t i l   i n t e r r u p t e d < / t d > 
-< t d > < a   h r e f = " z i p . h t m l " > z i p < / a > < / t d >   |   < t d > P a c k a g e   a n d   c o m p r e s s   ( a r c h i v e )   f i l e s < / t d > 
-< t d > < a   h r e f = " s o u r c e . h t m l " > . < / a > < / t d >   |   < t d > < a   h r e f = " s o u r c e . h t m l " > R u n < / a >   a   c o m m a n d   s c r i p t   i n   t h e   c u r r e n t   s h e l l < / t d > 
-< t d > < a   h r e f = " b a n g . h t m l " > ! ! < / a > < / t d >   |   < t d > R u n   t h e   < a   h r e f = " b a n g . h t m l " > l a s t < / a >   c o m m a n d   a g a i n < / t d > 
-< t d > < a   h r e f = " r e m . h t m l " > # # # < / a > < / t d >   |   < t d > C o m m e n t   /   < a   h r e f = " r e m . h t m l " > R e m < / a > a r k < / t d > 
+  |   
+& | Start a new process in the background 
+alias | Create an alias • 
+apropos | Search Help manual pages (man -k) 
+apt | Search for and install software packages (Debian/Ubuntu) 
+apt-get | Search for and install software packages (Debian/Ubuntu) 
+aptitude | Search for and install software packages (Debian/Ubuntu) 
+aspell | Spell Checker  
+at | Schedule a command to run once at a particular time 
+awk | Find and Replace text, database sort/validate/index 
+  |   
+basename | Strip directory and suffix from filenames 
+base32 | Base32 encode/decode data and print to standard output 
+base64 | Base64 encode/decode data and print to standard output 
+bash | GNU Bourne-Again SHell 
+bc | Arbitrary precision calculator language 
+bg | Send to background 
+bind | Set or display readline key and function bindings • 
+break | Exit from a loop • 
+builtin | Run a shell builtin 
+bzip2 | Compress or decompress named file(s) 
+  |   
+cal | Display a calendar 
+caller | Return the context of any active subroutine call • 
+case | Conditionally perform a command 
+cat | Concatenate and print (display) the content of files 
+cd | Change Directory 
+cfdisk | Partition table manipulator for Linux 
+chattr | Change file attributes on a Linux file system 
+chgrp | Change group ownership 
+chmod | Change access permissions 
+chown | Change file owner and group 
+chpasswd | Update passwords in batch mode 
+chroot | Run a command with a different root directory 
+chkconfig | System services (runlevel) 
+cksum | Print CRC checksum and byte counts 
+clear | Clear terminal screen 
+cmp | Compare two files 
+comm | Compare two sorted files line by line 
+command | Run a command - ignoring shell functions • 
+continue | Resume the next iteration of a loop • 
+cp | Copy one or more files to another location 
+cpio | Copy files to and from archives 
+cron | Daemon to execute scheduled commands 
+crontab | Schedule a command to run at a later time 
+csplit | Split a file into context-determined pieces 
+curl | Transfer data  from or to a server 
+cut | Divide a file into several parts 
+  |   
+date | Display or change the date & time 
+dc | Desk Calculator 
+dd | Data Duplicator - convert and copy a file, write disk headers, boot records 
+ddrescue | Data recovery tool 
+declare | Declare variables and give them attributes • 
+df | Display free disk space 
+diff | Display the differences between two files 
+diff3 | Show differences among three files 
+dig | DNS lookup 
+dir | Briefly list directory contents 
+dircolors | Colour setup for 'ls' 
+dirname | Convert a full pathname to just a path 
+dirs | Display list of remembered directories 
+dos2unix | Windows/MAC to UNIX text file format converter 
+dmesg | Print kernel & driver messages  
+dpkg | Package manager  (Debian/Ubuntu). 
+du | Estimate file space usage 
+  |   
+echo | Display message on screen • 
+egrep | Search file(s) for lines that match an extended expression 
+eject | Eject removable media 
+enable | Enable and disable builtin shell commands • 
+env | Environment variables 
+ethtool | Ethernet card settings 
+eval | Evaluate several commands/arguments 
+exec | Execute a command 
+exit | Exit the shell 
+expand | Convert tabs to spaces 
+export | Set an environment variable 
+expr | Evaluate expressions 
+  |   
+false | Do nothing, unsuccessfully 
+fdformat | Low-level format a floppy disk 
+fdisk | Partition table manipulator for Linux 
+fg | Send job to foreground 
+fgrep | Search file(s) for lines that match a fixed string 
+file | Determine file type 
+find | Search for files that meet a desired criteria 
+fmt | Reformat paragraph text 
+fold | Wrap text to fit a specified width 
+for | Expand words, and execute commands 
+format | Format disks or tapes 
+free | Display memory usage 
+fsck | File system consistency check and repair 
+ftp | File Transfer Protocol 
+function | Define Function Macros 
+fuser | Identify/kill the process that is accessing a file 
+  |   
+gawk | Find and Replace text within file(s) 
+getopts | Parse positional parameters 
+getfacl | Get file access control lists 
+grep | Search file(s) for lines that match a given pattern 
+groupadd | Add a user security group 
+groupdel | Delete a group 
+groupmod | Modify a group 
+groups | Print group names a user is in 
+gzip | Compress or decompress named file(s) 
+  |   
+hash | Remember the full pathname of a name argument 
+head | Output the first part of file(s) 
+help | Display help for a built-in command • 
+history | Command History 
+hostname | Print or set system name 
+htop | Interactive process viewer 
+  |   
+iconv | Convert the character set of a file 
+id | Print user and group id's 
+if | Conditionally perform a command 
+ifconfig | Configure a network interface 
+ifdown | Stop a network interface 
+ifup | Start a network interface up 
+import | Capture an X server screen and save the image to file 
+install | Copy files and set attributes 
+iostat | Report CPU and i/o statistics 
+ip | Routing, devices and tunnels 
+  |   
+jobs | List active jobs • 
+join | Join lines on a common field 
+  |   
+kill | Kill a process by specifying its PID 
+killall | Kill processes by name 
+klist | List cached Kerberos tickets 
+  |   
+less | Display output one screen at a time 
+let | Perform arithmetic on shell variables • 
+link | Create a link to a file  
+ln | Create a symbolic link to a file 
+local | Create a function variable • 
+locate | Find files 
+logname | Print current login name 
+logout | Exit a login shell • 
+look | Display lines beginning with a given string 
+lpc | Line printer control program 
+lpr | Print files 
+lprint | Print a file 
+lprintd | Delete a print job 
+lprintq | List the print queue 
+lprm | Remove jobs from the print queue 
+lsattr | List file attributes on a Linux second extended file system 
+lsblk | List block devices 
+ls | List information about file(s) 
+lsof | List open files 
+lspci | List all PCI devices 
+  |   
+make | Recompile a group of programs 
+man | Help manual 
+mapfile | Read lines from standard input into an indexed array variable • 
+mkdir | Create new folder(s) 
+mkfifo | Make FIFOs (named pipes) 
+mkfile | Make a file 
+mkisofs | Create a hybrid ISO9660/JOLIET/HFS filesystem 
+mknod | Make block or character special files 
+mktemp | Make a temporary file 
+more | Display output one screen at a time 
+most | Browse or page through a text file 
+mount | Mount a file system 
+mtools | Manipulate MS-DOS files 
+mtr | Network diagnostics (traceroute/ping) 
+mv | Move or rename files or directories 
+mmv | Mass Move and rename (files) 
+  |   
+nc | Netcat, read and write data across networks 
+netstat | Networking connections/stats 
+nft | nftables for packet filtering and classification 
+nice | Set the priority of a command or job 
+nl | Number lines and write files 
+nohup | Run a command immune to hangups 
+notify-send | Send desktop notifications 
+nslookup | Query Internet name servers interactively 
+  |   
+open | Open a file in its default application 
+op | Operator access 
+  |   
+passwd | Modify a user password 
+paste | Merge lines of files 
+pathchk | Check file name portability 
+Perf | Performance analysis tools for Linux 
+ping | Test a network connection 
+pgrep | List processes by name 
+pkill | Kill processes by name 
+popd | Restore the previous value of the current directory 
+pr | Prepare files for printing 
+printcap | Printer capability database 
+printenv | Print environment variables 
+printf | Format and print data • 
+ps | Process status 
+pushd | Save and then change the current directory 
+pv | Monitor the progress of data through a pipe 
+pwd | Print Working Directory 
+  |   
+quota | Display disk usage and limits 
+quotacheck | Scan a file system for disk usage 
+  |   
+ram | ram disk device 
+rar | Archive files with compression 
+rcp | Copy files between two machines 
+read | Read a line from standard input • 
+readarray | Read from stdin into an array variable • 
+readonly | Mark variables/functions as readonly 
+reboot | Reboot the system 
+rename | Rename files 
+renice | Alter priority of running processes 
+remsync | Synchronize remote files via email 
+return | Exit a shell function 
+rev | Reverse lines of a file 
+rm | Remove files 
+rmdir | Remove folder(s) 
+rsync | Remote file copy (Synchronize file trees) 
+  |   
+screen | Multiplex terminal, run remote shells via ssh 
+scp | Secure copy (remote file copy) 
+sdiff | Merge two files interactively 
+sed | Stream Editor 
+select | Accept user choices via keyboard input 
+seq | Print numeric sequences 
+set | Manipulate shell variables and functions 
+setfacl | Set file access control lists. 
+sftp | Secure File Transfer Program 
+shift | Shift positional parameters 
+shopt | Shell Options 
+shuf | Generate random permutations 
+shutdown | Shutdown or restart linux 
+sleep | Delay for a specified time 
+slocate | Find files 
+sort | Sort text files 
+source | Run commands from a file '.'  • 
+split | Split a file into fixed-size pieces 
+ss | Socket Statistics 
+ssh | Secure Shell client (remote login program) 
+stat | Display file or file system status 
+strace | Trace system calls and signals 
+su | Substitute user identity 
+sudo | Execute a command as another user 
+sum | Print a checksum for a file 
+suspend | Suspend execution of this shell • 
+sync | Synchronize data on disk with memory 
+  |   
+tail | Output the last part of a file 
+tar | Store, list or extract files in an archive 
+tee | Redirect output to multiple files 
+test | Evaluate a conditional expression 
+time | Measure Program running time 
+timeout | Run a command with a time limit 
+times | User and system times 
+tmux | Terminal multiplexer 
+touch | Change file timestamps 
+top | List processes running on the system 
+tput | Set terminal-dependent capabilities, color, position 
+traceroute | Trace Route to Host 
+trap | Execute a command when the shell receives a signal • 
+tr | Translate, squeeze, and/or delete characters 
+true | Do nothing, successfully 
+tsort | Topological sort 
+tty | Print filename of terminal on stdin 
+type | Describe a command • 
+  |   
+ulimit | Limit user resources • 
+umask | Users file creation mask 
+umount | Unmount a device 
+unalias | Remove an alias • 
+uname | Print system information 
+unexpand | Convert spaces to tabs 
+uniq | Uniquify files 
+units | Convert units from one scale to another 
+unix2dos | UNIX to Windows or MAC text file format converter 
+unrar | Extract files from a rar archive 
+unset | Remove variable or function names 
+unshar | Unpack shell archive scripts 
+until | Execute commands (until error) 
+uptime | Show uptime 
+useradd | Create new user account 
+userdel | Delete a user account 
+usermod | Modify user account 
+users | List users currently logged in 
+uuencode | Encode a binary file 
+uudecode | Decode a file created by uuencode 
+  |   
+v | Verbosely list directory contents ('ls -l -b') 
+vdir | Verbosely list directory contents ('ls -l -b') 
+vi | Text Editor 
+vmstat | Report virtual memory statistics 
+  |   
+w | Show who is logged on and what they are doing 
+wait | Wait for a process to complete • 
+watch | Execute/display a program periodically 
+wc | Print byte, word, and line counts 
+whereis | Search the user's $path, man pages and source files for a program 
+which | Search the user's $path for a program file 
+while | Execute commands 
+who | Print all usernames currently logged in 
+whoami | Print the current user id and name ('id -un') 
+wget | Retrieve web pages or files via HTTP, HTTPS or FTP 
+write | Send a message to another user 
+  |   
+xargs | Execute utility, passing constructed argument list(s) 
+xdg-open | Open a file or URL in the user's preferred application. 
+xxd | Make a hexdump or do the reverse 
+xz | Compress or decompress .xz and .lzma files 
+yes | Print a string until interrupted 
+zip | Package and compress (archive) files 
+. | Run a command script in the current shell 
+!! | Run the last command again 
+### | Comment / Remark 
