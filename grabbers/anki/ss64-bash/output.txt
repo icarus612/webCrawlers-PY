@@ -1,312 +1,312 @@
-  |   
-& | Start a new process in the background 
-alias | Create an alias • 
-apropos | Search Help manual pages (man -k) 
-apt | Search for and install software packages (Debian/Ubuntu) 
-apt-get | Search for and install software packages (Debian/Ubuntu) 
-aptitude | Search for and install software packages (Debian/Ubuntu) 
-aspell | Spell Checker  
-at | Schedule a command to run once at a particular time 
-awk | Find and Replace text, database sort/validate/index 
-  |   
-basename | Strip directory and suffix from filenames 
-base32 | Base32 encode/decode data and print to standard output 
-base64 | Base64 encode/decode data and print to standard output 
-bash | GNU Bourne-Again SHell 
-bc | Arbitrary precision calculator language 
-bg | Send to background 
-bind | Set or display readline key and function bindings • 
-break | Exit from a loop • 
-builtin | Run a shell builtin 
-bzip2 | Compress or decompress named file(s) 
-  |   
-cal | Display a calendar 
-caller | Return the context of any active subroutine call • 
-case | Conditionally perform a command 
-cat | Concatenate and print (display) the content of files 
-cd | Change Directory 
-cfdisk | Partition table manipulator for Linux 
-chattr | Change file attributes on a Linux file system 
-chgrp | Change group ownership 
-chmod | Change access permissions 
-chown | Change file owner and group 
-chpasswd | Update passwords in batch mode 
-chroot | Run a command with a different root directory 
-chkconfig | System services (runlevel) 
-cksum | Print CRC checksum and byte counts 
-clear | Clear terminal screen 
-cmp | Compare two files 
-comm | Compare two sorted files line by line 
-command | Run a command - ignoring shell functions • 
-continue | Resume the next iteration of a loop • 
-cp | Copy one or more files to another location 
-cpio | Copy files to and from archives 
-cron | Daemon to execute scheduled commands 
-crontab | Schedule a command to run at a later time 
-csplit | Split a file into context-determined pieces 
-curl | Transfer data  from or to a server 
-cut | Divide a file into several parts 
-  |   
-date | Display or change the date & time 
-dc | Desk Calculator 
-dd | Data Duplicator - convert and copy a file, write disk headers, boot records 
-ddrescue | Data recovery tool 
-declare | Declare variables and give them attributes • 
-df | Display free disk space 
-diff | Display the differences between two files 
-diff3 | Show differences among three files 
-dig | DNS lookup 
-dir | Briefly list directory contents 
-dircolors | Colour setup for 'ls' 
-dirname | Convert a full pathname to just a path 
-dirs | Display list of remembered directories 
-dos2unix | Windows/MAC to UNIX text file format converter 
-dmesg | Print kernel & driver messages  
-dpkg | Package manager  (Debian/Ubuntu). 
-du | Estimate file space usage 
-  |   
-echo | Display message on screen • 
-egrep | Search file(s) for lines that match an extended expression 
-eject | Eject removable media 
-enable | Enable and disable builtin shell commands • 
-env | Environment variables 
-ethtool | Ethernet card settings 
-eval | Evaluate several commands/arguments 
-exec | Execute a command 
-exit | Exit the shell 
-expand | Convert tabs to spaces 
-export | Set an environment variable 
-expr | Evaluate expressions 
-  |   
-false | Do nothing, unsuccessfully 
-fdformat | Low-level format a floppy disk 
-fdisk | Partition table manipulator for Linux 
-fg | Send job to foreground 
-fgrep | Search file(s) for lines that match a fixed string 
-file | Determine file type 
-find | Search for files that meet a desired criteria 
-fmt | Reformat paragraph text 
-fold | Wrap text to fit a specified width 
-for | Expand words, and execute commands 
-format | Format disks or tapes 
-free | Display memory usage 
-fsck | File system consistency check and repair 
-ftp | File Transfer Protocol 
-function | Define Function Macros 
-fuser | Identify/kill the process that is accessing a file 
-  |   
-gawk | Find and Replace text within file(s) 
-getopts | Parse positional parameters 
-getfacl | Get file access control lists 
-grep | Search file(s) for lines that match a given pattern 
-groupadd | Add a user security group 
-groupdel | Delete a group 
-groupmod | Modify a group 
-groups | Print group names a user is in 
-gzip | Compress or decompress named file(s) 
-  |   
-hash | Remember the full pathname of a name argument 
-head | Output the first part of file(s) 
-help | Display help for a built-in command • 
-history | Command History 
-hostname | Print or set system name 
-htop | Interactive process viewer 
-  |   
-iconv | Convert the character set of a file 
-id | Print user and group id's 
-if | Conditionally perform a command 
-ifconfig | Configure a network interface 
-ifdown | Stop a network interface 
-ifup | Start a network interface up 
-import | Capture an X server screen and save the image to file 
-install | Copy files and set attributes 
-iostat | Report CPU and i/o statistics 
-ip | Routing, devices and tunnels 
-  |   
-jobs | List active jobs • 
-join | Join lines on a common field 
-  |   
-kill | Kill a process by specifying its PID 
-killall | Kill processes by name 
-klist | List cached Kerberos tickets 
-  |   
-less | Display output one screen at a time 
-let | Perform arithmetic on shell variables • 
-link | Create a link to a file  
-ln | Create a symbolic link to a file 
-local | Create a function variable • 
-locate | Find files 
-logname | Print current login name 
-logout | Exit a login shell • 
-look | Display lines beginning with a given string 
-lpc | Line printer control program 
-lpr | Print files 
-lprint | Print a file 
-lprintd | Delete a print job 
-lprintq | List the print queue 
-lprm | Remove jobs from the print queue 
-lsattr | List file attributes on a Linux second extended file system 
-lsblk | List block devices 
-ls | List information about file(s) 
-lsof | List open files 
-lspci | List all PCI devices 
-  |   
-make | Recompile a group of programs 
-man | Help manual 
-mapfile | Read lines from standard input into an indexed array variable • 
-mkdir | Create new folder(s) 
-mkfifo | Make FIFOs (named pipes) 
-mkfile | Make a file 
-mkisofs | Create a hybrid ISO9660/JOLIET/HFS filesystem 
-mknod | Make block or character special files 
-mktemp | Make a temporary file 
-more | Display output one screen at a time 
-most | Browse or page through a text file 
-mount | Mount a file system 
-mtools | Manipulate MS-DOS files 
-mtr | Network diagnostics (traceroute/ping) 
-mv | Move or rename files or directories 
-mmv | Mass Move and rename (files) 
-  |   
-nc | Netcat, read and write data across networks 
-netstat | Networking connections/stats 
-nft | nftables for packet filtering and classification 
-nice | Set the priority of a command or job 
-nl | Number lines and write files 
-nohup | Run a command immune to hangups 
-notify-send | Send desktop notifications 
-nslookup | Query Internet name servers interactively 
-  |   
-open | Open a file in its default application 
-op | Operator access 
-  |   
-passwd | Modify a user password 
-paste | Merge lines of files 
-pathchk | Check file name portability 
-Perf | Performance analysis tools for Linux 
-ping | Test a network connection 
-pgrep | List processes by name 
-pkill | Kill processes by name 
-popd | Restore the previous value of the current directory 
-pr | Prepare files for printing 
-printcap | Printer capability database 
-printenv | Print environment variables 
-printf | Format and print data • 
-ps | Process status 
-pushd | Save and then change the current directory 
-pv | Monitor the progress of data through a pipe 
-pwd | Print Working Directory 
-  |   
-quota | Display disk usage and limits 
-quotacheck | Scan a file system for disk usage 
-  |   
-ram | ram disk device 
-rar | Archive files with compression 
-rcp | Copy files between two machines 
-read | Read a line from standard input • 
-readarray | Read from stdin into an array variable • 
-readonly | Mark variables/functions as readonly 
-reboot | Reboot the system 
-rename | Rename files 
-renice | Alter priority of running processes 
-remsync | Synchronize remote files via email 
-return | Exit a shell function 
-rev | Reverse lines of a file 
-rm | Remove files 
-rmdir | Remove folder(s) 
-rsync | Remote file copy (Synchronize file trees) 
-  |   
-screen | Multiplex terminal, run remote shells via ssh 
-scp | Secure copy (remote file copy) 
-sdiff | Merge two files interactively 
-sed | Stream Editor 
-select | Accept user choices via keyboard input 
-seq | Print numeric sequences 
-set | Manipulate shell variables and functions 
-setfacl | Set file access control lists. 
-sftp | Secure File Transfer Program 
-shift | Shift positional parameters 
-shopt | Shell Options 
-shuf | Generate random permutations 
-shutdown | Shutdown or restart linux 
-sleep | Delay for a specified time 
-slocate | Find files 
-sort | Sort text files 
-source | Run commands from a file '.'  • 
-split | Split a file into fixed-size pieces 
-ss | Socket Statistics 
-ssh | Secure Shell client (remote login program) 
-stat | Display file or file system status 
-strace | Trace system calls and signals 
-su | Substitute user identity 
-sudo | Execute a command as another user 
-sum | Print a checksum for a file 
-suspend | Suspend execution of this shell • 
-sync | Synchronize data on disk with memory 
-  |   
-tail | Output the last part of a file 
-tar | Store, list or extract files in an archive 
-tee | Redirect output to multiple files 
-test | Evaluate a conditional expression 
-time | Measure Program running time 
-timeout | Run a command with a time limit 
-times | User and system times 
-tmux | Terminal multiplexer 
-touch | Change file timestamps 
-top | List processes running on the system 
-tput | Set terminal-dependent capabilities, color, position 
-traceroute | Trace Route to Host 
-trap | Execute a command when the shell receives a signal • 
-tr | Translate, squeeze, and/or delete characters 
-true | Do nothing, successfully 
-tsort | Topological sort 
-tty | Print filename of terminal on stdin 
-type | Describe a command • 
-  |   
-ulimit | Limit user resources • 
-umask | Users file creation mask 
-umount | Unmount a device 
-unalias | Remove an alias • 
-uname | Print system information 
-unexpand | Convert spaces to tabs 
-uniq | Uniquify files 
-units | Convert units from one scale to another 
-unix2dos | UNIX to Windows or MAC text file format converter 
-unrar | Extract files from a rar archive 
-unset | Remove variable or function names 
-unshar | Unpack shell archive scripts 
-until | Execute commands (until error) 
-uptime | Show uptime 
-useradd | Create new user account 
-userdel | Delete a user account 
-usermod | Modify user account 
-users | List users currently logged in 
-uuencode | Encode a binary file 
-uudecode | Decode a file created by uuencode 
-  |   
-v | Verbosely list directory contents ('ls -l -b') 
-vdir | Verbosely list directory contents ('ls -l -b') 
-vi | Text Editor 
-vmstat | Report virtual memory statistics 
-  |   
-w | Show who is logged on and what they are doing 
-wait | Wait for a process to complete • 
-watch | Execute/display a program periodically 
-wc | Print byte, word, and line counts 
-whereis | Search the user's $path, man pages and source files for a program 
-which | Search the user's $path for a program file 
-while | Execute commands 
-who | Print all usernames currently logged in 
-whoami | Print the current user id and name ('id -un') 
-wget | Retrieve web pages or files via HTTP, HTTPS or FTP 
-write | Send a message to another user 
-  |   
-xargs | Execute utility, passing constructed argument list(s) 
-xdg-open | Open a file or URL in the user's preferred application. 
-xxd | Make a hexdump or do the reverse 
-xz | Compress or decompress .xz and .lzma files 
-yes | Print a string until interrupted 
-zip | Package and compress (archive) files 
-. | Run a command script in the current shell 
-!! | Run the last command again 
-### | Comment / Remark 
+[] | [] 
+['&'] | ['S', 't', 'a', 'r', 't', ' ', 'a', ' ', 'n', 'e', 'w', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', ' ', 'i', 'n', ' ', 't', 'h', 'e', ' ', 'b', 'a', 'c', 'k', 'g', 'r', 'o', 'u', 'n', 'd'] 
+['a', 'l', 'i', 'a', 's'] | ['C', 'r', 'e', 'a', 't', 'e', ' ', 'a', 'n', ' ', 'a', 'l', 'i', 'a', 's', ' ', '•'] 
+['a', 'p', 'r', 'o', 'p', 'o', 's'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 'H', 'e', 'l', 'p', ' ', 'm', 'a', 'n', 'u', 'a', 'l', ' ', 'p', 'a', 'g', 'e', 's', ' ', '(', 'm', 'a', 'n', ' ', '-', 'k', ')'] 
+['a', 'p', 't'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 'f', 'o', 'r', ' ', 'a', 'n', 'd', ' ', 'i', 'n', 's', 't', 'a', 'l', 'l', ' ', 's', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'p', 'a', 'c', 'k', 'a', 'g', 'e', 's', ' ', '(', 'D', 'e', 'b', 'i', 'a', 'n', '/', 'U', 'b', 'u', 'n', 't', 'u', ')'] 
+['a', 'p', 't', '-', 'g', 'e', 't'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 'f', 'o', 'r', ' ', 'a', 'n', 'd', ' ', 'i', 'n', 's', 't', 'a', 'l', 'l', ' ', 's', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'p', 'a', 'c', 'k', 'a', 'g', 'e', 's', ' ', '(', 'D', 'e', 'b', 'i', 'a', 'n', '/', 'U', 'b', 'u', 'n', 't', 'u', ')'] 
+['a', 'p', 't', 'i', 't', 'u', 'd', 'e'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 'f', 'o', 'r', ' ', 'a', 'n', 'd', ' ', 'i', 'n', 's', 't', 'a', 'l', 'l', ' ', 's', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'p', 'a', 'c', 'k', 'a', 'g', 'e', 's', ' ', '(', 'D', 'e', 'b', 'i', 'a', 'n', '/', 'U', 'b', 'u', 'n', 't', 'u', ')'] 
+['a', 's', 'p', 'e', 'l', 'l'] | ['S', 'p', 'e', 'l', 'l', ' ', 'C', 'h', 'e', 'c', 'k', 'e', 'r', ' '] 
+['a', 't'] | ['S', 'c', 'h', 'e', 'd', 'u', 'l', 'e', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 't', 'o', ' ', 'r', 'u', 'n', ' ', 'o', 'n', 'c', 'e', ' ', 'a', 't', ' ', 'a', ' ', 'p', 'a', 'r', 't', 'i', 'c', 'u', 'l', 'a', 'r', ' ', 't', 'i', 'm', 'e'] 
+['a', 'w', 'k'] | ['F', 'i', 'n', 'd', ' ', 'a', 'n', 'd', ' ', 'R', 'e', 'p', 'l', 'a', 'c', 'e', ' ', 't', 'e', 'x', 't', ',', ' ', 'd', 'a', 't', 'a', 'b', 'a', 's', 'e', ' ', 's', 'o', 'r', 't', '/', 'v', 'a', 'l', 'i', 'd', 'a', 't', 'e', '/', 'i', 'n', 'd', 'e', 'x'] 
+[] | [] 
+['b', 'a', 's', 'e', 'n', 'a', 'm', 'e'] | ['S', 't', 'r', 'i', 'p', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y', ' ', 'a', 'n', 'd', ' ', 's', 'u', 'f', 'f', 'i', 'x', ' ', 'f', 'r', 'o', 'm', ' ', 'f', 'i', 'l', 'e', 'n', 'a', 'm', 'e', 's'] 
+['b', 'a', 's', 'e', '3', '2'] | ['B', 'a', 's', 'e', '3', '2', ' ', 'e', 'n', 'c', 'o', 'd', 'e', '/', 'd', 'e', 'c', 'o', 'd', 'e', ' ', 'd', 'a', 't', 'a', ' ', 'a', 'n', 'd', ' ', 'p', 'r', 'i', 'n', 't', ' ', 't', 'o', ' ', 's', 't', 'a', 'n', 'd', 'a', 'r', 'd', ' ', 'o', 'u', 't', 'p', 'u', 't'] 
+['b', 'a', 's', 'e', '6', '4'] | ['B', 'a', 's', 'e', '6', '4', ' ', 'e', 'n', 'c', 'o', 'd', 'e', '/', 'd', 'e', 'c', 'o', 'd', 'e', ' ', 'd', 'a', 't', 'a', ' ', 'a', 'n', 'd', ' ', 'p', 'r', 'i', 'n', 't', ' ', 't', 'o', ' ', 's', 't', 'a', 'n', 'd', 'a', 'r', 'd', ' ', 'o', 'u', 't', 'p', 'u', 't'] 
+['b', 'a', 's', 'h'] | ['G', 'N', 'U', ' ', 'B', 'o', 'u', 'r', 'n', 'e', '-', 'A', 'g', 'a', 'i', 'n', ' ', 'S', 'H', 'e', 'l', 'l'] 
+['b', 'c'] | ['A', 'r', 'b', 'i', 't', 'r', 'a', 'r', 'y', ' ', 'p', 'r', 'e', 'c', 'i', 's', 'i', 'o', 'n', ' ', 'c', 'a', 'l', 'c', 'u', 'l', 'a', 't', 'o', 'r', ' ', 'l', 'a', 'n', 'g', 'u', 'a', 'g', 'e'] 
+['b', 'g'] | ['S', 'e', 'n', 'd', ' ', 't', 'o', ' ', 'b', 'a', 'c', 'k', 'g', 'r', 'o', 'u', 'n', 'd'] 
+['b', 'i', 'n', 'd'] | ['S', 'e', 't', ' ', 'o', 'r', ' ', 'd', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'r', 'e', 'a', 'd', 'l', 'i', 'n', 'e', ' ', 'k', 'e', 'y', ' ', 'a', 'n', 'd', ' ', 'f', 'u', 'n', 'c', 't', 'i', 'o', 'n', ' ', 'b', 'i', 'n', 'd', 'i', 'n', 'g', 's', ' ', '•'] 
+['b', 'r', 'e', 'a', 'k'] | ['E', 'x', 'i', 't', ' ', 'f', 'r', 'o', 'm', ' ', 'a', ' ', 'l', 'o', 'o', 'p', ' ', '•'] 
+['b', 'u', 'i', 'l', 't', 'i', 'n'] | ['R', 'u', 'n', ' ', 'a', ' ', 's', 'h', 'e', 'l', 'l', ' ', 'b', 'u', 'i', 'l', 't', 'i', 'n'] 
+['b', 'z', 'i', 'p', '2'] | ['C', 'o', 'm', 'p', 'r', 'e', 's', 's', ' ', 'o', 'r', ' ', 'd', 'e', 'c', 'o', 'm', 'p', 'r', 'e', 's', 's', ' ', 'n', 'a', 'm', 'e', 'd', ' ', 'f', 'i', 'l', 'e', '(', 's', ')'] 
+[] | [] 
+['c', 'a', 'l'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'a', ' ', 'c', 'a', 'l', 'e', 'n', 'd', 'a', 'r'] 
+['c', 'a', 'l', 'l', 'e', 'r'] | ['R', 'e', 't', 'u', 'r', 'n', ' ', 't', 'h', 'e', ' ', 'c', 'o', 'n', 't', 'e', 'x', 't', ' ', 'o', 'f', ' ', 'a', 'n', 'y', ' ', 'a', 'c', 't', 'i', 'v', 'e', ' ', 's', 'u', 'b', 'r', 'o', 'u', 't', 'i', 'n', 'e', ' ', 'c', 'a', 'l', 'l', ' ', '•'] 
+['c', 'a', 's', 'e'] | ['C', 'o', 'n', 'd', 'i', 't', 'i', 'o', 'n', 'a', 'l', 'l', 'y', ' ', 'p', 'e', 'r', 'f', 'o', 'r', 'm', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd'] 
+['c', 'a', 't'] | ['C', 'o', 'n', 'c', 'a', 't', 'e', 'n', 'a', 't', 'e', ' ', 'a', 'n', 'd', ' ', 'p', 'r', 'i', 'n', 't', ' ', '(', 'd', 'i', 's', 'p', 'l', 'a', 'y', ')', ' ', 't', 'h', 'e', ' ', 'c', 'o', 'n', 't', 'e', 'n', 't', ' ', 'o', 'f', ' ', 'f', 'i', 'l', 'e', 's'] 
+['c', 'd'] | ['C', 'h', 'a', 'n', 'g', 'e', ' ', 'D', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y'] 
+['c', 'f', 'd', 'i', 's', 'k'] | ['P', 'a', 'r', 't', 'i', 't', 'i', 'o', 'n', ' ', 't', 'a', 'b', 'l', 'e', ' ', 'm', 'a', 'n', 'i', 'p', 'u', 'l', 'a', 't', 'o', 'r', ' ', 'f', 'o', 'r', ' ', 'L', 'i', 'n', 'u', 'x'] 
+['c', 'h', 'a', 't', 't', 'r'] | ['C', 'h', 'a', 'n', 'g', 'e', ' ', 'f', 'i', 'l', 'e', ' ', 'a', 't', 't', 'r', 'i', 'b', 'u', 't', 'e', 's', ' ', 'o', 'n', ' ', 'a', ' ', 'L', 'i', 'n', 'u', 'x', ' ', 'f', 'i', 'l', 'e', ' ', 's', 'y', 's', 't', 'e', 'm'] 
+['c', 'h', 'g', 'r', 'p'] | ['C', 'h', 'a', 'n', 'g', 'e', ' ', 'g', 'r', 'o', 'u', 'p', ' ', 'o', 'w', 'n', 'e', 'r', 's', 'h', 'i', 'p'] 
+['c', 'h', 'm', 'o', 'd'] | ['C', 'h', 'a', 'n', 'g', 'e', ' ', 'a', 'c', 'c', 'e', 's', 's', ' ', 'p', 'e', 'r', 'm', 'i', 's', 's', 'i', 'o', 'n', 's'] 
+['c', 'h', 'o', 'w', 'n'] | ['C', 'h', 'a', 'n', 'g', 'e', ' ', 'f', 'i', 'l', 'e', ' ', 'o', 'w', 'n', 'e', 'r', ' ', 'a', 'n', 'd', ' ', 'g', 'r', 'o', 'u', 'p'] 
+['c', 'h', 'p', 'a', 's', 's', 'w', 'd'] | ['U', 'p', 'd', 'a', 't', 'e', ' ', 'p', 'a', 's', 's', 'w', 'o', 'r', 'd', 's', ' ', 'i', 'n', ' ', 'b', 'a', 't', 'c', 'h', ' ', 'm', 'o', 'd', 'e'] 
+['c', 'h', 'r', 'o', 'o', 't'] | ['R', 'u', 'n', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 'w', 'i', 't', 'h', ' ', 'a', ' ', 'd', 'i', 'f', 'f', 'e', 'r', 'e', 'n', 't', ' ', 'r', 'o', 'o', 't', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y'] 
+['c', 'h', 'k', 'c', 'o', 'n', 'f', 'i', 'g'] | ['S', 'y', 's', 't', 'e', 'm', ' ', 's', 'e', 'r', 'v', 'i', 'c', 'e', 's', ' ', '(', 'r', 'u', 'n', 'l', 'e', 'v', 'e', 'l', ')'] 
+['c', 'k', 's', 'u', 'm'] | ['P', 'r', 'i', 'n', 't', ' ', 'C', 'R', 'C', ' ', 'c', 'h', 'e', 'c', 'k', 's', 'u', 'm', ' ', 'a', 'n', 'd', ' ', 'b', 'y', 't', 'e', ' ', 'c', 'o', 'u', 'n', 't', 's'] 
+['c', 'l', 'e', 'a', 'r'] | ['C', 'l', 'e', 'a', 'r', ' ', 't', 'e', 'r', 'm', 'i', 'n', 'a', 'l', ' ', 's', 'c', 'r', 'e', 'e', 'n'] 
+['c', 'm', 'p'] | ['C', 'o', 'm', 'p', 'a', 'r', 'e', ' ', 't', 'w', 'o', ' ', 'f', 'i', 'l', 'e', 's'] 
+['c', 'o', 'm', 'm'] | ['C', 'o', 'm', 'p', 'a', 'r', 'e', ' ', 't', 'w', 'o', ' ', 's', 'o', 'r', 't', 'e', 'd', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'l', 'i', 'n', 'e', ' ', 'b', 'y', ' ', 'l', 'i', 'n', 'e'] 
+['c', 'o', 'm', 'm', 'a', 'n', 'd'] | ['R', 'u', 'n', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', '-', ' ', 'i', 'g', 'n', 'o', 'r', 'i', 'n', 'g', ' ', 's', 'h', 'e', 'l', 'l', ' ', 'f', 'u', 'n', 'c', 't', 'i', 'o', 'n', 's', ' ', '•'] 
+['c', 'o', 'n', 't', 'i', 'n', 'u', 'e'] | ['R', 'e', 's', 'u', 'm', 'e', ' ', 't', 'h', 'e', ' ', 'n', 'e', 'x', 't', ' ', 'i', 't', 'e', 'r', 'a', 't', 'i', 'o', 'n', ' ', 'o', 'f', ' ', 'a', ' ', 'l', 'o', 'o', 'p', ' ', '•'] 
+['c', 'p'] | ['C', 'o', 'p', 'y', ' ', 'o', 'n', 'e', ' ', 'o', 'r', ' ', 'm', 'o', 'r', 'e', ' ', 'f', 'i', 'l', 'e', 's', ' ', 't', 'o', ' ', 'a', 'n', 'o', 't', 'h', 'e', 'r', ' ', 'l', 'o', 'c', 'a', 't', 'i', 'o', 'n'] 
+['c', 'p', 'i', 'o'] | ['C', 'o', 'p', 'y', ' ', 'f', 'i', 'l', 'e', 's', ' ', 't', 'o', ' ', 'a', 'n', 'd', ' ', 'f', 'r', 'o', 'm', ' ', 'a', 'r', 'c', 'h', 'i', 'v', 'e', 's'] 
+['c', 'r', 'o', 'n'] | ['D', 'a', 'e', 'm', 'o', 'n', ' ', 't', 'o', ' ', 'e', 'x', 'e', 'c', 'u', 't', 'e', ' ', 's', 'c', 'h', 'e', 'd', 'u', 'l', 'e', 'd', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', 's'] 
+['c', 'r', 'o', 'n', 't', 'a', 'b'] | ['S', 'c', 'h', 'e', 'd', 'u', 'l', 'e', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 't', 'o', ' ', 'r', 'u', 'n', ' ', 'a', 't', ' ', 'a', ' ', 'l', 'a', 't', 'e', 'r', ' ', 't', 'i', 'm', 'e'] 
+['c', 's', 'p', 'l', 'i', 't'] | ['S', 'p', 'l', 'i', 't', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', 'i', 'n', 't', 'o', ' ', 'c', 'o', 'n', 't', 'e', 'x', 't', '-', 'd', 'e', 't', 'e', 'r', 'm', 'i', 'n', 'e', 'd', ' ', 'p', 'i', 'e', 'c', 'e', 's'] 
+['c', 'u', 'r', 'l'] | ['T', 'r', 'a', 'n', 's', 'f', 'e', 'r', ' ', 'd', 'a', 't', 'a', ' ', ' ', 'f', 'r', 'o', 'm', ' ', 'o', 'r', ' ', 't', 'o', ' ', 'a', ' ', 's', 'e', 'r', 'v', 'e', 'r'] 
+['c', 'u', 't'] | ['D', 'i', 'v', 'i', 'd', 'e', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', 'i', 'n', 't', 'o', ' ', 's', 'e', 'v', 'e', 'r', 'a', 'l', ' ', 'p', 'a', 'r', 't', 's'] 
+[] | [] 
+['d', 'a', 't', 'e'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'o', 'r', ' ', 'c', 'h', 'a', 'n', 'g', 'e', ' ', 't', 'h', 'e', ' ', 'd', 'a', 't', 'e', ' ', '&', ' ', 't', 'i', 'm', 'e'] 
+['d', 'c'] | ['D', 'e', 's', 'k', ' ', 'C', 'a', 'l', 'c', 'u', 'l', 'a', 't', 'o', 'r'] 
+['d', 'd'] | ['D', 'a', 't', 'a', ' ', 'D', 'u', 'p', 'l', 'i', 'c', 'a', 't', 'o', 'r', ' ', '-', ' ', 'c', 'o', 'n', 'v', 'e', 'r', 't', ' ', 'a', 'n', 'd', ' ', 'c', 'o', 'p', 'y', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ',', ' ', 'w', 'r', 'i', 't', 'e', ' ', 'd', 'i', 's', 'k', ' ', 'h', 'e', 'a', 'd', 'e', 'r', 's', ',', ' ', 'b', 'o', 'o', 't', ' ', 'r', 'e', 'c', 'o', 'r', 'd', 's'] 
+['d', 'd', 'r', 'e', 's', 'c', 'u', 'e'] | ['D', 'a', 't', 'a', ' ', 'r', 'e', 'c', 'o', 'v', 'e', 'r', 'y', ' ', 't', 'o', 'o', 'l'] 
+['d', 'e', 'c', 'l', 'a', 'r', 'e'] | ['D', 'e', 'c', 'l', 'a', 'r', 'e', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', 's', ' ', 'a', 'n', 'd', ' ', 'g', 'i', 'v', 'e', ' ', 't', 'h', 'e', 'm', ' ', 'a', 't', 't', 'r', 'i', 'b', 'u', 't', 'e', 's', ' ', '•'] 
+['d', 'f'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'f', 'r', 'e', 'e', ' ', 'd', 'i', 's', 'k', ' ', 's', 'p', 'a', 'c', 'e'] 
+['d', 'i', 'f', 'f'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 't', 'h', 'e', ' ', 'd', 'i', 'f', 'f', 'e', 'r', 'e', 'n', 'c', 'e', 's', ' ', 'b', 'e', 't', 'w', 'e', 'e', 'n', ' ', 't', 'w', 'o', ' ', 'f', 'i', 'l', 'e', 's'] 
+['d', 'i', 'f', 'f', '3'] | ['S', 'h', 'o', 'w', ' ', 'd', 'i', 'f', 'f', 'e', 'r', 'e', 'n', 'c', 'e', 's', ' ', 'a', 'm', 'o', 'n', 'g', ' ', 't', 'h', 'r', 'e', 'e', ' ', 'f', 'i', 'l', 'e', 's'] 
+['d', 'i', 'g'] | ['D', 'N', 'S', ' ', 'l', 'o', 'o', 'k', 'u', 'p'] 
+['d', 'i', 'r'] | ['B', 'r', 'i', 'e', 'f', 'l', 'y', ' ', 'l', 'i', 's', 't', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y', ' ', 'c', 'o', 'n', 't', 'e', 'n', 't', 's'] 
+['d', 'i', 'r', 'c', 'o', 'l', 'o', 'r', 's'] | ['C', 'o', 'l', 'o', 'u', 'r', ' ', 's', 'e', 't', 'u', 'p', ' ', 'f', 'o', 'r', ' ', "'", 'l', 's', "'"] 
+['d', 'i', 'r', 'n', 'a', 'm', 'e'] | ['C', 'o', 'n', 'v', 'e', 'r', 't', ' ', 'a', ' ', 'f', 'u', 'l', 'l', ' ', 'p', 'a', 't', 'h', 'n', 'a', 'm', 'e', ' ', 't', 'o', ' ', 'j', 'u', 's', 't', ' ', 'a', ' ', 'p', 'a', 't', 'h'] 
+['d', 'i', 'r', 's'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'l', 'i', 's', 't', ' ', 'o', 'f', ' ', 'r', 'e', 'm', 'e', 'm', 'b', 'e', 'r', 'e', 'd', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'i', 'e', 's'] 
+['d', 'o', 's', '2', 'u', 'n', 'i', 'x'] | ['W', 'i', 'n', 'd', 'o', 'w', 's', '/', 'M', 'A', 'C', ' ', 't', 'o', ' ', 'U', 'N', 'I', 'X', ' ', 't', 'e', 'x', 't', ' ', 'f', 'i', 'l', 'e', ' ', 'f', 'o', 'r', 'm', 'a', 't', ' ', 'c', 'o', 'n', 'v', 'e', 'r', 't', 'e', 'r'] 
+['d', 'm', 'e', 's', 'g'] | ['P', 'r', 'i', 'n', 't', ' ', 'k', 'e', 'r', 'n', 'e', 'l', ' ', '&', ' ', 'd', 'r', 'i', 'v', 'e', 'r', ' ', 'm', 'e', 's', 's', 'a', 'g', 'e', 's', ' '] 
+['d', 'p', 'k', 'g'] | ['P', 'a', 'c', 'k', 'a', 'g', 'e', ' ', 'm', 'a', 'n', 'a', 'g', 'e', 'r', ' ', ' ', '(', 'D', 'e', 'b', 'i', 'a', 'n', '/', 'U', 'b', 'u', 'n', 't', 'u', ')', '.'] 
+['d', 'u'] | ['E', 's', 't', 'i', 'm', 'a', 't', 'e', ' ', 'f', 'i', 'l', 'e', ' ', 's', 'p', 'a', 'c', 'e', ' ', 'u', 's', 'a', 'g', 'e'] 
+[] | [] 
+['e', 'c', 'h', 'o'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'm', 'e', 's', 's', 'a', 'g', 'e', ' ', 'o', 'n', ' ', 's', 'c', 'r', 'e', 'e', 'n', ' ', '•'] 
+['e', 'g', 'r', 'e', 'p'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 'f', 'i', 'l', 'e', '(', 's', ')', ' ', 'f', 'o', 'r', ' ', 'l', 'i', 'n', 'e', 's', ' ', 't', 'h', 'a', 't', ' ', 'm', 'a', 't', 'c', 'h', ' ', 'a', 'n', ' ', 'e', 'x', 't', 'e', 'n', 'd', 'e', 'd', ' ', 'e', 'x', 'p', 'r', 'e', 's', 's', 'i', 'o', 'n'] 
+['e', 'j', 'e', 'c', 't'] | ['E', 'j', 'e', 'c', 't', ' ', 'r', 'e', 'm', 'o', 'v', 'a', 'b', 'l', 'e', ' ', 'm', 'e', 'd', 'i', 'a'] 
+['e', 'n', 'a', 'b', 'l', 'e'] | ['E', 'n', 'a', 'b', 'l', 'e', ' ', 'a', 'n', 'd', ' ', 'd', 'i', 's', 'a', 'b', 'l', 'e', ' ', 'b', 'u', 'i', 'l', 't', 'i', 'n', ' ', 's', 'h', 'e', 'l', 'l', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', 's', ' ', '•'] 
+['e', 'n', 'v'] | ['E', 'n', 'v', 'i', 'r', 'o', 'n', 'm', 'e', 'n', 't', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', 's'] 
+['e', 't', 'h', 't', 'o', 'o', 'l'] | ['E', 't', 'h', 'e', 'r', 'n', 'e', 't', ' ', 'c', 'a', 'r', 'd', ' ', 's', 'e', 't', 't', 'i', 'n', 'g', 's'] 
+['e', 'v', 'a', 'l'] | ['E', 'v', 'a', 'l', 'u', 'a', 't', 'e', ' ', 's', 'e', 'v', 'e', 'r', 'a', 'l', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', 's', '/', 'a', 'r', 'g', 'u', 'm', 'e', 'n', 't', 's'] 
+['e', 'x', 'e', 'c'] | ['E', 'x', 'e', 'c', 'u', 't', 'e', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd'] 
+['e', 'x', 'i', 't'] | ['E', 'x', 'i', 't', ' ', 't', 'h', 'e', ' ', 's', 'h', 'e', 'l', 'l'] 
+['e', 'x', 'p', 'a', 'n', 'd'] | ['C', 'o', 'n', 'v', 'e', 'r', 't', ' ', 't', 'a', 'b', 's', ' ', 't', 'o', ' ', 's', 'p', 'a', 'c', 'e', 's'] 
+['e', 'x', 'p', 'o', 'r', 't'] | ['S', 'e', 't', ' ', 'a', 'n', ' ', 'e', 'n', 'v', 'i', 'r', 'o', 'n', 'm', 'e', 'n', 't', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e'] 
+['e', 'x', 'p', 'r'] | ['E', 'v', 'a', 'l', 'u', 'a', 't', 'e', ' ', 'e', 'x', 'p', 'r', 'e', 's', 's', 'i', 'o', 'n', 's'] 
+[] | [] 
+['f', 'a', 'l', 's', 'e'] | ['D', 'o', ' ', 'n', 'o', 't', 'h', 'i', 'n', 'g', ',', ' ', 'u', 'n', 's', 'u', 'c', 'c', 'e', 's', 's', 'f', 'u', 'l', 'l', 'y'] 
+['f', 'd', 'f', 'o', 'r', 'm', 'a', 't'] | ['L', 'o', 'w', '-', 'l', 'e', 'v', 'e', 'l', ' ', 'f', 'o', 'r', 'm', 'a', 't', ' ', 'a', ' ', 'f', 'l', 'o', 'p', 'p', 'y', ' ', 'd', 'i', 's', 'k'] 
+['f', 'd', 'i', 's', 'k'] | ['P', 'a', 'r', 't', 'i', 't', 'i', 'o', 'n', ' ', 't', 'a', 'b', 'l', 'e', ' ', 'm', 'a', 'n', 'i', 'p', 'u', 'l', 'a', 't', 'o', 'r', ' ', 'f', 'o', 'r', ' ', 'L', 'i', 'n', 'u', 'x'] 
+['f', 'g'] | ['S', 'e', 'n', 'd', ' ', 'j', 'o', 'b', ' ', 't', 'o', ' ', 'f', 'o', 'r', 'e', 'g', 'r', 'o', 'u', 'n', 'd'] 
+['f', 'g', 'r', 'e', 'p'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 'f', 'i', 'l', 'e', '(', 's', ')', ' ', 'f', 'o', 'r', ' ', 'l', 'i', 'n', 'e', 's', ' ', 't', 'h', 'a', 't', ' ', 'm', 'a', 't', 'c', 'h', ' ', 'a', ' ', 'f', 'i', 'x', 'e', 'd', ' ', 's', 't', 'r', 'i', 'n', 'g'] 
+['f', 'i', 'l', 'e'] | ['D', 'e', 't', 'e', 'r', 'm', 'i', 'n', 'e', ' ', 'f', 'i', 'l', 'e', ' ', 't', 'y', 'p', 'e'] 
+['f', 'i', 'n', 'd'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 'f', 'o', 'r', ' ', 'f', 'i', 'l', 'e', 's', ' ', 't', 'h', 'a', 't', ' ', 'm', 'e', 'e', 't', ' ', 'a', ' ', 'd', 'e', 's', 'i', 'r', 'e', 'd', ' ', 'c', 'r', 'i', 't', 'e', 'r', 'i', 'a'] 
+['f', 'm', 't'] | ['R', 'e', 'f', 'o', 'r', 'm', 'a', 't', ' ', 'p', 'a', 'r', 'a', 'g', 'r', 'a', 'p', 'h', ' ', 't', 'e', 'x', 't'] 
+['f', 'o', 'l', 'd'] | ['W', 'r', 'a', 'p', ' ', 't', 'e', 'x', 't', ' ', 't', 'o', ' ', 'f', 'i', 't', ' ', 'a', ' ', 's', 'p', 'e', 'c', 'i', 'f', 'i', 'e', 'd', ' ', 'w', 'i', 'd', 't', 'h'] 
+['f', 'o', 'r'] | ['E', 'x', 'p', 'a', 'n', 'd', ' ', 'w', 'o', 'r', 'd', 's', ',', ' ', 'a', 'n', 'd', ' ', 'e', 'x', 'e', 'c', 'u', 't', 'e', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', 's'] 
+['f', 'o', 'r', 'm', 'a', 't'] | ['F', 'o', 'r', 'm', 'a', 't', ' ', 'd', 'i', 's', 'k', 's', ' ', 'o', 'r', ' ', 't', 'a', 'p', 'e', 's'] 
+['f', 'r', 'e', 'e'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'm', 'e', 'm', 'o', 'r', 'y', ' ', 'u', 's', 'a', 'g', 'e'] 
+['f', 's', 'c', 'k'] | ['F', 'i', 'l', 'e', ' ', 's', 'y', 's', 't', 'e', 'm', ' ', 'c', 'o', 'n', 's', 'i', 's', 't', 'e', 'n', 'c', 'y', ' ', 'c', 'h', 'e', 'c', 'k', ' ', 'a', 'n', 'd', ' ', 'r', 'e', 'p', 'a', 'i', 'r'] 
+['f', 't', 'p'] | ['F', 'i', 'l', 'e', ' ', 'T', 'r', 'a', 'n', 's', 'f', 'e', 'r', ' ', 'P', 'r', 'o', 't', 'o', 'c', 'o', 'l'] 
+['f', 'u', 'n', 'c', 't', 'i', 'o', 'n'] | ['D', 'e', 'f', 'i', 'n', 'e', ' ', 'F', 'u', 'n', 'c', 't', 'i', 'o', 'n', ' ', 'M', 'a', 'c', 'r', 'o', 's'] 
+['f', 'u', 's', 'e', 'r'] | ['I', 'd', 'e', 'n', 't', 'i', 'f', 'y', '/', 'k', 'i', 'l', 'l', ' ', 't', 'h', 'e', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', ' ', 't', 'h', 'a', 't', ' ', 'i', 's', ' ', 'a', 'c', 'c', 'e', 's', 's', 'i', 'n', 'g', ' ', 'a', ' ', 'f', 'i', 'l', 'e'] 
+[] | [] 
+['g', 'a', 'w', 'k'] | ['F', 'i', 'n', 'd', ' ', 'a', 'n', 'd', ' ', 'R', 'e', 'p', 'l', 'a', 'c', 'e', ' ', 't', 'e', 'x', 't', ' ', 'w', 'i', 't', 'h', 'i', 'n', ' ', 'f', 'i', 'l', 'e', '(', 's', ')'] 
+['g', 'e', 't', 'o', 'p', 't', 's'] | ['P', 'a', 'r', 's', 'e', ' ', 'p', 'o', 's', 'i', 't', 'i', 'o', 'n', 'a', 'l', ' ', 'p', 'a', 'r', 'a', 'm', 'e', 't', 'e', 'r', 's'] 
+['g', 'e', 't', 'f', 'a', 'c', 'l'] | ['G', 'e', 't', ' ', 'f', 'i', 'l', 'e', ' ', 'a', 'c', 'c', 'e', 's', 's', ' ', 'c', 'o', 'n', 't', 'r', 'o', 'l', ' ', 'l', 'i', 's', 't', 's'] 
+['g', 'r', 'e', 'p'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 'f', 'i', 'l', 'e', '(', 's', ')', ' ', 'f', 'o', 'r', ' ', 'l', 'i', 'n', 'e', 's', ' ', 't', 'h', 'a', 't', ' ', 'm', 'a', 't', 'c', 'h', ' ', 'a', ' ', 'g', 'i', 'v', 'e', 'n', ' ', 'p', 'a', 't', 't', 'e', 'r', 'n'] 
+['g', 'r', 'o', 'u', 'p', 'a', 'd', 'd'] | ['A', 'd', 'd', ' ', 'a', ' ', 'u', 's', 'e', 'r', ' ', 's', 'e', 'c', 'u', 'r', 'i', 't', 'y', ' ', 'g', 'r', 'o', 'u', 'p'] 
+['g', 'r', 'o', 'u', 'p', 'd', 'e', 'l'] | ['D', 'e', 'l', 'e', 't', 'e', ' ', 'a', ' ', 'g', 'r', 'o', 'u', 'p'] 
+['g', 'r', 'o', 'u', 'p', 'm', 'o', 'd'] | ['M', 'o', 'd', 'i', 'f', 'y', ' ', 'a', ' ', 'g', 'r', 'o', 'u', 'p'] 
+['g', 'r', 'o', 'u', 'p', 's'] | ['P', 'r', 'i', 'n', 't', ' ', 'g', 'r', 'o', 'u', 'p', ' ', 'n', 'a', 'm', 'e', 's', ' ', 'a', ' ', 'u', 's', 'e', 'r', ' ', 'i', 's', ' ', 'i', 'n'] 
+['g', 'z', 'i', 'p'] | ['C', 'o', 'm', 'p', 'r', 'e', 's', 's', ' ', 'o', 'r', ' ', 'd', 'e', 'c', 'o', 'm', 'p', 'r', 'e', 's', 's', ' ', 'n', 'a', 'm', 'e', 'd', ' ', 'f', 'i', 'l', 'e', '(', 's', ')'] 
+[] | [] 
+['h', 'a', 's', 'h'] | ['R', 'e', 'm', 'e', 'm', 'b', 'e', 'r', ' ', 't', 'h', 'e', ' ', 'f', 'u', 'l', 'l', ' ', 'p', 'a', 't', 'h', 'n', 'a', 'm', 'e', ' ', 'o', 'f', ' ', 'a', ' ', 'n', 'a', 'm', 'e', ' ', 'a', 'r', 'g', 'u', 'm', 'e', 'n', 't'] 
+['h', 'e', 'a', 'd'] | ['O', 'u', 't', 'p', 'u', 't', ' ', 't', 'h', 'e', ' ', 'f', 'i', 'r', 's', 't', ' ', 'p', 'a', 'r', 't', ' ', 'o', 'f', ' ', 'f', 'i', 'l', 'e', '(', 's', ')'] 
+['h', 'e', 'l', 'p'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'h', 'e', 'l', 'p', ' ', 'f', 'o', 'r', ' ', 'a', ' ', 'b', 'u', 'i', 'l', 't', '-', 'i', 'n', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', '•'] 
+['h', 'i', 's', 't', 'o', 'r', 'y'] | ['C', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 'H', 'i', 's', 't', 'o', 'r', 'y'] 
+['h', 'o', 's', 't', 'n', 'a', 'm', 'e'] | ['P', 'r', 'i', 'n', 't', ' ', 'o', 'r', ' ', 's', 'e', 't', ' ', 's', 'y', 's', 't', 'e', 'm', ' ', 'n', 'a', 'm', 'e'] 
+['h', 't', 'o', 'p'] | ['I', 'n', 't', 'e', 'r', 'a', 'c', 't', 'i', 'v', 'e', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', ' ', 'v', 'i', 'e', 'w', 'e', 'r'] 
+[] | [] 
+['i', 'c', 'o', 'n', 'v'] | ['C', 'o', 'n', 'v', 'e', 'r', 't', ' ', 't', 'h', 'e', ' ', 'c', 'h', 'a', 'r', 'a', 'c', 't', 'e', 'r', ' ', 's', 'e', 't', ' ', 'o', 'f', ' ', 'a', ' ', 'f', 'i', 'l', 'e'] 
+['i', 'd'] | ['P', 'r', 'i', 'n', 't', ' ', 'u', 's', 'e', 'r', ' ', 'a', 'n', 'd', ' ', 'g', 'r', 'o', 'u', 'p', ' ', 'i', 'd', "'", 's'] 
+['i', 'f'] | ['C', 'o', 'n', 'd', 'i', 't', 'i', 'o', 'n', 'a', 'l', 'l', 'y', ' ', 'p', 'e', 'r', 'f', 'o', 'r', 'm', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd'] 
+['i', 'f', 'c', 'o', 'n', 'f', 'i', 'g'] | ['C', 'o', 'n', 'f', 'i', 'g', 'u', 'r', 'e', ' ', 'a', ' ', 'n', 'e', 't', 'w', 'o', 'r', 'k', ' ', 'i', 'n', 't', 'e', 'r', 'f', 'a', 'c', 'e'] 
+['i', 'f', 'd', 'o', 'w', 'n'] | ['S', 't', 'o', 'p', ' ', 'a', ' ', 'n', 'e', 't', 'w', 'o', 'r', 'k', ' ', 'i', 'n', 't', 'e', 'r', 'f', 'a', 'c', 'e'] 
+['i', 'f', 'u', 'p'] | ['S', 't', 'a', 'r', 't', ' ', 'a', ' ', 'n', 'e', 't', 'w', 'o', 'r', 'k', ' ', 'i', 'n', 't', 'e', 'r', 'f', 'a', 'c', 'e', ' ', 'u', 'p'] 
+['i', 'm', 'p', 'o', 'r', 't'] | ['C', 'a', 'p', 't', 'u', 'r', 'e', ' ', 'a', 'n', ' ', 'X', ' ', 's', 'e', 'r', 'v', 'e', 'r', ' ', 's', 'c', 'r', 'e', 'e', 'n', ' ', 'a', 'n', 'd', ' ', 's', 'a', 'v', 'e', ' ', 't', 'h', 'e', ' ', 'i', 'm', 'a', 'g', 'e', ' ', 't', 'o', ' ', 'f', 'i', 'l', 'e'] 
+['i', 'n', 's', 't', 'a', 'l', 'l'] | ['C', 'o', 'p', 'y', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'a', 'n', 'd', ' ', 's', 'e', 't', ' ', 'a', 't', 't', 'r', 'i', 'b', 'u', 't', 'e', 's'] 
+['i', 'o', 's', 't', 'a', 't'] | ['R', 'e', 'p', 'o', 'r', 't', ' ', 'C', 'P', 'U', ' ', 'a', 'n', 'd', ' ', 'i', '/', 'o', ' ', 's', 't', 'a', 't', 'i', 's', 't', 'i', 'c', 's'] 
+['i', 'p'] | ['R', 'o', 'u', 't', 'i', 'n', 'g', ',', ' ', 'd', 'e', 'v', 'i', 'c', 'e', 's', ' ', 'a', 'n', 'd', ' ', 't', 'u', 'n', 'n', 'e', 'l', 's'] 
+[] | [] 
+['j', 'o', 'b', 's'] | ['L', 'i', 's', 't', ' ', 'a', 'c', 't', 'i', 'v', 'e', ' ', 'j', 'o', 'b', 's', ' ', '•'] 
+['j', 'o', 'i', 'n'] | ['J', 'o', 'i', 'n', ' ', 'l', 'i', 'n', 'e', 's', ' ', 'o', 'n', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'o', 'n', ' ', 'f', 'i', 'e', 'l', 'd'] 
+[] | [] 
+['k', 'i', 'l', 'l'] | ['K', 'i', 'l', 'l', ' ', 'a', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', ' ', 'b', 'y', ' ', 's', 'p', 'e', 'c', 'i', 'f', 'y', 'i', 'n', 'g', ' ', 'i', 't', 's', ' ', 'P', 'I', 'D'] 
+['k', 'i', 'l', 'l', 'a', 'l', 'l'] | ['K', 'i', 'l', 'l', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', 'e', 's', ' ', 'b', 'y', ' ', 'n', 'a', 'm', 'e'] 
+['k', 'l', 'i', 's', 't'] | ['L', 'i', 's', 't', ' ', 'c', 'a', 'c', 'h', 'e', 'd', ' ', 'K', 'e', 'r', 'b', 'e', 'r', 'o', 's', ' ', 't', 'i', 'c', 'k', 'e', 't', 's'] 
+[] | [] 
+['l', 'e', 's', 's'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'o', 'u', 't', 'p', 'u', 't', ' ', 'o', 'n', 'e', ' ', 's', 'c', 'r', 'e', 'e', 'n', ' ', 'a', 't', ' ', 'a', ' ', 't', 'i', 'm', 'e'] 
+['l', 'e', 't'] | ['P', 'e', 'r', 'f', 'o', 'r', 'm', ' ', 'a', 'r', 'i', 't', 'h', 'm', 'e', 't', 'i', 'c', ' ', 'o', 'n', ' ', 's', 'h', 'e', 'l', 'l', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', 's', ' ', '•'] 
+['l', 'i', 'n', 'k'] | ['C', 'r', 'e', 'a', 't', 'e', ' ', 'a', ' ', 'l', 'i', 'n', 'k', ' ', 't', 'o', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' '] 
+['l', 'n'] | ['C', 'r', 'e', 'a', 't', 'e', ' ', 'a', ' ', 's', 'y', 'm', 'b', 'o', 'l', 'i', 'c', ' ', 'l', 'i', 'n', 'k', ' ', 't', 'o', ' ', 'a', ' ', 'f', 'i', 'l', 'e'] 
+['l', 'o', 'c', 'a', 'l'] | ['C', 'r', 'e', 'a', 't', 'e', ' ', 'a', ' ', 'f', 'u', 'n', 'c', 't', 'i', 'o', 'n', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', ' ', '•'] 
+['l', 'o', 'c', 'a', 't', 'e'] | ['F', 'i', 'n', 'd', ' ', 'f', 'i', 'l', 'e', 's'] 
+['l', 'o', 'g', 'n', 'a', 'm', 'e'] | ['P', 'r', 'i', 'n', 't', ' ', 'c', 'u', 'r', 'r', 'e', 'n', 't', ' ', 'l', 'o', 'g', 'i', 'n', ' ', 'n', 'a', 'm', 'e'] 
+['l', 'o', 'g', 'o', 'u', 't'] | ['E', 'x', 'i', 't', ' ', 'a', ' ', 'l', 'o', 'g', 'i', 'n', ' ', 's', 'h', 'e', 'l', 'l', ' ', '•'] 
+['l', 'o', 'o', 'k'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'l', 'i', 'n', 'e', 's', ' ', 'b', 'e', 'g', 'i', 'n', 'n', 'i', 'n', 'g', ' ', 'w', 'i', 't', 'h', ' ', 'a', ' ', 'g', 'i', 'v', 'e', 'n', ' ', 's', 't', 'r', 'i', 'n', 'g'] 
+['l', 'p', 'c'] | ['L', 'i', 'n', 'e', ' ', 'p', 'r', 'i', 'n', 't', 'e', 'r', ' ', 'c', 'o', 'n', 't', 'r', 'o', 'l', ' ', 'p', 'r', 'o', 'g', 'r', 'a', 'm'] 
+['l', 'p', 'r'] | ['P', 'r', 'i', 'n', 't', ' ', 'f', 'i', 'l', 'e', 's'] 
+['l', 'p', 'r', 'i', 'n', 't'] | ['P', 'r', 'i', 'n', 't', ' ', 'a', ' ', 'f', 'i', 'l', 'e'] 
+['l', 'p', 'r', 'i', 'n', 't', 'd'] | ['D', 'e', 'l', 'e', 't', 'e', ' ', 'a', ' ', 'p', 'r', 'i', 'n', 't', ' ', 'j', 'o', 'b'] 
+['l', 'p', 'r', 'i', 'n', 't', 'q'] | ['L', 'i', 's', 't', ' ', 't', 'h', 'e', ' ', 'p', 'r', 'i', 'n', 't', ' ', 'q', 'u', 'e', 'u', 'e'] 
+['l', 'p', 'r', 'm'] | ['R', 'e', 'm', 'o', 'v', 'e', ' ', 'j', 'o', 'b', 's', ' ', 'f', 'r', 'o', 'm', ' ', 't', 'h', 'e', ' ', 'p', 'r', 'i', 'n', 't', ' ', 'q', 'u', 'e', 'u', 'e'] 
+['l', 's', 'a', 't', 't', 'r'] | ['L', 'i', 's', 't', ' ', 'f', 'i', 'l', 'e', ' ', 'a', 't', 't', 'r', 'i', 'b', 'u', 't', 'e', 's', ' ', 'o', 'n', ' ', 'a', ' ', 'L', 'i', 'n', 'u', 'x', ' ', 's', 'e', 'c', 'o', 'n', 'd', ' ', 'e', 'x', 't', 'e', 'n', 'd', 'e', 'd', ' ', 'f', 'i', 'l', 'e', ' ', 's', 'y', 's', 't', 'e', 'm'] 
+['l', 's', 'b', 'l', 'k'] | ['L', 'i', 's', 't', ' ', 'b', 'l', 'o', 'c', 'k', ' ', 'd', 'e', 'v', 'i', 'c', 'e', 's'] 
+['l', 's'] | ['L', 'i', 's', 't', ' ', 'i', 'n', 'f', 'o', 'r', 'm', 'a', 't', 'i', 'o', 'n', ' ', 'a', 'b', 'o', 'u', 't', ' ', 'f', 'i', 'l', 'e', '(', 's', ')'] 
+['l', 's', 'o', 'f'] | ['L', 'i', 's', 't', ' ', 'o', 'p', 'e', 'n', ' ', 'f', 'i', 'l', 'e', 's'] 
+['l', 's', 'p', 'c', 'i'] | ['L', 'i', 's', 't', ' ', 'a', 'l', 'l', ' ', 'P', 'C', 'I', ' ', 'd', 'e', 'v', 'i', 'c', 'e', 's'] 
+[] | [] 
+['m', 'a', 'k', 'e'] | ['R', 'e', 'c', 'o', 'm', 'p', 'i', 'l', 'e', ' ', 'a', ' ', 'g', 'r', 'o', 'u', 'p', ' ', 'o', 'f', ' ', 'p', 'r', 'o', 'g', 'r', 'a', 'm', 's'] 
+['m', 'a', 'n'] | ['H', 'e', 'l', 'p', ' ', 'm', 'a', 'n', 'u', 'a', 'l'] 
+['m', 'a', 'p', 'f', 'i', 'l', 'e'] | ['R', 'e', 'a', 'd', ' ', 'l', 'i', 'n', 'e', 's', ' ', 'f', 'r', 'o', 'm', ' ', 's', 't', 'a', 'n', 'd', 'a', 'r', 'd', ' ', 'i', 'n', 'p', 'u', 't', ' ', 'i', 'n', 't', 'o', ' ', 'a', 'n', ' ', 'i', 'n', 'd', 'e', 'x', 'e', 'd', ' ', 'a', 'r', 'r', 'a', 'y', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', ' ', '•'] 
+['m', 'k', 'd', 'i', 'r'] | ['C', 'r', 'e', 'a', 't', 'e', ' ', 'n', 'e', 'w', ' ', 'f', 'o', 'l', 'd', 'e', 'r', '(', 's', ')'] 
+['m', 'k', 'f', 'i', 'f', 'o'] | ['M', 'a', 'k', 'e', ' ', 'F', 'I', 'F', 'O', 's', ' ', '(', 'n', 'a', 'm', 'e', 'd', ' ', 'p', 'i', 'p', 'e', 's', ')'] 
+['m', 'k', 'f', 'i', 'l', 'e'] | ['M', 'a', 'k', 'e', ' ', 'a', ' ', 'f', 'i', 'l', 'e'] 
+['m', 'k', 'i', 's', 'o', 'f', 's'] | ['C', 'r', 'e', 'a', 't', 'e', ' ', 'a', ' ', 'h', 'y', 'b', 'r', 'i', 'd', ' ', 'I', 'S', 'O', '9', '6', '6', '0', '/', 'J', 'O', 'L', 'I', 'E', 'T', '/', 'H', 'F', 'S', ' ', 'f', 'i', 'l', 'e', 's', 'y', 's', 't', 'e', 'm'] 
+['m', 'k', 'n', 'o', 'd'] | ['M', 'a', 'k', 'e', ' ', 'b', 'l', 'o', 'c', 'k', ' ', 'o', 'r', ' ', 'c', 'h', 'a', 'r', 'a', 'c', 't', 'e', 'r', ' ', 's', 'p', 'e', 'c', 'i', 'a', 'l', ' ', 'f', 'i', 'l', 'e', 's'] 
+['m', 'k', 't', 'e', 'm', 'p'] | ['M', 'a', 'k', 'e', ' ', 'a', ' ', 't', 'e', 'm', 'p', 'o', 'r', 'a', 'r', 'y', ' ', 'f', 'i', 'l', 'e'] 
+['m', 'o', 'r', 'e'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'o', 'u', 't', 'p', 'u', 't', ' ', 'o', 'n', 'e', ' ', 's', 'c', 'r', 'e', 'e', 'n', ' ', 'a', 't', ' ', 'a', ' ', 't', 'i', 'm', 'e'] 
+['m', 'o', 's', 't'] | ['B', 'r', 'o', 'w', 's', 'e', ' ', 'o', 'r', ' ', 'p', 'a', 'g', 'e', ' ', 't', 'h', 'r', 'o', 'u', 'g', 'h', ' ', 'a', ' ', 't', 'e', 'x', 't', ' ', 'f', 'i', 'l', 'e'] 
+['m', 'o', 'u', 'n', 't'] | ['M', 'o', 'u', 'n', 't', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', 's', 'y', 's', 't', 'e', 'm'] 
+['m', 't', 'o', 'o', 'l', 's'] | ['M', 'a', 'n', 'i', 'p', 'u', 'l', 'a', 't', 'e', ' ', 'M', 'S', '-', 'D', 'O', 'S', ' ', 'f', 'i', 'l', 'e', 's'] 
+['m', 't', 'r'] | ['N', 'e', 't', 'w', 'o', 'r', 'k', ' ', 'd', 'i', 'a', 'g', 'n', 'o', 's', 't', 'i', 'c', 's', ' ', '(', 't', 'r', 'a', 'c', 'e', 'r', 'o', 'u', 't', 'e', '/', 'p', 'i', 'n', 'g', ')'] 
+['m', 'v'] | ['M', 'o', 'v', 'e', ' ', 'o', 'r', ' ', 'r', 'e', 'n', 'a', 'm', 'e', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'o', 'r', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'i', 'e', 's'] 
+['m', 'm', 'v'] | ['M', 'a', 's', 's', ' ', 'M', 'o', 'v', 'e', ' ', 'a', 'n', 'd', ' ', 'r', 'e', 'n', 'a', 'm', 'e', ' ', '(', 'f', 'i', 'l', 'e', 's', ')'] 
+[] | [] 
+['n', 'c'] | ['N', 'e', 't', 'c', 'a', 't', ',', ' ', 'r', 'e', 'a', 'd', ' ', 'a', 'n', 'd', ' ', 'w', 'r', 'i', 't', 'e', ' ', 'd', 'a', 't', 'a', ' ', 'a', 'c', 'r', 'o', 's', 's', ' ', 'n', 'e', 't', 'w', 'o', 'r', 'k', 's'] 
+['n', 'e', 't', 's', 't', 'a', 't'] | ['N', 'e', 't', 'w', 'o', 'r', 'k', 'i', 'n', 'g', ' ', 'c', 'o', 'n', 'n', 'e', 'c', 't', 'i', 'o', 'n', 's', '/', 's', 't', 'a', 't', 's'] 
+['n', 'f', 't'] | ['n', 'f', 't', 'a', 'b', 'l', 'e', 's', ' ', 'f', 'o', 'r', ' ', 'p', 'a', 'c', 'k', 'e', 't', ' ', 'f', 'i', 'l', 't', 'e', 'r', 'i', 'n', 'g', ' ', 'a', 'n', 'd', ' ', 'c', 'l', 'a', 's', 's', 'i', 'f', 'i', 'c', 'a', 't', 'i', 'o', 'n'] 
+['n', 'i', 'c', 'e'] | ['S', 'e', 't', ' ', 't', 'h', 'e', ' ', 'p', 'r', 'i', 'o', 'r', 'i', 't', 'y', ' ', 'o', 'f', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 'o', 'r', ' ', 'j', 'o', 'b'] 
+['n', 'l'] | ['N', 'u', 'm', 'b', 'e', 'r', ' ', 'l', 'i', 'n', 'e', 's', ' ', 'a', 'n', 'd', ' ', 'w', 'r', 'i', 't', 'e', ' ', 'f', 'i', 'l', 'e', 's'] 
+['n', 'o', 'h', 'u', 'p'] | ['R', 'u', 'n', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 'i', 'm', 'm', 'u', 'n', 'e', ' ', 't', 'o', ' ', 'h', 'a', 'n', 'g', 'u', 'p', 's'] 
+['n', 'o', 't', 'i', 'f', 'y', '-', 's', 'e', 'n', 'd'] | ['S', 'e', 'n', 'd', ' ', 'd', 'e', 's', 'k', 't', 'o', 'p', ' ', 'n', 'o', 't', 'i', 'f', 'i', 'c', 'a', 't', 'i', 'o', 'n', 's'] 
+['n', 's', 'l', 'o', 'o', 'k', 'u', 'p'] | ['Q', 'u', 'e', 'r', 'y', ' ', 'I', 'n', 't', 'e', 'r', 'n', 'e', 't', ' ', 'n', 'a', 'm', 'e', ' ', 's', 'e', 'r', 'v', 'e', 'r', 's', ' ', 'i', 'n', 't', 'e', 'r', 'a', 'c', 't', 'i', 'v', 'e', 'l', 'y'] 
+[] | [] 
+['o', 'p', 'e', 'n'] | ['O', 'p', 'e', 'n', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', 'i', 'n', ' ', 'i', 't', 's', ' ', 'd', 'e', 'f', 'a', 'u', 'l', 't', ' ', 'a', 'p', 'p', 'l', 'i', 'c', 'a', 't', 'i', 'o', 'n'] 
+['o', 'p'] | ['O', 'p', 'e', 'r', 'a', 't', 'o', 'r', ' ', 'a', 'c', 'c', 'e', 's', 's'] 
+[] | [] 
+['p', 'a', 's', 's', 'w', 'd'] | ['M', 'o', 'd', 'i', 'f', 'y', ' ', 'a', ' ', 'u', 's', 'e', 'r', ' ', 'p', 'a', 's', 's', 'w', 'o', 'r', 'd'] 
+['p', 'a', 's', 't', 'e'] | ['M', 'e', 'r', 'g', 'e', ' ', 'l', 'i', 'n', 'e', 's', ' ', 'o', 'f', ' ', 'f', 'i', 'l', 'e', 's'] 
+['p', 'a', 't', 'h', 'c', 'h', 'k'] | ['C', 'h', 'e', 'c', 'k', ' ', 'f', 'i', 'l', 'e', ' ', 'n', 'a', 'm', 'e', ' ', 'p', 'o', 'r', 't', 'a', 'b', 'i', 'l', 'i', 't', 'y'] 
+['P', 'e', 'r', 'f'] | ['P', 'e', 'r', 'f', 'o', 'r', 'm', 'a', 'n', 'c', 'e', ' ', 'a', 'n', 'a', 'l', 'y', 's', 'i', 's', ' ', 't', 'o', 'o', 'l', 's', ' ', 'f', 'o', 'r', ' ', 'L', 'i', 'n', 'u', 'x'] 
+['p', 'i', 'n', 'g'] | ['T', 'e', 's', 't', ' ', 'a', ' ', 'n', 'e', 't', 'w', 'o', 'r', 'k', ' ', 'c', 'o', 'n', 'n', 'e', 'c', 't', 'i', 'o', 'n'] 
+['p', 'g', 'r', 'e', 'p'] | ['L', 'i', 's', 't', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', 'e', 's', ' ', 'b', 'y', ' ', 'n', 'a', 'm', 'e'] 
+['p', 'k', 'i', 'l', 'l'] | ['K', 'i', 'l', 'l', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', 'e', 's', ' ', 'b', 'y', ' ', 'n', 'a', 'm', 'e'] 
+['p', 'o', 'p', 'd'] | ['R', 'e', 's', 't', 'o', 'r', 'e', ' ', 't', 'h', 'e', ' ', 'p', 'r', 'e', 'v', 'i', 'o', 'u', 's', ' ', 'v', 'a', 'l', 'u', 'e', ' ', 'o', 'f', ' ', 't', 'h', 'e', ' ', 'c', 'u', 'r', 'r', 'e', 'n', 't', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y'] 
+['p', 'r'] | ['P', 'r', 'e', 'p', 'a', 'r', 'e', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'f', 'o', 'r', ' ', 'p', 'r', 'i', 'n', 't', 'i', 'n', 'g'] 
+['p', 'r', 'i', 'n', 't', 'c', 'a', 'p'] | ['P', 'r', 'i', 'n', 't', 'e', 'r', ' ', 'c', 'a', 'p', 'a', 'b', 'i', 'l', 'i', 't', 'y', ' ', 'd', 'a', 't', 'a', 'b', 'a', 's', 'e'] 
+['p', 'r', 'i', 'n', 't', 'e', 'n', 'v'] | ['P', 'r', 'i', 'n', 't', ' ', 'e', 'n', 'v', 'i', 'r', 'o', 'n', 'm', 'e', 'n', 't', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', 's'] 
+['p', 'r', 'i', 'n', 't', 'f'] | ['F', 'o', 'r', 'm', 'a', 't', ' ', 'a', 'n', 'd', ' ', 'p', 'r', 'i', 'n', 't', ' ', 'd', 'a', 't', 'a', ' ', '•'] 
+['p', 's'] | ['P', 'r', 'o', 'c', 'e', 's', 's', ' ', 's', 't', 'a', 't', 'u', 's'] 
+['p', 'u', 's', 'h', 'd'] | ['S', 'a', 'v', 'e', ' ', 'a', 'n', 'd', ' ', 't', 'h', 'e', 'n', ' ', 'c', 'h', 'a', 'n', 'g', 'e', ' ', 't', 'h', 'e', ' ', 'c', 'u', 'r', 'r', 'e', 'n', 't', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y'] 
+['p', 'v'] | ['M', 'o', 'n', 'i', 't', 'o', 'r', ' ', 't', 'h', 'e', ' ', 'p', 'r', 'o', 'g', 'r', 'e', 's', 's', ' ', 'o', 'f', ' ', 'd', 'a', 't', 'a', ' ', 't', 'h', 'r', 'o', 'u', 'g', 'h', ' ', 'a', ' ', 'p', 'i', 'p', 'e'] 
+['p', 'w', 'd'] | ['P', 'r', 'i', 'n', 't', ' ', 'W', 'o', 'r', 'k', 'i', 'n', 'g', ' ', 'D', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y'] 
+[] | [] 
+['q', 'u', 'o', 't', 'a'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'd', 'i', 's', 'k', ' ', 'u', 's', 'a', 'g', 'e', ' ', 'a', 'n', 'd', ' ', 'l', 'i', 'm', 'i', 't', 's'] 
+['q', 'u', 'o', 't', 'a', 'c', 'h', 'e', 'c', 'k'] | ['S', 'c', 'a', 'n', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', 's', 'y', 's', 't', 'e', 'm', ' ', 'f', 'o', 'r', ' ', 'd', 'i', 's', 'k', ' ', 'u', 's', 'a', 'g', 'e'] 
+[] | [] 
+['r', 'a', 'm'] | ['r', 'a', 'm', ' ', 'd', 'i', 's', 'k', ' ', 'd', 'e', 'v', 'i', 'c', 'e'] 
+['r', 'a', 'r'] | ['A', 'r', 'c', 'h', 'i', 'v', 'e', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'w', 'i', 't', 'h', ' ', 'c', 'o', 'm', 'p', 'r', 'e', 's', 's', 'i', 'o', 'n'] 
+['r', 'c', 'p'] | ['C', 'o', 'p', 'y', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'b', 'e', 't', 'w', 'e', 'e', 'n', ' ', 't', 'w', 'o', ' ', 'm', 'a', 'c', 'h', 'i', 'n', 'e', 's'] 
+['r', 'e', 'a', 'd'] | ['R', 'e', 'a', 'd', ' ', 'a', ' ', 'l', 'i', 'n', 'e', ' ', 'f', 'r', 'o', 'm', ' ', 's', 't', 'a', 'n', 'd', 'a', 'r', 'd', ' ', 'i', 'n', 'p', 'u', 't', ' ', '•'] 
+['r', 'e', 'a', 'd', 'a', 'r', 'r', 'a', 'y'] | ['R', 'e', 'a', 'd', ' ', 'f', 'r', 'o', 'm', ' ', 's', 't', 'd', 'i', 'n', ' ', 'i', 'n', 't', 'o', ' ', 'a', 'n', ' ', 'a', 'r', 'r', 'a', 'y', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', ' ', '•'] 
+['r', 'e', 'a', 'd', 'o', 'n', 'l', 'y'] | ['M', 'a', 'r', 'k', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', 's', '/', 'f', 'u', 'n', 'c', 't', 'i', 'o', 'n', 's', ' ', 'a', 's', ' ', 'r', 'e', 'a', 'd', 'o', 'n', 'l', 'y'] 
+['r', 'e', 'b', 'o', 'o', 't'] | ['R', 'e', 'b', 'o', 'o', 't', ' ', 't', 'h', 'e', ' ', 's', 'y', 's', 't', 'e', 'm'] 
+['r', 'e', 'n', 'a', 'm', 'e'] | ['R', 'e', 'n', 'a', 'm', 'e', ' ', 'f', 'i', 'l', 'e', 's'] 
+['r', 'e', 'n', 'i', 'c', 'e'] | ['A', 'l', 't', 'e', 'r', ' ', 'p', 'r', 'i', 'o', 'r', 'i', 't', 'y', ' ', 'o', 'f', ' ', 'r', 'u', 'n', 'n', 'i', 'n', 'g', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', 'e', 's'] 
+['r', 'e', 'm', 's', 'y', 'n', 'c'] | ['S', 'y', 'n', 'c', 'h', 'r', 'o', 'n', 'i', 'z', 'e', ' ', 'r', 'e', 'm', 'o', 't', 'e', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'v', 'i', 'a', ' ', 'e', 'm', 'a', 'i', 'l'] 
+['r', 'e', 't', 'u', 'r', 'n'] | ['E', 'x', 'i', 't', ' ', 'a', ' ', 's', 'h', 'e', 'l', 'l', ' ', 'f', 'u', 'n', 'c', 't', 'i', 'o', 'n'] 
+['r', 'e', 'v'] | ['R', 'e', 'v', 'e', 'r', 's', 'e', ' ', 'l', 'i', 'n', 'e', 's', ' ', 'o', 'f', ' ', 'a', ' ', 'f', 'i', 'l', 'e'] 
+['r', 'm'] | ['R', 'e', 'm', 'o', 'v', 'e', ' ', 'f', 'i', 'l', 'e', 's'] 
+['r', 'm', 'd', 'i', 'r'] | ['R', 'e', 'm', 'o', 'v', 'e', ' ', 'f', 'o', 'l', 'd', 'e', 'r', '(', 's', ')'] 
+['r', 's', 'y', 'n', 'c'] | ['R', 'e', 'm', 'o', 't', 'e', ' ', 'f', 'i', 'l', 'e', ' ', 'c', 'o', 'p', 'y', ' ', '(', 'S', 'y', 'n', 'c', 'h', 'r', 'o', 'n', 'i', 'z', 'e', ' ', 'f', 'i', 'l', 'e', ' ', 't', 'r', 'e', 'e', 's', ')'] 
+[] | [] 
+['s', 'c', 'r', 'e', 'e', 'n'] | ['M', 'u', 'l', 't', 'i', 'p', 'l', 'e', 'x', ' ', 't', 'e', 'r', 'm', 'i', 'n', 'a', 'l', ',', ' ', 'r', 'u', 'n', ' ', 'r', 'e', 'm', 'o', 't', 'e', ' ', 's', 'h', 'e', 'l', 'l', 's', ' ', 'v', 'i', 'a', ' ', 's', 's', 'h'] 
+['s', 'c', 'p'] | ['S', 'e', 'c', 'u', 'r', 'e', ' ', 'c', 'o', 'p', 'y', ' ', '(', 'r', 'e', 'm', 'o', 't', 'e', ' ', 'f', 'i', 'l', 'e', ' ', 'c', 'o', 'p', 'y', ')'] 
+['s', 'd', 'i', 'f', 'f'] | ['M', 'e', 'r', 'g', 'e', ' ', 't', 'w', 'o', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'i', 'n', 't', 'e', 'r', 'a', 'c', 't', 'i', 'v', 'e', 'l', 'y'] 
+['s', 'e', 'd'] | ['S', 't', 'r', 'e', 'a', 'm', ' ', 'E', 'd', 'i', 't', 'o', 'r'] 
+['s', 'e', 'l', 'e', 'c', 't'] | ['A', 'c', 'c', 'e', 'p', 't', ' ', 'u', 's', 'e', 'r', ' ', 'c', 'h', 'o', 'i', 'c', 'e', 's', ' ', 'v', 'i', 'a', ' ', 'k', 'e', 'y', 'b', 'o', 'a', 'r', 'd', ' ', 'i', 'n', 'p', 'u', 't'] 
+['s', 'e', 'q'] | ['P', 'r', 'i', 'n', 't', ' ', 'n', 'u', 'm', 'e', 'r', 'i', 'c', ' ', 's', 'e', 'q', 'u', 'e', 'n', 'c', 'e', 's'] 
+['s', 'e', 't'] | ['M', 'a', 'n', 'i', 'p', 'u', 'l', 'a', 't', 'e', ' ', 's', 'h', 'e', 'l', 'l', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', 's', ' ', 'a', 'n', 'd', ' ', 'f', 'u', 'n', 'c', 't', 'i', 'o', 'n', 's'] 
+['s', 'e', 't', 'f', 'a', 'c', 'l'] | ['S', 'e', 't', ' ', 'f', 'i', 'l', 'e', ' ', 'a', 'c', 'c', 'e', 's', 's', ' ', 'c', 'o', 'n', 't', 'r', 'o', 'l', ' ', 'l', 'i', 's', 't', 's', '.'] 
+['s', 'f', 't', 'p'] | ['S', 'e', 'c', 'u', 'r', 'e', ' ', 'F', 'i', 'l', 'e', ' ', 'T', 'r', 'a', 'n', 's', 'f', 'e', 'r', ' ', 'P', 'r', 'o', 'g', 'r', 'a', 'm'] 
+['s', 'h', 'i', 'f', 't'] | ['S', 'h', 'i', 'f', 't', ' ', 'p', 'o', 's', 'i', 't', 'i', 'o', 'n', 'a', 'l', ' ', 'p', 'a', 'r', 'a', 'm', 'e', 't', 'e', 'r', 's'] 
+['s', 'h', 'o', 'p', 't'] | ['S', 'h', 'e', 'l', 'l', ' ', 'O', 'p', 't', 'i', 'o', 'n', 's'] 
+['s', 'h', 'u', 'f'] | ['G', 'e', 'n', 'e', 'r', 'a', 't', 'e', ' ', 'r', 'a', 'n', 'd', 'o', 'm', ' ', 'p', 'e', 'r', 'm', 'u', 't', 'a', 't', 'i', 'o', 'n', 's'] 
+['s', 'h', 'u', 't', 'd', 'o', 'w', 'n'] | ['S', 'h', 'u', 't', 'd', 'o', 'w', 'n', ' ', 'o', 'r', ' ', 'r', 'e', 's', 't', 'a', 'r', 't', ' ', 'l', 'i', 'n', 'u', 'x'] 
+['s', 'l', 'e', 'e', 'p'] | ['D', 'e', 'l', 'a', 'y', ' ', 'f', 'o', 'r', ' ', 'a', ' ', 's', 'p', 'e', 'c', 'i', 'f', 'i', 'e', 'd', ' ', 't', 'i', 'm', 'e'] 
+['s', 'l', 'o', 'c', 'a', 't', 'e'] | ['F', 'i', 'n', 'd', ' ', 'f', 'i', 'l', 'e', 's'] 
+['s', 'o', 'r', 't'] | ['S', 'o', 'r', 't', ' ', 't', 'e', 'x', 't', ' ', 'f', 'i', 'l', 'e', 's'] 
+['s', 'o', 'u', 'r', 'c', 'e'] | ['R', 'u', 'n', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', 's', ' ', 'f', 'r', 'o', 'm', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', "'", '.', "'", ' ', '•'] 
+['s', 'p', 'l', 'i', 't'] | ['S', 'p', 'l', 'i', 't', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', 'i', 'n', 't', 'o', ' ', 'f', 'i', 'x', 'e', 'd', '-', 's', 'i', 'z', 'e', ' ', 'p', 'i', 'e', 'c', 'e', 's'] 
+['s', 's'] | ['S', 'o', 'c', 'k', 'e', 't', ' ', 'S', 't', 'a', 't', 'i', 's', 't', 'i', 'c', 's'] 
+['s', 's', 'h'] | ['S', 'e', 'c', 'u', 'r', 'e', ' ', 'S', 'h', 'e', 'l', 'l', ' ', 'c', 'l', 'i', 'e', 'n', 't', ' ', '(', 'r', 'e', 'm', 'o', 't', 'e', ' ', 'l', 'o', 'g', 'i', 'n', ' ', 'p', 'r', 'o', 'g', 'r', 'a', 'm', ')'] 
+['s', 't', 'a', 't'] | ['D', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'f', 'i', 'l', 'e', ' ', 'o', 'r', ' ', 'f', 'i', 'l', 'e', ' ', 's', 'y', 's', 't', 'e', 'm', ' ', 's', 't', 'a', 't', 'u', 's'] 
+['s', 't', 'r', 'a', 'c', 'e'] | ['T', 'r', 'a', 'c', 'e', ' ', 's', 'y', 's', 't', 'e', 'm', ' ', 'c', 'a', 'l', 'l', 's', ' ', 'a', 'n', 'd', ' ', 's', 'i', 'g', 'n', 'a', 'l', 's'] 
+['s', 'u'] | ['S', 'u', 'b', 's', 't', 'i', 't', 'u', 't', 'e', ' ', 'u', 's', 'e', 'r', ' ', 'i', 'd', 'e', 'n', 't', 'i', 't', 'y'] 
+['s', 'u', 'd', 'o'] | ['E', 'x', 'e', 'c', 'u', 't', 'e', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 'a', 's', ' ', 'a', 'n', 'o', 't', 'h', 'e', 'r', ' ', 'u', 's', 'e', 'r'] 
+['s', 'u', 'm'] | ['P', 'r', 'i', 'n', 't', ' ', 'a', ' ', 'c', 'h', 'e', 'c', 'k', 's', 'u', 'm', ' ', 'f', 'o', 'r', ' ', 'a', ' ', 'f', 'i', 'l', 'e'] 
+['s', 'u', 's', 'p', 'e', 'n', 'd'] | ['S', 'u', 's', 'p', 'e', 'n', 'd', ' ', 'e', 'x', 'e', 'c', 'u', 't', 'i', 'o', 'n', ' ', 'o', 'f', ' ', 't', 'h', 'i', 's', ' ', 's', 'h', 'e', 'l', 'l', ' ', '•'] 
+['s', 'y', 'n', 'c'] | ['S', 'y', 'n', 'c', 'h', 'r', 'o', 'n', 'i', 'z', 'e', ' ', 'd', 'a', 't', 'a', ' ', 'o', 'n', ' ', 'd', 'i', 's', 'k', ' ', 'w', 'i', 't', 'h', ' ', 'm', 'e', 'm', 'o', 'r', 'y'] 
+[] | [] 
+['t', 'a', 'i', 'l'] | ['O', 'u', 't', 'p', 'u', 't', ' ', 't', 'h', 'e', ' ', 'l', 'a', 's', 't', ' ', 'p', 'a', 'r', 't', ' ', 'o', 'f', ' ', 'a', ' ', 'f', 'i', 'l', 'e'] 
+['t', 'a', 'r'] | ['S', 't', 'o', 'r', 'e', ',', ' ', 'l', 'i', 's', 't', ' ', 'o', 'r', ' ', 'e', 'x', 't', 'r', 'a', 'c', 't', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'i', 'n', ' ', 'a', 'n', ' ', 'a', 'r', 'c', 'h', 'i', 'v', 'e'] 
+['t', 'e', 'e'] | ['R', 'e', 'd', 'i', 'r', 'e', 'c', 't', ' ', 'o', 'u', 't', 'p', 'u', 't', ' ', 't', 'o', ' ', 'm', 'u', 'l', 't', 'i', 'p', 'l', 'e', ' ', 'f', 'i', 'l', 'e', 's'] 
+['t', 'e', 's', 't'] | ['E', 'v', 'a', 'l', 'u', 'a', 't', 'e', ' ', 'a', ' ', 'c', 'o', 'n', 'd', 'i', 't', 'i', 'o', 'n', 'a', 'l', ' ', 'e', 'x', 'p', 'r', 'e', 's', 's', 'i', 'o', 'n'] 
+['t', 'i', 'm', 'e'] | ['M', 'e', 'a', 's', 'u', 'r', 'e', ' ', 'P', 'r', 'o', 'g', 'r', 'a', 'm', ' ', 'r', 'u', 'n', 'n', 'i', 'n', 'g', ' ', 't', 'i', 'm', 'e'] 
+['t', 'i', 'm', 'e', 'o', 'u', 't'] | ['R', 'u', 'n', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 'w', 'i', 't', 'h', ' ', 'a', ' ', 't', 'i', 'm', 'e', ' ', 'l', 'i', 'm', 'i', 't'] 
+['t', 'i', 'm', 'e', 's'] | ['U', 's', 'e', 'r', ' ', 'a', 'n', 'd', ' ', 's', 'y', 's', 't', 'e', 'm', ' ', 't', 'i', 'm', 'e', 's'] 
+['t', 'm', 'u', 'x'] | ['T', 'e', 'r', 'm', 'i', 'n', 'a', 'l', ' ', 'm', 'u', 'l', 't', 'i', 'p', 'l', 'e', 'x', 'e', 'r'] 
+['t', 'o', 'u', 'c', 'h'] | ['C', 'h', 'a', 'n', 'g', 'e', ' ', 'f', 'i', 'l', 'e', ' ', 't', 'i', 'm', 'e', 's', 't', 'a', 'm', 'p', 's'] 
+['t', 'o', 'p'] | ['L', 'i', 's', 't', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', 'e', 's', ' ', 'r', 'u', 'n', 'n', 'i', 'n', 'g', ' ', 'o', 'n', ' ', 't', 'h', 'e', ' ', 's', 'y', 's', 't', 'e', 'm'] 
+['t', 'p', 'u', 't'] | ['S', 'e', 't', ' ', 't', 'e', 'r', 'm', 'i', 'n', 'a', 'l', '-', 'd', 'e', 'p', 'e', 'n', 'd', 'e', 'n', 't', ' ', 'c', 'a', 'p', 'a', 'b', 'i', 'l', 'i', 't', 'i', 'e', 's', ',', ' ', 'c', 'o', 'l', 'o', 'r', ',', ' ', 'p', 'o', 's', 'i', 't', 'i', 'o', 'n'] 
+['t', 'r', 'a', 'c', 'e', 'r', 'o', 'u', 't', 'e'] | ['T', 'r', 'a', 'c', 'e', ' ', 'R', 'o', 'u', 't', 'e', ' ', 't', 'o', ' ', 'H', 'o', 's', 't'] 
+['t', 'r', 'a', 'p'] | ['E', 'x', 'e', 'c', 'u', 't', 'e', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 'w', 'h', 'e', 'n', ' ', 't', 'h', 'e', ' ', 's', 'h', 'e', 'l', 'l', ' ', 'r', 'e', 'c', 'e', 'i', 'v', 'e', 's', ' ', 'a', ' ', 's', 'i', 'g', 'n', 'a', 'l', ' ', '•'] 
+['t', 'r'] | ['T', 'r', 'a', 'n', 's', 'l', 'a', 't', 'e', ',', ' ', 's', 'q', 'u', 'e', 'e', 'z', 'e', ',', ' ', 'a', 'n', 'd', '/', 'o', 'r', ' ', 'd', 'e', 'l', 'e', 't', 'e', ' ', 'c', 'h', 'a', 'r', 'a', 'c', 't', 'e', 'r', 's'] 
+['t', 'r', 'u', 'e'] | ['D', 'o', ' ', 'n', 'o', 't', 'h', 'i', 'n', 'g', ',', ' ', 's', 'u', 'c', 'c', 'e', 's', 's', 'f', 'u', 'l', 'l', 'y'] 
+['t', 's', 'o', 'r', 't'] | ['T', 'o', 'p', 'o', 'l', 'o', 'g', 'i', 'c', 'a', 'l', ' ', 's', 'o', 'r', 't'] 
+['t', 't', 'y'] | ['P', 'r', 'i', 'n', 't', ' ', 'f', 'i', 'l', 'e', 'n', 'a', 'm', 'e', ' ', 'o', 'f', ' ', 't', 'e', 'r', 'm', 'i', 'n', 'a', 'l', ' ', 'o', 'n', ' ', 's', 't', 'd', 'i', 'n'] 
+['t', 'y', 'p', 'e'] | ['D', 'e', 's', 'c', 'r', 'i', 'b', 'e', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', '•'] 
+[] | [] 
+['u', 'l', 'i', 'm', 'i', 't'] | ['L', 'i', 'm', 'i', 't', ' ', 'u', 's', 'e', 'r', ' ', 'r', 'e', 's', 'o', 'u', 'r', 'c', 'e', 's', ' ', '•'] 
+['u', 'm', 'a', 's', 'k'] | ['U', 's', 'e', 'r', 's', ' ', 'f', 'i', 'l', 'e', ' ', 'c', 'r', 'e', 'a', 't', 'i', 'o', 'n', ' ', 'm', 'a', 's', 'k'] 
+['u', 'm', 'o', 'u', 'n', 't'] | ['U', 'n', 'm', 'o', 'u', 'n', 't', ' ', 'a', ' ', 'd', 'e', 'v', 'i', 'c', 'e'] 
+['u', 'n', 'a', 'l', 'i', 'a', 's'] | ['R', 'e', 'm', 'o', 'v', 'e', ' ', 'a', 'n', ' ', 'a', 'l', 'i', 'a', 's', ' ', '•'] 
+['u', 'n', 'a', 'm', 'e'] | ['P', 'r', 'i', 'n', 't', ' ', 's', 'y', 's', 't', 'e', 'm', ' ', 'i', 'n', 'f', 'o', 'r', 'm', 'a', 't', 'i', 'o', 'n'] 
+['u', 'n', 'e', 'x', 'p', 'a', 'n', 'd'] | ['C', 'o', 'n', 'v', 'e', 'r', 't', ' ', 's', 'p', 'a', 'c', 'e', 's', ' ', 't', 'o', ' ', 't', 'a', 'b', 's'] 
+['u', 'n', 'i', 'q'] | ['U', 'n', 'i', 'q', 'u', 'i', 'f', 'y', ' ', 'f', 'i', 'l', 'e', 's'] 
+['u', 'n', 'i', 't', 's'] | ['C', 'o', 'n', 'v', 'e', 'r', 't', ' ', 'u', 'n', 'i', 't', 's', ' ', 'f', 'r', 'o', 'm', ' ', 'o', 'n', 'e', ' ', 's', 'c', 'a', 'l', 'e', ' ', 't', 'o', ' ', 'a', 'n', 'o', 't', 'h', 'e', 'r'] 
+['u', 'n', 'i', 'x', '2', 'd', 'o', 's'] | ['U', 'N', 'I', 'X', ' ', 't', 'o', ' ', 'W', 'i', 'n', 'd', 'o', 'w', 's', ' ', 'o', 'r', ' ', 'M', 'A', 'C', ' ', 't', 'e', 'x', 't', ' ', 'f', 'i', 'l', 'e', ' ', 'f', 'o', 'r', 'm', 'a', 't', ' ', 'c', 'o', 'n', 'v', 'e', 'r', 't', 'e', 'r'] 
+['u', 'n', 'r', 'a', 'r'] | ['E', 'x', 't', 'r', 'a', 'c', 't', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'f', 'r', 'o', 'm', ' ', 'a', ' ', 'r', 'a', 'r', ' ', 'a', 'r', 'c', 'h', 'i', 'v', 'e'] 
+['u', 'n', 's', 'e', 't'] | ['R', 'e', 'm', 'o', 'v', 'e', ' ', 'v', 'a', 'r', 'i', 'a', 'b', 'l', 'e', ' ', 'o', 'r', ' ', 'f', 'u', 'n', 'c', 't', 'i', 'o', 'n', ' ', 'n', 'a', 'm', 'e', 's'] 
+['u', 'n', 's', 'h', 'a', 'r'] | ['U', 'n', 'p', 'a', 'c', 'k', ' ', 's', 'h', 'e', 'l', 'l', ' ', 'a', 'r', 'c', 'h', 'i', 'v', 'e', ' ', 's', 'c', 'r', 'i', 'p', 't', 's'] 
+['u', 'n', 't', 'i', 'l'] | ['E', 'x', 'e', 'c', 'u', 't', 'e', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', 's', ' ', '(', 'u', 'n', 't', 'i', 'l', ' ', 'e', 'r', 'r', 'o', 'r', ')'] 
+['u', 'p', 't', 'i', 'm', 'e'] | ['S', 'h', 'o', 'w', ' ', 'u', 'p', 't', 'i', 'm', 'e'] 
+['u', 's', 'e', 'r', 'a', 'd', 'd'] | ['C', 'r', 'e', 'a', 't', 'e', ' ', 'n', 'e', 'w', ' ', 'u', 's', 'e', 'r', ' ', 'a', 'c', 'c', 'o', 'u', 'n', 't'] 
+['u', 's', 'e', 'r', 'd', 'e', 'l'] | ['D', 'e', 'l', 'e', 't', 'e', ' ', 'a', ' ', 'u', 's', 'e', 'r', ' ', 'a', 'c', 'c', 'o', 'u', 'n', 't'] 
+['u', 's', 'e', 'r', 'm', 'o', 'd'] | ['M', 'o', 'd', 'i', 'f', 'y', ' ', 'u', 's', 'e', 'r', ' ', 'a', 'c', 'c', 'o', 'u', 'n', 't'] 
+['u', 's', 'e', 'r', 's'] | ['L', 'i', 's', 't', ' ', 'u', 's', 'e', 'r', 's', ' ', 'c', 'u', 'r', 'r', 'e', 'n', 't', 'l', 'y', ' ', 'l', 'o', 'g', 'g', 'e', 'd', ' ', 'i', 'n'] 
+['u', 'u', 'e', 'n', 'c', 'o', 'd', 'e'] | ['E', 'n', 'c', 'o', 'd', 'e', ' ', 'a', ' ', 'b', 'i', 'n', 'a', 'r', 'y', ' ', 'f', 'i', 'l', 'e'] 
+['u', 'u', 'd', 'e', 'c', 'o', 'd', 'e'] | ['D', 'e', 'c', 'o', 'd', 'e', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', 'c', 'r', 'e', 'a', 't', 'e', 'd', ' ', 'b', 'y', ' ', 'u', 'u', 'e', 'n', 'c', 'o', 'd', 'e'] 
+[] | [] 
+['v'] | ['V', 'e', 'r', 'b', 'o', 's', 'e', 'l', 'y', ' ', 'l', 'i', 's', 't', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y', ' ', 'c', 'o', 'n', 't', 'e', 'n', 't', 's', ' ', '(', "'", 'l', 's', ' ', '-', 'l', ' ', '-', 'b', "'", ')'] 
+['v', 'd', 'i', 'r'] | ['V', 'e', 'r', 'b', 'o', 's', 'e', 'l', 'y', ' ', 'l', 'i', 's', 't', ' ', 'd', 'i', 'r', 'e', 'c', 't', 'o', 'r', 'y', ' ', 'c', 'o', 'n', 't', 'e', 'n', 't', 's', ' ', '(', "'", 'l', 's', ' ', '-', 'l', ' ', '-', 'b', "'", ')'] 
+['v', 'i'] | ['T', 'e', 'x', 't', ' ', 'E', 'd', 'i', 't', 'o', 'r'] 
+['v', 'm', 's', 't', 'a', 't'] | ['R', 'e', 'p', 'o', 'r', 't', ' ', 'v', 'i', 'r', 't', 'u', 'a', 'l', ' ', 'm', 'e', 'm', 'o', 'r', 'y', ' ', 's', 't', 'a', 't', 'i', 's', 't', 'i', 'c', 's'] 
+[] | [] 
+['w'] | ['S', 'h', 'o', 'w', ' ', 'w', 'h', 'o', ' ', 'i', 's', ' ', 'l', 'o', 'g', 'g', 'e', 'd', ' ', 'o', 'n', ' ', 'a', 'n', 'd', ' ', 'w', 'h', 'a', 't', ' ', 't', 'h', 'e', 'y', ' ', 'a', 'r', 'e', ' ', 'd', 'o', 'i', 'n', 'g'] 
+['w', 'a', 'i', 't'] | ['W', 'a', 'i', 't', ' ', 'f', 'o', 'r', ' ', 'a', ' ', 'p', 'r', 'o', 'c', 'e', 's', 's', ' ', 't', 'o', ' ', 'c', 'o', 'm', 'p', 'l', 'e', 't', 'e', ' ', '•'] 
+['w', 'a', 't', 'c', 'h'] | ['E', 'x', 'e', 'c', 'u', 't', 'e', '/', 'd', 'i', 's', 'p', 'l', 'a', 'y', ' ', 'a', ' ', 'p', 'r', 'o', 'g', 'r', 'a', 'm', ' ', 'p', 'e', 'r', 'i', 'o', 'd', 'i', 'c', 'a', 'l', 'l', 'y'] 
+['w', 'c'] | ['P', 'r', 'i', 'n', 't', ' ', 'b', 'y', 't', 'e', ',', ' ', 'w', 'o', 'r', 'd', ',', ' ', 'a', 'n', 'd', ' ', 'l', 'i', 'n', 'e', ' ', 'c', 'o', 'u', 'n', 't', 's'] 
+['w', 'h', 'e', 'r', 'e', 'i', 's'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 't', 'h', 'e', ' ', 'u', 's', 'e', 'r', "'", 's', ' ', '$', 'p', 'a', 't', 'h', ',', ' ', 'm', 'a', 'n', ' ', 'p', 'a', 'g', 'e', 's', ' ', 'a', 'n', 'd', ' ', 's', 'o', 'u', 'r', 'c', 'e', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'f', 'o', 'r', ' ', 'a', ' ', 'p', 'r', 'o', 'g', 'r', 'a', 'm'] 
+['w', 'h', 'i', 'c', 'h'] | ['S', 'e', 'a', 'r', 'c', 'h', ' ', 't', 'h', 'e', ' ', 'u', 's', 'e', 'r', "'", 's', ' ', '$', 'p', 'a', 't', 'h', ' ', 'f', 'o', 'r', ' ', 'a', ' ', 'p', 'r', 'o', 'g', 'r', 'a', 'm', ' ', 'f', 'i', 'l', 'e'] 
+['w', 'h', 'i', 'l', 'e'] | ['E', 'x', 'e', 'c', 'u', 't', 'e', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', 's'] 
+['w', 'h', 'o'] | ['P', 'r', 'i', 'n', 't', ' ', 'a', 'l', 'l', ' ', 'u', 's', 'e', 'r', 'n', 'a', 'm', 'e', 's', ' ', 'c', 'u', 'r', 'r', 'e', 'n', 't', 'l', 'y', ' ', 'l', 'o', 'g', 'g', 'e', 'd', ' ', 'i', 'n'] 
+['w', 'h', 'o', 'a', 'm', 'i'] | ['P', 'r', 'i', 'n', 't', ' ', 't', 'h', 'e', ' ', 'c', 'u', 'r', 'r', 'e', 'n', 't', ' ', 'u', 's', 'e', 'r', ' ', 'i', 'd', ' ', 'a', 'n', 'd', ' ', 'n', 'a', 'm', 'e', ' ', '(', "'", 'i', 'd', ' ', '-', 'u', 'n', "'", ')'] 
+['w', 'g', 'e', 't'] | ['R', 'e', 't', 'r', 'i', 'e', 'v', 'e', ' ', 'w', 'e', 'b', ' ', 'p', 'a', 'g', 'e', 's', ' ', 'o', 'r', ' ', 'f', 'i', 'l', 'e', 's', ' ', 'v', 'i', 'a', ' ', 'H', 'T', 'T', 'P', ',', ' ', 'H', 'T', 'T', 'P', 'S', ' ', 'o', 'r', ' ', 'F', 'T', 'P'] 
+['w', 'r', 'i', 't', 'e'] | ['S', 'e', 'n', 'd', ' ', 'a', ' ', 'm', 'e', 's', 's', 'a', 'g', 'e', ' ', 't', 'o', ' ', 'a', 'n', 'o', 't', 'h', 'e', 'r', ' ', 'u', 's', 'e', 'r'] 
+[] | [] 
+['x', 'a', 'r', 'g', 's'] | ['E', 'x', 'e', 'c', 'u', 't', 'e', ' ', 'u', 't', 'i', 'l', 'i', 't', 'y', ',', ' ', 'p', 'a', 's', 's', 'i', 'n', 'g', ' ', 'c', 'o', 'n', 's', 't', 'r', 'u', 'c', 't', 'e', 'd', ' ', 'a', 'r', 'g', 'u', 'm', 'e', 'n', 't', ' ', 'l', 'i', 's', 't', '(', 's', ')'] 
+['x', 'd', 'g', '-', 'o', 'p', 'e', 'n'] | ['O', 'p', 'e', 'n', ' ', 'a', ' ', 'f', 'i', 'l', 'e', ' ', 'o', 'r', ' ', 'U', 'R', 'L', ' ', 'i', 'n', ' ', 't', 'h', 'e', ' ', 'u', 's', 'e', 'r', "'", 's', ' ', 'p', 'r', 'e', 'f', 'e', 'r', 'r', 'e', 'd', ' ', 'a', 'p', 'p', 'l', 'i', 'c', 'a', 't', 'i', 'o', 'n', '.'] 
+['x', 'x', 'd'] | ['M', 'a', 'k', 'e', ' ', 'a', ' ', 'h', 'e', 'x', 'd', 'u', 'm', 'p', ' ', 'o', 'r', ' ', 'd', 'o', ' ', 't', 'h', 'e', ' ', 'r', 'e', 'v', 'e', 'r', 's', 'e'] 
+['x', 'z'] | ['C', 'o', 'm', 'p', 'r', 'e', 's', 's', ' ', 'o', 'r', ' ', 'd', 'e', 'c', 'o', 'm', 'p', 'r', 'e', 's', 's', ' ', '.', 'x', 'z', ' ', 'a', 'n', 'd', ' ', '.', 'l', 'z', 'm', 'a', ' ', 'f', 'i', 'l', 'e', 's'] 
+['y', 'e', 's'] | ['P', 'r', 'i', 'n', 't', ' ', 'a', ' ', 's', 't', 'r', 'i', 'n', 'g', ' ', 'u', 'n', 't', 'i', 'l', ' ', 'i', 'n', 't', 'e', 'r', 'r', 'u', 'p', 't', 'e', 'd'] 
+['z', 'i', 'p'] | ['P', 'a', 'c', 'k', 'a', 'g', 'e', ' ', 'a', 'n', 'd', ' ', 'c', 'o', 'm', 'p', 'r', 'e', 's', 's', ' ', '(', 'a', 'r', 'c', 'h', 'i', 'v', 'e', ')', ' ', 'f', 'i', 'l', 'e', 's'] 
+['.'] | ['R', 'u', 'n', ' ', 'a', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 's', 'c', 'r', 'i', 'p', 't', ' ', 'i', 'n', ' ', 't', 'h', 'e', ' ', 'c', 'u', 'r', 'r', 'e', 'n', 't', ' ', 's', 'h', 'e', 'l', 'l'] 
+['!', '!'] | ['R', 'u', 'n', ' ', 't', 'h', 'e', ' ', 'l', 'a', 's', 't', ' ', 'c', 'o', 'm', 'm', 'a', 'n', 'd', ' ', 'a', 'g', 'a', 'i', 'n'] 
+['#', '#', '#'] | ['C', 'o', 'm', 'm', 'e', 'n', 't', ' ', '/', ' ', 'R', 'e', 'm', 'a', 'r', 'k'] 
