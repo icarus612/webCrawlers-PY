@@ -1,0 +1,12 @@
+navigator.appCodeName | <b>Navigator property</b> that returns browser code name. |  | navigator.appCodeName | let browser = navigator.appCodeName; |  
+navigator.appName | <b>Navigator property</b> that returns browser name. |  | navigator.appName | let browser = navigator.appName; |  
+navigator.appVersion | <b>Navigator property</b> that returns browser version. |  | navigator.appVersion | let version = navigator.appVersion; |  
+navigator.cookieEnabled | <b>Navigator property</b> that returns true if browser cookies are enabled. |  | navigator.cookieEnabled | let cookies = navigator.cookieEnabled; |  
+navigator.geolocation | <b>Navigator property</b> that returns a geolocation object for the user's location. |  | navigator.geolocation | if (navigator.geolocation) {<br/>   navigator.geolocation.getCurrentPosition(showPosition);<br/> } else { <br/>   document.getElementById("demo").innerHTML =<br/>   "Geolocation is not supported by this browser.";<br/> }<br/> <br/>function showPosition(position) {<br/>  document.getElementById("demo").innerHTML =<br/>   "Latitude: " + position.coords.latitude + <br/>  "Longitude: " + position.coords.longitude; <br/>} |  
+navigator.language | <b>Navigator property</b> that returns browser language. |  | navigator.language | let language = navigator.language; |  
+navigator.onLine | <b>Navigator property</b> that returns true if the browser is online. |  | navigator.onLine | let online = navigator.onLine; |  
+navigator.platform | <b>Navigator property</b> that returns browser platform. |  | navigator.platform | let platform = navigator.platform; |  
+navigator.product | <b>Navigator property</b> that returns  browser engine name. |  | navigator.product | let product = navigator.product; |  
+navigator.userAgent | <b>Navigator property</b> that returns browser user-agent header. |  | navigator.userAgent | let agent = navigator.userAgent; |  
+navigator.javaEnabled() | <b>Navigator method</b> that returns true if the browser has java enabled. |  | navigator.javaEnabled() | let java = navigator.javaEnabled(); |  
+navigator.taintEnabled() | <b>Navigator method</b> that removed in javascript version 1.2 (1999).. |  | navigator.taintEnabled() |  |  

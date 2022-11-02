@@ -1,0 +1,12 @@
+location.hash | <b>Location property</b> that sets or returns the anchor part (#) of a url. |  |  | &lt;a href="/js/js_strings.asp#part2"&gt;JavaScript Strings&lt;/a&gt; |  
+location.host | <b>Location property</b> that sets or returns the hostname and port number of a url. |  |  | let host = location.host; |  
+location.hostname | <b>Location property</b> that sets or returns the hostname of a url. |  |  | let hostname = location.hostname; |  
+location.href | <b>Location property</b> that sets or returns the entire url. |  |  | let url = location.href; |  
+location.location.origin | <b>Location property</b> that returns the protocol, hostname and port number of a url. |  | location.origin | let origin = location.origin; |  
+location.pathname | <b>Location property</b> that sets or returns the path name of a url. |  |  | let path x = location.pathname; |  
+location.port | <b>Location property</b> that sets or returns the port number of a url. |  |  | let port = location.port; |  
+location.protocol | <b>Location property</b> that sets or returns the protocol of a url. |  |  | let protocol = location.protocol; |  
+location.search | <b>Location property</b> that sets or returns the querystring part of a url. |  |  | let query = location.search; |  
+location.assign(<i>URL</i>) | <b>Location method</b> that loads a new document. |  | location.assign(<i>URL</i>) | location.assign("https://www.w3schools.com"); |  
+location.reload() | <b>Location method</b> that reloads the current document. |  | location.reload() | location.reload(); |  
+location.replace(<em>newURL</em>) | <b>Location method</b> that replaces the current document with a new one. |  | location.replace(<em>newURL</em>) | location.replace("https://www.w3schools.com");<br/> |  

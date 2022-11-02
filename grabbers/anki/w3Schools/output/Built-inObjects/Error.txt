@@ -1,0 +1,7 @@
+<b>Error property</b>: <i>errorObj</i>.name | <b>Error property</b> that sets or returns an error name. |  | <i>errorObj</i>.name | try {<br/>  adddlert("Welcome guest!");<br/>}<br/>catch(err) {<br/>  document.getElementById("demo").innerHTML = err.name;<br/>} |  
+<b>Error property</b>: <i>errorObj</i>.message | <b>Error property</b> that sets or returns an error message (a string). |  | <i>errorObj</i>.message | try {<br/>  adddlert("Welcome guest!");<br/>}<br/>catch(err) {<br/>  document.getElementById("demo").innerHTML = err.message;<br/>} |  
+<b>Error error name</b>: rangeerror | <b>Error error name</b> that a number "out of range" has occurred. |  |  |  |  
+<b>Error error name</b>: referenceerror | <b>Error error name</b> that an illegal reference has occurred. |  |  |  |  
+<b>Error error name</b>: syntaxerror | <b>Error error name</b> that a syntax error has occurred. |  |  |  |  
+<b>Error error name</b>: typeerror | <b>Error error name</b> that a type error has occurred. |  |  |  |  
+<b>Error error name</b>: urierror | <b>Error error name</b> that an error in encodeuri() has occurred. |  |  |  |  

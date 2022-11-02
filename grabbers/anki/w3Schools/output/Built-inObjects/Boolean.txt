@@ -1,0 +1,4 @@
+<b>Boolean name</b>: <i>boolean</i>.constructor | <b>Boolean name</b> that returns the function that created javascript's boolean prototype. |  | <i>boolean</i>.constructor | let bool = false;<br/> let text = bool.constructor;<br/> |  
+<b>Boolean name</b>: prototype | <b>Boolean name</b> that allows you to add properties and methods to the boolean prototype. |  |  | Boolean.prototype.myColor = function() {<br/>  if (this.valueOf() == true) {<br/>       return "green";<br/>  } else {<br/>    return = "red";<br/>     }<br/>}; |  
+<b>Boolean name</b>: <i>boolean</i>.toString() | <b>Boolean name</b> that converts a boolean value to a string, and returns the result. |  | <i>boolean</i>.toString() | let bool = true;<br/> let text = bool.toString(); |  
+<b>Boolean name</b>: <i>boolean</i>.valueOf() | <b>Boolean name</b> that returns the primitive value of a boolean. |  | <i>boolean</i>.valueOf() | let bool = false;<br/> let value = bool.valueOf(); |  

@@ -1,0 +1,6 @@
+<b>Screen property</b>: screen.availHeight | <b>Screen property</b> that returns the height of the screen (excluding the windows taskbar). |  | screen.availHeight | let height = screen.availHeight; |  
+<b>Screen property</b>: screen.availWidth | <b>Screen property</b> that returns the width of the screen (excluding the windows taskbar). |  | screen.availWidth | let width = screen.availWidth; |  
+<b>Screen property</b>: screen.colorDepth | <b>Screen property</b> that returns the bit depth of the color palette for displaying images. |  | screen.colorDepth | let depth = screen.colorDepth; |  
+<b>Screen property</b>: screen.height | <b>Screen property</b> that returns the total height of the screen. |  | screen.height | let height = screen.height; |  
+<b>Screen property</b>: screen.pixelDepth | <b>Screen property</b> that returns the color resolution (in bits per pixel) of the screen. |  | screen.pixelDepth | let depth = screen.pixelDepth; |  
+<b>Screen property</b>: screen.width | <b>Screen property</b> that returns the total width of the screen. |  | screen.width | let width = screen.width; |  
