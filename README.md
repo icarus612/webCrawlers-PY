@@ -12,7 +12,7 @@ Each of my projects has its own dedicated repository. You can browse them by vis
 
 ## Collaboration
 
-Interested in collaborating? Great! I'm always open to working with fellow developers and contributors. For guidelines on how to contribute and collaborate, please refer to the `COLLABORATION.md` file in the respective repositories. There you'll find all the necessary information on how to get started, contribution guidelines, and how to propose new features or report issues.
+While this repository is just a personal project and not really set up for collaboration, I'm definitely open to it if you're interested. However, if you're looking to contribute to my active open source projects, I'd recommend visiting [The Icarus Project](https://github.com/the-icarus-project). That's where you'll find projects specifically designed for collaboration, complete with all the details and guidelines you need to get started. If you are still undeterred and wish to contribute please make a PR detailing the bug or feature, and I'll get to it as soon as I can.
 
 ## Licensing
 
@@ -28,7 +28,7 @@ For a more curated experience and in-depth insights about my work and interests,
 
 ## Stay Connected
 
-I love to connect with fellow developers and tech enthusiasts. Follow me on GitHub to stay updated with my latest projects. For real-time updates and professional networking, connect with me on [LinkedIn](https://www.linkedin.com/in/icarus612) (optional).
+I love to connect with fellow developers and tech enthusiasts. Follow me on GitHub to stay updated with my latest projects. For real-time updates and professional networking, connect with me on [LinkedIn](https://www.linkedin.com/in/ellis-hogan-99a646161) or [GitHub](https://github.com/icarus612).
 
 Thank you for visiting, and happy coding!
 
