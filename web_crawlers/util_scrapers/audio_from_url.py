@@ -1,6 +1,5 @@
 
 import requests
-import sys
 import argparse
 
 def get_audio(path, url, **kwargs):
