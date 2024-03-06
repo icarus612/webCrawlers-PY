@@ -1,0 +1,4 @@
+<b>Standard Library Function:</b> int srtcasecmp(const char *string1,
+const char *string2); | <b>Standard library function</b> used to compares strings without case sensitivity.. 
+<b>Standard Library Function:</b> int strncasecmp(const char *string1,
+const char *string2, size_t count); | <b>Standard library function</b> used to compares strings without case sensitivity.. 

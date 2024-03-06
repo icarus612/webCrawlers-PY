@@ -1,0 +1,5 @@
+<b>Vim Command:</b> :reg[isters] | <b>Vim command</b> used to show registers content. 
+<b>Vim Command:</b> "xy | <b>Vim command</b> used to yank into register x. 
+<b>Vim Command:</b> "xp | <b>Vim command</b> used to paste contents of register x. 
+<b>Vim Command:</b> "+y | <b>Vim command</b> used to yank into the system clipboard register. 
+<b>Vim Command:</b> "+p | <b>Vim command</b> used to paste from the system clipboard register. 

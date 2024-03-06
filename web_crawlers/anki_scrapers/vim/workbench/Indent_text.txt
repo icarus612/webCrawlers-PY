@@ -1,0 +1,11 @@
+<b>Vim Command:</b> >> | <b>Vim command</b> used to indent (move right) line one shiftwidth. 
+<b>Vim Command:</b> << | <b>Vim command</b> used to de. 
+<b>Vim Command:</b> >% | <b>Vim command</b> used to indent a block with () or {} (cursor on brace). 
+<b>Vim Command:</b> <% | <b>Vim command</b> used to de. 
+<b>Vim Command:</b> >ib | <b>Vim command</b> used to indent inner block with (). 
+<b>Vim Command:</b> >at | <b>Vim command</b> used to indent a block with <> tags. 
+<b>Vim Command:</b> 3== | <b>Vim command</b> used to re. 
+<b>Vim Command:</b> =% | <b>Vim command</b> used to re. 
+<b>Vim Command:</b> =iB | <b>Vim command</b> used to re. 
+<b>Vim Command:</b> gg=G | <b>Vim command</b> used to re. 
+<b>Vim Command:</b> ]p | <b>Vim command</b> used to paste and adjust indent to current line. 

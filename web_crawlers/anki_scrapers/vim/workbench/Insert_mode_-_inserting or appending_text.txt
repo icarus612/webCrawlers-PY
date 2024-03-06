@@ -1,0 +1,17 @@
+<b>Vim Command:</b> i | <b>Vim command</b> used to insert before the cursor. 
+<b>Vim Command:</b> I | <b>Vim command</b> used to insert at the beginning of the line. 
+<b>Vim Command:</b> a | <b>Vim command</b> used to insert (append) after the cursor. 
+<b>Vim Command:</b> A | <b>Vim command</b> used to insert (append) at the end of the line. 
+<b>Vim Command:</b> o | <b>Vim command</b> used to append (open) a new line below the current line. 
+<b>Vim Command:</b> O | <b>Vim command</b> used to append (open) a new line above the current line. 
+<b>Vim Command:</b> ea | <b>Vim command</b> used to insert (append) at the end of the word. 
+<b>Vim Command:</b> Ctrl + h | <b>Vim command</b> used to delete the character before the cursor during insert mode. 
+<b>Vim Command:</b> Ctrl + w | <b>Vim command</b> used to delete word before the cursor during insert mode. 
+<b>Vim Command:</b> Ctrl + j | <b>Vim command</b> used to add a line break at the cursor position during insert mode. 
+<b>Vim Command:</b> Ctrl + t | <b>Vim command</b> used to indent (move right) line one shiftwidth during insert mode. 
+<b>Vim Command:</b> Ctrl + d | <b>Vim command</b> used to de. 
+<b>Vim Command:</b> Ctrl + n | <b>Vim command</b> used to insert (auto. 
+<b>Vim Command:</b> Ctrl + p | <b>Vim command</b> used to insert (auto. 
+<b>Vim Command:</b> Ctrl + rx | <b>Vim command</b> used to insert the contents of register x. 
+<b>Vim Command:</b> Ctrl + ox | <b>Vim command</b> used to Temporarily enter normal mode to issue one normal. 
+<b>Vim Command:</b> Esc or Ctrl + c | <b>Vim command</b> used to exit insert mode. 

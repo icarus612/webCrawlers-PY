@@ -1,0 +1,8 @@
+<b>Standard Library Function:</b> int catclose (nl_catd catd); | <b>Standard library function</b> used to closes a previously opened message
+catalog.. 
+<b>Standard Library Function:</b> char *catgets(nl_catd catd, int set_id,
+int msg_id, const char *s); | <b>Standard library function</b> used to retrieves a message from an open
+message catalog.. 
+<b>Standard Library Function:</b> nl_catd catopen (const char *name,
+int oflag); | <b>Standard library function</b> used to opens a message catalog, which must
+be done before a message can be retrieved.. 

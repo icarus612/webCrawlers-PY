@@ -1,0 +1,11 @@
+<b>Standard Library Function:</b> var_type va_arg(va_list arg_ptr,
+var_type); | <b>Standard library function</b> used to returns the value of one argument
+and modifies arg_ptr to point to the next argument.. 
+<b>Standard Library Function:</b> void va_copy(va_list dest,
+va_list src); | <b>Standard library function</b> used to initializes dest as a copy
+of src.. 
+<b>Standard Library Function:</b> void va_end(va_list arg_ptr); | <b>Standard library function</b> used to facilitates normal return from variable
+argument list processing.. 
+<b>Standard Library Function:</b> void va_start(va_list arg_ptr,
+variable_name); | <b>Standard library function</b> used to initializes arg_ptr for subsequent
+use by va_arg and va_end.. 

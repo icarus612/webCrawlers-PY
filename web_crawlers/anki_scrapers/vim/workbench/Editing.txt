@@ -1,0 +1,19 @@
+<b>Vim Command:</b> r | <b>Vim command</b> used to replace a single character.. 
+<b>Vim Command:</b> R | <b>Vim command</b> used to replace more than one character, until ESC is pressed.. 
+<b>Vim Command:</b> J | <b>Vim command</b> used to join line below to the current one with one space in between. 
+<b>Vim Command:</b> gJ | <b>Vim command</b> used to join line below to the current one without space in between. 
+<b>Vim Command:</b> gwip | <b>Vim command</b> used to reflow paragraph. 
+<b>Vim Command:</b> g~ | <b>Vim command</b> used to switch case up to motion. 
+<b>Vim Command:</b> gu | <b>Vim command</b> used to change to lowercase up to motion. 
+<b>Vim Command:</b> gU | <b>Vim command</b> used to change to uppercase up to motion. 
+<b>Vim Command:</b> cc | <b>Vim command</b> used to change (replace) entire line. 
+<b>Vim Command:</b> c$ or C | <b>Vim command</b> used to change (replace) to the end of the line. 
+<b>Vim Command:</b> ciw | <b>Vim command</b> used to change (replace) entire word. 
+<b>Vim Command:</b> cw or ce | <b>Vim command</b> used to change (replace) to the end of the word. 
+<b>Vim Command:</b> s | <b>Vim command</b> used to delete character and substitute text (same as cl). 
+<b>Vim Command:</b> S | <b>Vim command</b> used to delete line and substitute text (same as cc). 
+<b>Vim Command:</b> xp | <b>Vim command</b> used to transpose two letters (delete and paste). 
+<b>Vim Command:</b> u | <b>Vim command</b> used to undo. 
+<b>Vim Command:</b> U | <b>Vim command</b> used to restore (undo) last changed line. 
+<b>Vim Command:</b> Ctrl + r | <b>Vim command</b> used to redo. 
+<b>Vim Command:</b> . | <b>Vim command</b> used to repeat last command. 

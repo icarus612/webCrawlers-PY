@@ -1,0 +1,5 @@
+<b>Standard Library Function:</b> int raise(int sig); | <b>Standard library function</b> used to sends the signal sig to the
+running program.. 
+<b>Standard Library Function:</b> void(*signal (int sig, void(*func)(int)))
+(int); | <b>Standard library function</b> used to registers func as a signal handler
+for the signal sig.. 

@@ -1,0 +1,5 @@
+<b>Standard Library Function:</b> void longjmp(jmp_buf env,
+int value); | <b>Standard library function</b> used to restores a stack environment previously
+set in env by the setjmp function.. 
+<b>Standard Library Function:</b> int setjmp(jmp_buf env); | <b>Standard library function</b> used to saves a stack environment that can
+be subsequently restored by longjmp.. 

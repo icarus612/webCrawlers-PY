@@ -1,0 +1,7 @@
+<b>Standard Library Function:</b> struct lconv *localeconv(void); | <b>Standard library function</b> used to formats numeric quantities in struct
+lconv according to the current locale.. 
+<b>Standard Library Function:</b> char *setlocale(int category,
+const char *locale); | <b>Standard library function</b> used to changes or queries variables defined
+in the locale.. 
+<b>Standard Library Function:</b> struct wcslconv *wcslocaleconv(void); | <b>Standard library function</b> used to formats numeric quantities in struct
+wcslconv according to the current locale.. 

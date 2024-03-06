@@ -1,0 +1,14 @@
+<b>Standard Library Function:</b> int regcomp(regex_t *preg,
+const char *pattern, int cflags); | <b>Standard library function</b> used to compiles the source regular expression
+pointed to by pattern into an executable version and stores
+it in the location pointed to by preg.. 
+<b>Standard Library Function:</b> size_t regerror(int errcode,
+const regex_t *preg, char *errbuf,  size_t errbuf_size); | <b>Standard library function</b> used to finds the description for the error
+code errcode for the regular expression  preg.. 
+<b>Standard Library Function:</b> int regexec(const regex_t *preg,
+const char *string, size_t nmatch, regmatch_t *pmatch,
+int eflags); | <b>Standard library function</b> used to compares the null-ended string string against
+the compiled regular expression preg to find a match between
+the two.. 
+<b>Standard Library Function:</b> void regfree(regex_t *preg); | <b>Standard library function</b> used to frees any memory that was allocated
+by regcomp to implement the regular expression preg.. 

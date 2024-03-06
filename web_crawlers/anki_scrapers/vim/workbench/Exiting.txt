@@ -1,0 +1,6 @@
+<b>Vim Command:</b> :w | <b>Vim command</b> used to write (save) the file, but don't exit. 
+<b>Vim Command:</b> :w !sudo tee % | <b>Vim command</b> used to write out the current file using sudo. 
+<b>Vim Command:</b> :wq or :x or ZZ | <b>Vim command</b> used to write (save) and quit. 
+<b>Vim Command:</b> :q | <b>Vim command</b> used to quit (fails if there are unsaved changes). 
+<b>Vim Command:</b> :q! or ZQ | <b>Vim command</b> used to quit and throw away unsaved changes. 
+<b>Vim Command:</b> :wqa | <b>Vim command</b> used to write (save) and quit on all tabs. 

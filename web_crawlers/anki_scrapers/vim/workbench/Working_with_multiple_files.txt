@@ -1,0 +1,25 @@
+<b>Vim Command:</b> :e[dit] file | <b>Vim command</b> used to edit a file in a new buffer. 
+<b>Vim Command:</b> :bn[ext] | <b>Vim command</b> used to go to the next buffer. 
+<b>Vim Command:</b> :bp[revious] | <b>Vim command</b> used to go to the previous buffer. 
+<b>Vim Command:</b> :bd[elete] | <b>Vim command</b> used to delete a buffer (close a file). 
+<b>Vim Command:</b> :b[uffer]# | <b>Vim command</b> used to go to a buffer by index #. 
+<b>Vim Command:</b> :b[uffer] file | <b>Vim command</b> used to go to a buffer by file. 
+<b>Vim Command:</b> :ls or :buffers | <b>Vim command</b> used to list all open buffers. 
+<b>Vim Command:</b> :sp[lit] file | <b>Vim command</b> used to open a file in a new buffer and split window. 
+<b>Vim Command:</b> :vs[plit] file | <b>Vim command</b> used to open a file in a new buffer and vertically split window. 
+<b>Vim Command:</b> :vert[ical] ba[ll] | <b>Vim command</b> used to edit all buffers as vertical windows. 
+<b>Vim Command:</b> :tab ba[ll] | <b>Vim command</b> used to edit all buffers as tabs. 
+<b>Vim Command:</b> Ctrl + ws | <b>Vim command</b> used to split window. 
+<b>Vim Command:</b> Ctrl + wv | <b>Vim command</b> used to split window vertically. 
+<b>Vim Command:</b> Ctrl + ww | <b>Vim command</b> used to switch windows. 
+<b>Vim Command:</b> Ctrl + wq | <b>Vim command</b> used to quit a window. 
+<b>Vim Command:</b> Ctrl + wx | <b>Vim command</b> used to exchange current window with next one. 
+<b>Vim Command:</b> Ctrl + w= | <b>Vim command</b> used to make all windows equal height & width. 
+<b>Vim Command:</b> Ctrl + wh | <b>Vim command</b> used to move cursor to the left window (vertical split). 
+<b>Vim Command:</b> Ctrl + wl | <b>Vim command</b> used to move cursor to the right window (vertical split). 
+<b>Vim Command:</b> Ctrl + wj | <b>Vim command</b> used to move cursor to the window below (horizontal split). 
+<b>Vim Command:</b> Ctrl + wk | <b>Vim command</b> used to move cursor to the window above (horizontal split). 
+<b>Vim Command:</b> Ctrl + wH | <b>Vim command</b> used to make current window full height at far left (leftmost vertical window). 
+<b>Vim Command:</b> Ctrl + wL | <b>Vim command</b> used to make current window full height at far right (rightmost vertical window). 
+<b>Vim Command:</b> Ctrl + wJ | <b>Vim command</b> used to make current window full width at the very bottom (bottommost horizontal window). 
+<b>Vim Command:</b> Ctrl + wK | <b>Vim command</b> used to make current window full width at the very top (topmost horizontal window). 

@@ -1,0 +1,36 @@
+<b>Standard Library Function:</b> int iswalnum (wint_t wc); | <b>Standard library function</b> used to checks for any alphanumeric wide
+character.. 
+<b>Standard Library Function:</b> int iswalpha (wint_t wc); | <b>Standard library function</b> used to checks for any alphabetic wide
+character.. 
+<b>Standard Library Function:</b> int iswblank (wint_t wc); | <b>Standard library function</b> used to checks for any blank or tab wide
+character.. 
+<b>Standard Library Function:</b> int iswcntrl (wint_t wc); | <b>Standard library function</b> used to tests for any control wide character.. 
+<b>Standard Library Function:</b> int iswctype(wint_t wc, wctype_t
+wc_prop); | <b>Standard library function</b> used to determines whether or not the wide
+character wc has the property wc_prop.. 
+<b>Standard Library Function:</b> int iswdigit (wint_t wc); | <b>Standard library function</b> used to checks for any decimal-digit wide
+character.. 
+<b>Standard Library Function:</b> int iswgraph (wint_t wc); | <b>Standard library function</b> used to checks for any printing wide character
+except for the wide-character space.. 
+<b>Standard Library Function:</b> int iswlower (wint_t wc); | <b>Standard library function</b> used to checks for any lowercase wide character.. 
+<b>Standard Library Function:</b> int iswprint (wint_t wc); | <b>Standard library function</b> used to checks for any printing wide character.. 
+<b>Standard Library Function:</b> int iswpunct (wint_t wc); | <b>Standard library function</b> used to test for a wide non-alphanumeric,
+non-space character.. 
+<b>Standard Library Function:</b> int iswspace (wint_t wc); | <b>Standard library function</b> used to checks for any wide character that
+corresponds to an implementation-defined set of wide characters for
+which iswalnum is false.. 
+<b>Standard Library Function:</b> int iswupper (wint_t wc); | <b>Standard library function</b> used to checks for any uppercase wide character.. 
+<b>Standard Library Function:</b> int iswxdigit (wint_t wc); | <b>Standard library function</b> used to checks for any hexadecimal digit
+character.. 
+<b>Standard Library Function:</b> int isxdigit(int c); | <b>Standard library function</b> used to tests if c is a hexadecimal
+digit.. 
+<b>Standard Library Function:</b> wint_t towctrans(wint_t wc,
+wctrans_t desc); | <b>Standard library function</b> used to translates the wide character wc based
+on the mapping described by desc.. 
+<b>Standard Library Function:</b> wint_t towlower (wint_t wc); | <b>Standard library function</b> used to converts uppercase letter to lowercase
+letter.. 
+<b>Standard Library Function:</b> wint_t towupper (wint_t wc); | <b>Standard library function</b> used to converts lowercase letter to uppercase
+letter.. 
+<b>Standard Library Function:</b> wctrans_t wctrans(const char *property); | <b>Standard library function</b> used to constructs a value with type wctrans_t
+that describes a mapping between wide characters identified by the
+string argument property.. 

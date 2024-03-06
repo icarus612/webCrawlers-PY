@@ -6,7 +6,7 @@ from os import makedirs
 
 def download_commands():
 	page =  soup(requests.get('https://vim.rtorr.com/').content, 'html.parser')
-	raw_decks = dict((i.text, i.find_next('ul').find_all('li')) for i in page.find_all('h2') if i.find_next().name == 'ul')
+	raw_decks = dict((i.text.replace(' ', '_').replace('/', ' or '), i.find_next('ul').find_all('li')) for i in page.find_all('h2') if i.find_next().name == 'ul')
 	decks = dict()
 	try:
 		makedirs('workbench')
@@ -19,7 +19,7 @@ def download_commands():
 			txt = [i.strip() for i in item.text.split('-')]
 			kw = f'<b>Vim Command:</b> {txt[0]}'
 			info = f'<b>Vim command</b> used to {txt[1]}.'
-			cards.append(txt)
+			cards.append([kw, info])
    
 
 	for deck, cards in decks.items():

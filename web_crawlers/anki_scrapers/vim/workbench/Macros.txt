@@ -1,0 +1,4 @@
+<b>Vim Command:</b> qa | <b>Vim command</b> used to record macro a. 
+<b>Vim Command:</b> q | <b>Vim command</b> used to stop recording macro. 
+<b>Vim Command:</b> @a | <b>Vim command</b> used to run macro a. 
+<b>Vim Command:</b> @@ | <b>Vim command</b> used to rerun last run macro. 

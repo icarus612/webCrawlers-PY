@@ -1,0 +1,33 @@
+<b>Standard Library Function:</b> wint_t btowc(int c); | <b>Standard library function</b> used to determines whether c constitues
+a valid multibyte character in the initial shift state.. 
+<b>Standard Library Function:</b> wint_t fgetwc(FILE *stream); | <b>Standard library function</b> used to reads the next multibyte character
+from the input stream pointed to by stream. . 
+<b>Standard Library Function:</b> wchar_t *fgetws(wchar_t *wcs,
+ int n, FILE *stream); | <b>Standard library function</b> used to reads wide characters from the stream
+into the array pointed to by wcs.. 
+<b>Standard Library Function:</b> wint_t fputwc(wchar_t wc,
+ FILE *stream); | <b>Standard library function</b> used to converts the wide character wc to
+a multibyte character and writes it to the output stream pointed to
+by  stream at the current position.. 
+<b>Standard Library Function:</b> int fputws(const wchar_t *wcs,
+FILE  *stream); | <b>Standard library function</b> used to converts the wide-character string wcs to
+a multibyte-character string and writes it to stream as a multibyte
+character string.. 
+<b>Standard Library Function:</b> int fwide(FILE *stream, int mode); | <b>Standard library function</b> used to determines the orientation of the
+stream pointed to by stream.. 
+<b>Standard Library Function:</b> int fwprintf(FILE *stream,
+const wchar_t *format, arg-list); | <b>Standard library function</b> used to writes output to the stream pointed
+to by stream.. 
+<b>Standard Library Function:</b> int fwscanf(FILE *stream,
+const wchar_t *format, arg-list) | <b>Standard library function</b> used to reads input from the stream pointed
+to by stream.. 
+<b>Standard Library Function:</b> wint_t getwc(FILE *stream); | <b>Standard library function</b> used to reads the next multibyte character
+from  stream, converts it to a wide character and advances
+the associated file position indicator for stream.. 
+<b>Standard Library Function:</b> wint_t putwchar(wchar_t wc,
+ FILE *stream); | <b>Standard library function</b> used to converts the wide character wc to
+a multibyte character, and writes it to the stream at the current
+position.. 
+<b>Standard Library Function:</b> wint_t ungetwc(wint_t wc,
+FILE *stream); | <b>Standard library function</b> used to pushes the wide character wc back
+onto the input stream.. 

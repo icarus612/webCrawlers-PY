@@ -1,0 +1,44 @@
+<b>Vim Command:</b> h | <b>Vim command</b> used to move cursor left. 
+<b>Vim Command:</b> j | <b>Vim command</b> used to move cursor down. 
+<b>Vim Command:</b> k | <b>Vim command</b> used to move cursor up. 
+<b>Vim Command:</b> l | <b>Vim command</b> used to move cursor right. 
+<b>Vim Command:</b> gj | <b>Vim command</b> used to move cursor down (multi. 
+<b>Vim Command:</b> gk | <b>Vim command</b> used to move cursor up (multi. 
+<b>Vim Command:</b> H | <b>Vim command</b> used to move to top of screen. 
+<b>Vim Command:</b> M | <b>Vim command</b> used to move to middle of screen. 
+<b>Vim Command:</b> L | <b>Vim command</b> used to move to bottom of screen. 
+<b>Vim Command:</b> w | <b>Vim command</b> used to jump forwards to the start of a word. 
+<b>Vim Command:</b> W | <b>Vim command</b> used to jump forwards to the start of a word (words can contain punctuation). 
+<b>Vim Command:</b> e | <b>Vim command</b> used to jump forwards to the end of a word. 
+<b>Vim Command:</b> E | <b>Vim command</b> used to jump forwards to the end of a word (words can contain punctuation). 
+<b>Vim Command:</b> b | <b>Vim command</b> used to jump backwards to the start of a word. 
+<b>Vim Command:</b> B | <b>Vim command</b> used to jump backwards to the start of a word (words can contain punctuation). 
+<b>Vim Command:</b> ge | <b>Vim command</b> used to jump backwards to the end of a word. 
+<b>Vim Command:</b> gE | <b>Vim command</b> used to jump backwards to the end of a word (words can contain punctuation). 
+<b>Vim Command:</b> % | <b>Vim command</b> used to move cursor to matching character (default supported pairs: '()', '{}', '[]'. 
+<b>Vim Command:</b> 0 | <b>Vim command</b> used to jump to the start of the line. 
+<b>Vim Command:</b> ^ | <b>Vim command</b> used to jump to the first non. 
+<b>Vim Command:</b> $ | <b>Vim command</b> used to jump to the end of the line. 
+<b>Vim Command:</b> g_ | <b>Vim command</b> used to jump to the last non. 
+<b>Vim Command:</b> gg | <b>Vim command</b> used to go to the first line of the document. 
+<b>Vim Command:</b> G | <b>Vim command</b> used to go to the last line of the document. 
+<b>Vim Command:</b> 5gg or 5G | <b>Vim command</b> used to go to line 5. 
+<b>Vim Command:</b> gd | <b>Vim command</b> used to move to local declaration. 
+<b>Vim Command:</b> gD | <b>Vim command</b> used to move to global declaration. 
+<b>Vim Command:</b> fx | <b>Vim command</b> used to jump to next occurrence of character x. 
+<b>Vim Command:</b> tx | <b>Vim command</b> used to jump to before next occurrence of character x. 
+<b>Vim Command:</b> Fx | <b>Vim command</b> used to jump to the previous occurrence of character x. 
+<b>Vim Command:</b> Tx | <b>Vim command</b> used to jump to after previous occurrence of character x. 
+<b>Vim Command:</b> ; | <b>Vim command</b> used to repeat previous f, t, F or T movement. 
+<b>Vim Command:</b> , | <b>Vim command</b> used to repeat previous f, t, F or T movement, backwards. 
+<b>Vim Command:</b> } | <b>Vim command</b> used to jump to next paragraph (or function/block, when editing code). 
+<b>Vim Command:</b> { | <b>Vim command</b> used to jump to previous paragraph (or function/block, when editing code). 
+<b>Vim Command:</b> zz | <b>Vim command</b> used to center cursor on screen. 
+<b>Vim Command:</b> zt | <b>Vim command</b> used to position cursor on top of the screen. 
+<b>Vim Command:</b> zb | <b>Vim command</b> used to position cursor on bottom of the screen. 
+<b>Vim Command:</b> Ctrl + e | <b>Vim command</b> used to move screen down one line (without moving cursor). 
+<b>Vim Command:</b> Ctrl + y | <b>Vim command</b> used to move screen up one line (without moving cursor). 
+<b>Vim Command:</b> Ctrl + b | <b>Vim command</b> used to move screen up one page (cursor to last line). 
+<b>Vim Command:</b> Ctrl + f | <b>Vim command</b> used to move screen down one page (cursor to first line). 
+<b>Vim Command:</b> Ctrl + d | <b>Vim command</b> used to move cursor and screen down 1/2 page. 
+<b>Vim Command:</b> Ctrl + u | <b>Vim command</b> used to move cursor and screen up 1/2 page. 

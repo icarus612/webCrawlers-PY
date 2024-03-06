@@ -1,0 +1,24 @@
+<b>Standard Library Function:</b> int isalnum(int c); | <b>Standard library function</b> used to tests if c is alphanumeric.. 
+<b>Standard Library Function:</b> int isalpha(int c); | <b>Standard library function</b> used to tests if c is alphabetic.. 
+<b>Standard Library Function:</b> int isascii(int c); | <b>Standard library function</b> used to tests if c is within the 7-bit
+US-ASCII range.. 
+<b>Standard Library Function:</b> int isblank(int c); | <b>Standard library function</b> used to tests if c is a blank or
+tab character.. 
+<b>Standard Library Function:</b> int iscntrl(int c); | <b>Standard library function</b> used to tests if c is a control character.. 
+<b>Standard Library Function:</b> int isdigit(int c); | <b>Standard library function</b> used to tests if c is a decimal digit.. 
+<b>Standard Library Function:</b> int isgraph(int c); | <b>Standard library function</b> used to tests if c is a printable
+character excluding the space.. 
+<b>Standard Library Function:</b> int islower(int c); | <b>Standard library function</b> used to tests if c is a lowercase
+letter.. 
+<b>Standard Library Function:</b> int isprint(int c); | <b>Standard library function</b> used to tests if c is a printable
+character including the space.. 
+<b>Standard Library Function:</b> int ispunct(int c); | <b>Standard library function</b> used to tests if c is a punctuation
+character.. 
+<b>Standard Library Function:</b> int isspace(int c); | <b>Standard library function</b> used to tests if c is a whitespace
+character.. 
+<b>Standard Library Function:</b> int isupper(int c); | <b>Standard library function</b> used to tests if c is an uppercase
+letter.. 
+<b>Standard Library Function:</b> int toascii(int c); | <b>Standard library function</b> used to converts c to a character
+in the 7-bit US-ASCII character set.. 
+<b>Standard Library Function:</b> int tolower(int c); | <b>Standard library function</b> used to converts c to lowercase.. 
+<b>Standard Library Function:</b> int toupper(int c); | <b>Standard library function</b> used to converts c to uppercase.. 

@@ -1,0 +1,63 @@
+<b>Standard Library Function:</b> void *memchr(const void *buf,
+int c, size_t count); | <b>Standard library function</b> used to searches the first count bytes
+of buf for the first occurrence of c converted to an
+unsigned character.. 
+<b>Standard Library Function:</b> int memcmp(const void *buf1,
+const void *buf2, size_t count); | <b>Standard library function</b> used to compares up to count bytes
+of buf1 and buf2.. 
+<b>Standard Library Function:</b> void *memcpy(void *dest, const
+void *src, size_t count); | <b>Standard library function</b> used to copies count bytes of src to dest.. 
+<b>Standard Library Function:</b> void *memmove(void *dest,
+const void *src, size_t count); | <b>Standard library function</b> used to copies count bytes of src to dest.
+ Allows copying between objects that overlap.. 
+<b>Standard Library Function:</b> void *memset(void *dest, int c,
+size_t count); | <b>Standard library function</b> used to sets count bytes of dest to
+a value c.. 
+<b>Standard Library Function:</b> char *strcat(char *string1,
+const char *string2); | <b>Standard library function</b> used to concatenates string2 to string1.. 
+<b>Standard Library Function:</b> char *strchr(const char *string,
+int c); | <b>Standard library function</b> used to locates the first occurrence of c in string.. 
+<b>Standard Library Function:</b> int strcmp(const char *string1,
+const char *string2); | <b>Standard library function</b> used to compares the value of string1 to string2.. 
+<b>Standard Library Function:</b> int strcoll(const char *string1,
+const char *string2); | <b>Standard library function</b> used to compares two strings using the collating
+sequence in the current locale.. 
+<b>Standard Library Function:</b> char *strcpy(char *string1,
+const char *string2); | <b>Standard library function</b> used to copies string2 into string1.. 
+<b>Standard Library Function:</b> size_t strcspn(const char *string1,
+const char *string2); | <b>Standard library function</b> used to returns the length of the initial
+substring of string1 consisting of characters not contained
+in string2.. 
+<b>Standard Library Function:</b> char *strerror(int errnum); | <b>Standard library function</b> used to maps the error number in errnum to
+an error message string.. 
+<b>Standard Library Function:</b> size_t strlen(const char *string); | <b>Standard library function</b> used to calculates the length of string.. 
+<b>Standard Library Function:</b> char *strncat(char *string1,
+const char *string2, size_t count); | <b>Standard library function</b> used to concatenates up to count characters
+of string2 to string1.. 
+<b>Standard Library Function:</b> int strncmp(const char *string1,
+const char *string2, size_t count); | <b>Standard library function</b> used to compares up to count characters
+of string1 and string2.. 
+<b>Standard Library Function:</b> char *strncpy(char *string1,
+const char *string2, size_t count); | <b>Standard library function</b> used to copies up to count characters
+of string2 to string1.. 
+<b>Standard Library Function:</b> char *strpbrk(const char *string1,
+const char *string2); | <b>Standard library function</b> used to locates the first occurrence in string1 of
+any character in string2.. 
+<b>Standard Library Function:</b> char *strrchr(const char *string,
+int c); | <b>Standard library function</b> used to locates the last occurrence of c in string.. 
+<b>Standard Library Function:</b> size_t strspn(const char *string1,
+const char *string2); | <b>Standard library function</b> used to returns the length of the initial
+substring of string1 consisting of characters contained in string2.. 
+<b>Standard Library Function:</b> char *strstr(const char *string1,
+const char *string2); | <b>Standard library function</b> used to returns a pointer to the first occurrence
+of string2 in string1.. 
+<b>Standard Library Function:</b> char *strtok(char *string1,
+const char *string2); | <b>Standard library function</b> used to locates the next token in string1 delimited
+by the next character in string2.. 
+<b>Standard Library Function:</b> char *strtok_r(char *string,
+const char *seps, char **lasts); | <b>Standard library function</b> used to locates the next token in string delimited
+by the next character in seps. (Restartable version of strtok.). 
+<b>Standard Library Function:</b> size_t strxfrm(char *string1,
+const char *string2, size_t count); | <b>Standard library function</b> used to converts string2 and places
+the result in string1. The conversion is determined by the
+program's current locale.. 

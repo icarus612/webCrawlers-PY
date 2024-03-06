@@ -1,0 +1,5 @@
+<b>Vim Command:</b> :h[elp] keyword | <b>Vim command</b> used to open help for keyword. 
+<b>Vim Command:</b> :sav[eas] file | <b>Vim command</b> used to save file as. 
+<b>Vim Command:</b> :clo[se] | <b>Vim command</b> used to close current pane. 
+<b>Vim Command:</b> :ter[minal] | <b>Vim command</b> used to open a terminal window. 
+<b>Vim Command:</b> K | <b>Vim command</b> used to open man page for word under the cursor. 

@@ -1,0 +1,13 @@
+<b>Vim Command:</b> v | <b>Vim command</b> used to start visual mode, mark lines, then do a command (like y. 
+<b>Vim Command:</b> V | <b>Vim command</b> used to start linewise visual mode. 
+<b>Vim Command:</b> o | <b>Vim command</b> used to move to other end of marked area. 
+<b>Vim Command:</b> Ctrl + v | <b>Vim command</b> used to start visual block mode. 
+<b>Vim Command:</b> O | <b>Vim command</b> used to move to other corner of block. 
+<b>Vim Command:</b> aw | <b>Vim command</b> used to mark a word. 
+<b>Vim Command:</b> ab | <b>Vim command</b> used to a block with (). 
+<b>Vim Command:</b> aB | <b>Vim command</b> used to a block with {}. 
+<b>Vim Command:</b> at | <b>Vim command</b> used to a block with <> tags. 
+<b>Vim Command:</b> ib | <b>Vim command</b> used to inner block with (). 
+<b>Vim Command:</b> iB | <b>Vim command</b> used to inner block with {}. 
+<b>Vim Command:</b> it | <b>Vim command</b> used to inner block with <> tags. 
+<b>Vim Command:</b> Esc or Ctrl + c | <b>Vim command</b> used to exit visual mode. 

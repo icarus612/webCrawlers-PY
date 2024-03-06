@@ -1,0 +1,15 @@
+<b>Vim Command:</b> :marks | <b>Vim command</b> used to list of marks. 
+<b>Vim Command:</b> ma | <b>Vim command</b> used to set current position for mark A. 
+<b>Vim Command:</b> `a | <b>Vim command</b> used to jump to position of mark A. 
+<b>Vim Command:</b> y`a | <b>Vim command</b> used to yank text to position of mark A. 
+<b>Vim Command:</b> `0 | <b>Vim command</b> used to go to the position where Vim was previously exited. 
+<b>Vim Command:</b> `" | <b>Vim command</b> used to go to the position when last editing this file. 
+<b>Vim Command:</b> `. | <b>Vim command</b> used to go to the position of the last change in this file. 
+<b>Vim Command:</b> `` | <b>Vim command</b> used to go to the position before the last jump. 
+<b>Vim Command:</b> :ju[mps] | <b>Vim command</b> used to list of jumps. 
+<b>Vim Command:</b> Ctrl + i | <b>Vim command</b> used to go to newer position in jump list. 
+<b>Vim Command:</b> Ctrl + o | <b>Vim command</b> used to go to older position in jump list. 
+<b>Vim Command:</b> :changes | <b>Vim command</b> used to list of changes. 
+<b>Vim Command:</b> g, | <b>Vim command</b> used to go to newer position in change list. 
+<b>Vim Command:</b> g; | <b>Vim command</b> used to go to older position in change list. 
+<b>Vim Command:</b> Ctrl + ] | <b>Vim command</b> used to jump to the tag under cursor. 

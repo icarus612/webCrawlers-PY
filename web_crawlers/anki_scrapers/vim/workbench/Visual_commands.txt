@@ -1,0 +1,7 @@
+<b>Vim Command:</b> > | <b>Vim command</b> used to shift text right. 
+<b>Vim Command:</b> < | <b>Vim command</b> used to shift text left. 
+<b>Vim Command:</b> y | <b>Vim command</b> used to yank (copy) marked text. 
+<b>Vim Command:</b> d | <b>Vim command</b> used to delete marked text. 
+<b>Vim Command:</b> ~ | <b>Vim command</b> used to switch case. 
+<b>Vim Command:</b> u | <b>Vim command</b> used to change marked text to lowercase. 
+<b>Vim Command:</b> U | <b>Vim command</b> used to change marked text to uppercase. 

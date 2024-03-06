@@ -1,0 +1,8 @@
+<b>Vim Command:</b> /pattern | <b>Vim command</b> used to search for pattern. 
+<b>Vim Command:</b> ?pattern | <b>Vim command</b> used to search backward for pattern. 
+<b>Vim Command:</b> \vpattern | <b>Vim command</b> used to 'very magic' pattern: non. 
+<b>Vim Command:</b> n | <b>Vim command</b> used to repeat search in same direction. 
+<b>Vim Command:</b> N | <b>Vim command</b> used to repeat search in opposite direction. 
+<b>Vim Command:</b> :%s/old/new/g | <b>Vim command</b> used to replace all old with new throughout file. 
+<b>Vim Command:</b> :%s/old/new/gc | <b>Vim command</b> used to replace all old with new throughout file with confirmations. 
+<b>Vim Command:</b> :noh[lsearch] | <b>Vim command</b> used to remove highlighting of search matches. 

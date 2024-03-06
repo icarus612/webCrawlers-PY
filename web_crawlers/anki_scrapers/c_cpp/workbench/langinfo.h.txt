@@ -1,0 +1,2 @@
+<b>Standard Library Function:</b> char *nl_langinfo(nl_item item); | <b>Standard library function</b> used to retrieve from the current locale
+the string that describes the requested information specified by item.. 

@@ -1,0 +1,15 @@
+<b>Vim Command:</b> zf | <b>Vim command</b> used to manually define a fold up to motion. 
+<b>Vim Command:</b> zd | <b>Vim command</b> used to delete fold under the cursor. 
+<b>Vim Command:</b> za | <b>Vim command</b> used to toggle fold under the cursor. 
+<b>Vim Command:</b> zo | <b>Vim command</b> used to open fold under the cursor. 
+<b>Vim Command:</b> zc | <b>Vim command</b> used to close fold under the cursor. 
+<b>Vim Command:</b> zr | <b>Vim command</b> used to reduce (open) all folds by one level. 
+<b>Vim Command:</b> zm | <b>Vim command</b> used to fold more (close) all folds by one level. 
+<b>Vim Command:</b> zi | <b>Vim command</b> used to toggle folding functionality. 
+<b>Vim Command:</b> ]c | <b>Vim command</b> used to jump to start of next change. 
+<b>Vim Command:</b> [c | <b>Vim command</b> used to jump to start of previous change. 
+<b>Vim Command:</b> do or :diffg[et] | <b>Vim command</b> used to obtain (get) difference (from other buffer). 
+<b>Vim Command:</b> dp or :diffpu[t] | <b>Vim command</b> used to put difference (to other buffer). 
+<b>Vim Command:</b> :diffthis | <b>Vim command</b> used to make current window part of diff. 
+<b>Vim Command:</b> :dif[fupdate] | <b>Vim command</b> used to update differences. 
+<b>Vim Command:</b> :diffo[ff] | <b>Vim command</b> used to switch off diff mode for current window. 

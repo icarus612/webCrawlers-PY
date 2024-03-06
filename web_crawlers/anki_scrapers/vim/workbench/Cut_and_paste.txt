@@ -1,0 +1,16 @@
+<b>Vim Command:</b> yy | <b>Vim command</b> used to yank (copy) a line. 
+<b>Vim Command:</b> 2yy | <b>Vim command</b> used to yank (copy) 2 lines. 
+<b>Vim Command:</b> yw | <b>Vim command</b> used to yank (copy) the characters of the word from the cursor position to the start of the next word. 
+<b>Vim Command:</b> yiw | <b>Vim command</b> used to yank (copy) word under the cursor. 
+<b>Vim Command:</b> yaw | <b>Vim command</b> used to yank (copy) word under the cursor and the space after or before it. 
+<b>Vim Command:</b> y$ or Y | <b>Vim command</b> used to yank (copy) to end of line. 
+<b>Vim Command:</b> p | <b>Vim command</b> used to put (paste) the clipboard after cursor. 
+<b>Vim Command:</b> P | <b>Vim command</b> used to put (paste) before cursor. 
+<b>Vim Command:</b> gp | <b>Vim command</b> used to put (paste) the clipboard after cursor and leave cursor after the new text. 
+<b>Vim Command:</b> gP | <b>Vim command</b> used to put (paste) before cursor and leave cursor after the new text. 
+<b>Vim Command:</b> dd | <b>Vim command</b> used to delete (cut) a line. 
+<b>Vim Command:</b> 2dd | <b>Vim command</b> used to delete (cut) 2 lines. 
+<b>Vim Command:</b> dw | <b>Vim command</b> used to delete (cut) the characters of the word from the cursor position to the start of the next word. 
+<b>Vim Command:</b> diw | <b>Vim command</b> used to delete (cut) word under the cursor. 
+<b>Vim Command:</b> daw | <b>Vim command</b> used to delete (cut) word under the cursor and the space after or before it. 
+<b>Vim Command:</b> :3,5d | <b>Vim command</b> used to delete lines starting from 3 to 5. 
