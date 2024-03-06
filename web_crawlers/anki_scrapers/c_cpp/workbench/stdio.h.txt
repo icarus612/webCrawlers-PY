@@ -1,3 +1,5 @@
+<b>Standard Library Function:</b> wint_t btowc(int c); | <b>Standard library function</b> used to determines whether c constitues
+a valid multibyte character in the initial shift state.. 
 <b>Standard Library Function:</b> void clearerr(FILE *stream); | <b>Standard library function</b> used to resets the error indicators and the
 end-of-file indicator for stream.. 
 <b>Standard Library Function:</b> int fclose(FILE *stream); | <b>Standard library function</b> used to closes the specified stream.. 
@@ -18,6 +20,11 @@ file pointer associated with stream into the object pointed
 to by pos.. 
 <b>Standard Library Function:</b> char *fgets(char *string,
 int n, FILE *stream); | <b>Standard library function</b> used to reads a string from the input stream.. 
+<b>Standard Library Function:</b> wint_t fgetwc(FILE *stream); | <b>Standard library function</b> used to reads the next multibyte character
+from the input stream pointed to by stream. . 
+<b>Standard Library Function:</b> wchar_t *fgetws(wchar_t *wcs,
+ int n, FILE *stream); | <b>Standard library function</b> used to reads wide characters from the stream
+into the array pointed to by wcs.. 
 <b>Standard Library Function:</b> int fileno(FILE *stream); | <b>Standard library function</b> used to determines the file handle currently
 associated with stream.. 
 <b>Standard Library Function:</b> FILE *fopen(const char *filename,
@@ -28,6 +35,14 @@ values to the output stream..
 <b>Standard Library Function:</b> int fputc(int c, FILE *stream); | <b>Standard library function</b> used to prints a character to the output stream.. 
 <b>Standard Library Function:</b> int fputs(const char *string,
 FILE *stream); | <b>Standard library function</b> used to copies a string to the output stream.. 
+<b>Standard Library Function:</b> wint_t fputwc(wchar_t wc,
+ FILE *stream); | <b>Standard library function</b> used to converts the wide character wc to
+a multibyte character and writes it to the output stream pointed to
+by  stream at the current position.. 
+<b>Standard Library Function:</b> int fputws(const wchar_t *wcs,
+FILE  *stream); | <b>Standard library function</b> used to converts the wide-character string wcs to
+a multibyte-character string and writes it to stream as a multibyte
+character string.. 
 <b>Standard Library Function:</b> size_t fread(void *buffer,
 size_t size, size_t count, FILE *stream); | <b>Standard library function</b> used to reads up to count items
 of size length from the input stream, and stores them
@@ -46,20 +61,35 @@ const fpos_t *pos); | <b>Standard library function</b> used to moves the current
 a new location determined by pos.. 
 <b>Standard Library Function:</b> long int ftell(FILE *stream); | <b>Standard library function</b> used to gets the current position of the
 file pointer.. 
+<b>Standard Library Function:</b> int fwide(FILE *stream, int mode); | <b>Standard library function</b> used to determines the orientation of the
+stream pointed to by stream.. 
+<b>Standard Library Function:</b> int fwprintf(FILE *stream,
+const wchar_t *format, arg-list); | <b>Standard library function</b> used to writes output to the stream pointed
+to by stream.. 
 <b>Standard Library Function:</b> size_t fwrite(const void *buffer,
 size_t size,size_t count, FILE *stream); | <b>Standard library function</b> used to writes up to count items of size length
 from buffer to stream.. 
+<b>Standard Library Function:</b> int fwscanf(FILE *stream,
+const wchar_t *format, arg-list) | <b>Standard library function</b> used to reads input from the stream pointed
+to by stream.. 
 <b>Standard Library Function:</b> int getc(FILE *stream); | <b>Standard library function</b> used to reads a single character from the
 input stream.. 
 <b>Standard Library Function:</b> int getchar(void); | <b>Standard library function</b> used to reads a single character from stdin.. 
 <b>Standard Library Function:</b> char *gets(char *buffer); | <b>Standard library function</b> used to reads a string from stdin,
 and stores it in buffer.. 
+<b>Standard Library Function:</b> wint_t getwc(FILE *stream); | <b>Standard library function</b> used to reads the next multibyte character
+from  stream, converts it to a wide character and advances
+the associated file position indicator for stream.. 
 <b>Standard Library Function:</b> void perror(const char *string); | <b>Standard library function</b> used to prints an error message to stderr.. 
 <b>Standard Library Function:</b> int printf(const char *format-string, arg-list); | <b>Standard library function</b> used to formats and prints characters and
 values to stdout.. 
 <b>Standard Library Function:</b> int putc(int c, FILE *stream); | <b>Standard library function</b> used to prints c to the output stream.. 
 <b>Standard Library Function:</b> int putchar(int c); | <b>Standard library function</b> used to prints c to stdout.. 
 <b>Standard Library Function:</b> int puts(const char *string); | <b>Standard library function</b> used to prints a string to stdout.. 
+<b>Standard Library Function:</b> wint_t putwchar(wchar_t wc,
+ FILE *stream); | <b>Standard library function</b> used to converts the wide character wc to
+a multibyte character, and writes it to the stream at the current
+position.. 
 <b>Standard Library Function:</b> int remove(const char *filename); | <b>Standard library function</b> used to deletes the file specified by filename.. 
 <b>Standard Library Function:</b> int rename(const char *oldname,
 const char *newname); | <b>Standard library function</b> used to renames the specified file.. 
@@ -84,6 +114,39 @@ the locations given by arg-list..
 opens it.. 
 <b>Standard Library Function:</b> char *tmpnam(char *string); | <b>Standard library function</b> used to generates a temporary file name.. 
 <b>Standard Library Function:</b> int ungetc(int c, FILE *stream); | <b>Standard library function</b> used to pushes c back onto the input stream.. 
+<b>Standard Library Function:</b> wint_t ungetwc(wint_t wc,
+FILE *stream); | <b>Standard library function</b> used to pushes the wide character wc back
+onto the input stream.. 
+<b>Standard Library Function:</b> int vfprintf(FILE *stream,
+const char *format, va_list arg_ptr); | <b>Standard library function</b> used to formats and prints characters to
+the output stream using a variable number of arguments.. 
+<b>Standard Library Function:</b> int vfscanf(FILE *stream,
+const char *format, va_list arg_ptr); | <b>Standard library function</b> used to reads data from a specified stream
+into locations given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vfwprintf(FILE *stream,
+const wchar_t *format, va_list arg); | <b>Standard library function</b> used to equivalent to fwprintf, except that
+the variable argument list is replaced by arg.. 
+<b>Standard Library Function:</b> int vfwscanf(FILE *stream,
+const wchar_t *format, va_list arg_ptr); | <b>Standard library function</b> used to reads wide data from a specified
+stream into locations given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vprintf(const char *format,
+va_list arg_ptr); | <b>Standard library function</b> used to formats and prints characters to
+stdout using a variable number of arguments.. 
+<b>Standard Library Function:</b> int vscanf(const char *format, va_list
+arg_ptr); | <b>Standard library function</b> used to reads data from stdin into locations
+given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vsprintf(char *target-string,
+const char *format, va_list arg_ptr); | <b>Standard library function</b> used to formats and stores characters in
+a buffer using a variable number of arguments.. 
 <b>Standard Library Function:</b> int vsnprintf(char *outbuf, size_t
 n, const char*, va_list); | <b>Standard library function</b> used to same as vsprintf except that the
 function will stop after n characters have been written to outbuf.. 
+<b>Standard Library Function:</b> int vsscanf(const char*buffer,
+const char *format, va_list arg_ptr); | <b>Standard library function</b> used to reads data from a buffer into locations
+given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vswscanf(const wchar_t *buffer,
+const wchar_t *format, va_list arg_ptr); | <b>Standard library function</b> used to reads wide data from a buffer into
+locations given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vwscanf(const wchar_t *format, va_list
+arg_ptr); | <b>Standard library function</b> used to reads wide data from stdin into locations
+given by a variable number of arguments.. 

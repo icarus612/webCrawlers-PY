@@ -1,9 +1,0 @@
-<b>Standard Library Function:</b> int vfprintf(FILE *stream,
-const char *format, va_list arg_ptr); | <b>Standard library function</b> used to formats and prints characters to
-the output stream using a variable number of arguments.. 
-<b>Standard Library Function:</b> int vprintf(const char *format,
-va_list arg_ptr); | <b>Standard library function</b> used to formats and prints characters to
-stdout using a variable number of arguments.. 
-<b>Standard Library Function:</b> int vsprintf(char *target-string,
-const char *format, va_list arg_ptr); | <b>Standard library function</b> used to formats and stores characters in
-a buffer using a variable number of arguments.. 

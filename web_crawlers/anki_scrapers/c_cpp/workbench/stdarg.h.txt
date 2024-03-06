@@ -9,3 +9,36 @@ argument list processing..
 <b>Standard Library Function:</b> void va_start(va_list arg_ptr,
 variable_name); | <b>Standard library function</b> used to initializes arg_ptr for subsequent
 use by va_arg and va_end.. 
+<b>Standard Library Function:</b> int vfprintf(FILE *stream,
+const char *format, va_list arg_ptr); | <b>Standard library function</b> used to formats and prints characters to
+the output stream using a variable number of arguments.. 
+<b>Standard Library Function:</b> int vfscanf(FILE *stream,
+const char *format, va_list arg_ptr); | <b>Standard library function</b> used to reads data from a specified stream
+into locations given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vfwprintf(FILE *stream,
+const wchar_t *format, va_list arg); | <b>Standard library function</b> used to equivalent to fwprintf, except that
+the variable argument list is replaced by arg.. 
+<b>Standard Library Function:</b> int vfwscanf(FILE *stream,
+const wchar_t *format, va_list arg_ptr); | <b>Standard library function</b> used to reads wide data from a specified
+stream into locations given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vprintf(const char *format,
+va_list arg_ptr); | <b>Standard library function</b> used to formats and prints characters to
+stdout using a variable number of arguments.. 
+<b>Standard Library Function:</b> int vscanf(const char *format, va_list
+arg_ptr); | <b>Standard library function</b> used to reads data from stdin into locations
+given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vsprintf(char *target-string,
+const char *format, va_list arg_ptr); | <b>Standard library function</b> used to formats and stores characters in
+a buffer using a variable number of arguments.. 
+<b>Standard Library Function:</b> int vsscanf(const char*buffer,
+const char *format, va_list arg_ptr); | <b>Standard library function</b> used to reads data from a buffer into locations
+given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vswprintf(wchar_t *wcsbuffer,
+ size_t n, const wchar_t *format,  va_list arg); | <b>Standard library function</b> used to formats and stores a series of wide
+characters and values in the buffer wcsbuffer.. 
+<b>Standard Library Function:</b> int vwprintf(const wchar_t *format, va_list
+arg); | <b>Standard library function</b> used to equivalent to wprintf, except that
+the variable argument list is replaced by arg. . 
+<b>Standard Library Function:</b> int wctob(wint_t wc); | <b>Standard library function</b> used to determines whether wc corresponds
+to a member of the extended character set whose multibyte character
+representation is a single byte when in the initial shift state.. 

@@ -1,3 +1,29 @@
+<b>Standard Library Function:</b> wint_t btowc(int c); | <b>Standard library function</b> used to determines whether c constitues
+a valid multibyte character in the initial shift state.. 
+<b>Standard Library Function:</b> wint_t fgetwc(FILE *stream); | <b>Standard library function</b> used to reads the next multibyte character
+from the input stream pointed to by stream. . 
+<b>Standard Library Function:</b> wchar_t *fgetws(wchar_t *wcs,
+ int n, FILE *stream); | <b>Standard library function</b> used to reads wide characters from the stream
+into the array pointed to by wcs.. 
+<b>Standard Library Function:</b> wint_t fputwc(wchar_t wc,
+ FILE *stream); | <b>Standard library function</b> used to converts the wide character wc to
+a multibyte character and writes it to the output stream pointed to
+by  stream at the current position.. 
+<b>Standard Library Function:</b> int fputws(const wchar_t *wcs,
+FILE  *stream); | <b>Standard library function</b> used to converts the wide-character string wcs to
+a multibyte-character string and writes it to stream as a multibyte
+character string.. 
+<b>Standard Library Function:</b> int fwide(FILE *stream, int mode); | <b>Standard library function</b> used to determines the orientation of the
+stream pointed to by stream.. 
+<b>Standard Library Function:</b> int fwprintf(FILE *stream,
+const wchar_t *format, arg-list); | <b>Standard library function</b> used to writes output to the stream pointed
+to by stream.. 
+<b>Standard Library Function:</b> int fwscanf(FILE *stream,
+const wchar_t *format, arg-list) | <b>Standard library function</b> used to reads input from the stream pointed
+to by stream.. 
+<b>Standard Library Function:</b> wint_t getwc(FILE *stream); | <b>Standard library function</b> used to reads the next multibyte character
+from  stream, converts it to a wide character and advances
+the associated file position indicator for stream.. 
 <b>Standard Library Function:</b> wint_t getwchar(void); | <b>Standard library function</b> used to reads the next multibyte character
 from stdin, converts it to a wide character, and advances the associated
 file position indicator for stdin.. 
@@ -12,6 +38,10 @@ initial state..
 <b>Standard Library Function:</b> size_t mbsrtowc (wchar_t *dst, const
 char **src, size_t len, mbstate_t *ps); | <b>Standard library function</b> used to convert multibyte string to a wide
 character string. (Restartable version of mbstowcs.). 
+<b>Standard Library Function:</b> wint_t putwchar(wchar_t wc,
+ FILE *stream); | <b>Standard library function</b> used to converts the wide character wc to
+a multibyte character, and writes it to the stream at the current
+position.. 
 <b>Standard Library Function:</b> wint_t putwchar(wchar_t wc); | <b>Standard library function</b> used to converts the wide character wc to
 a multibyte character and writes it to stdout.. 
 <b>Standard Library Function:</b> int strfmon (char *s, size_t maxsize,
@@ -22,6 +52,24 @@ characters and values into the wide-character buffer wcsbuffer..
 <b>Standard Library Function:</b> int swscanf (const wchar_t *buffer,
 const wchar_t *format, arg-list) | <b>Standard library function</b> used to reads data from buffer into
 the locations given by arg-list.. 
+<b>Standard Library Function:</b> wint_t ungetwc(wint_t wc,
+FILE *stream); | <b>Standard library function</b> used to pushes the wide character wc back
+onto the input stream.. 
+<b>Standard Library Function:</b> int vfwprintf(FILE *stream,
+const wchar_t *format, va_list arg); | <b>Standard library function</b> used to equivalent to fwprintf, except that
+the variable argument list is replaced by arg.. 
+<b>Standard Library Function:</b> int vswprintf(wchar_t *wcsbuffer,
+ size_t n, const wchar_t *format,  va_list arg); | <b>Standard library function</b> used to formats and stores a series of wide
+characters and values in the buffer wcsbuffer.. 
+<b>Standard Library Function:</b> int vswscanf(const wchar_t *buffer,
+const wchar_t *format, va_list arg_ptr); | <b>Standard library function</b> used to reads wide data from a buffer into
+locations given by a variable number of arguments.. 
+<b>Standard Library Function:</b> int vwprintf(const wchar_t *format, va_list
+arg); | <b>Standard library function</b> used to equivalent to wprintf, except that
+the variable argument list is replaced by arg. . 
+<b>Standard Library Function:</b> int vwscanf(const wchar_t *format, va_list
+arg_ptr); | <b>Standard library function</b> used to reads wide data from stdin into locations
+given by a variable number of arguments.. 
 <b>Standard Library Function:</b> int wcrtomb (char *s, wchar_t wchar,
 mbstate_t *pss); | <b>Standard library function</b> used to converts a wide character to a multibyte
 character. (Restartable version of wctomb.). 
@@ -117,6 +165,9 @@ integer value..
 const wchar_t *wcs2, size_t n); | <b>Standard library function</b> used to transforms a wide-character string
 to values which represent character collating weights and places the
 resulting wide-character string into an array.. 
+<b>Standard Library Function:</b> int wctob(wint_t wc); | <b>Standard library function</b> used to determines whether wc corresponds
+to a member of the extended character set whose multibyte character
+representation is a single byte when in the initial shift state.. 
 <b>Standard Library Function:</b> wctype_t wctype (const char  *property); | <b>Standard library function</b> used to obtains handle for character property
 classification.. 
 <b>Standard Library Function:</b> int wcswidth(const wchar_t   *pwcs,
