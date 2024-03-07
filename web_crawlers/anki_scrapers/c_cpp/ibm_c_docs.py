@@ -29,9 +29,14 @@ def download_commands():
 		new_cards = []
 		for card in cards:
 			try: 
-				kw = f'<b>Standard Library Function:</b> {card[2]}'
-				info = f'<b>Standard library function</b> used to {card[3][0].lower() + card[3][1:]}.'
-				new_cards.append([kw, info])
+				c3 = card[2].replace('\n', ' ')
+				c2 = card[3].replace('\n', ' ')
+				c2 = c2[0].lower() + c2[1:]
+				inner = c3.split('(')[1].split(',')
+				c1 = [i.split(' ')[1] for i in c3.split(',')]
+				kw = f'<b>Standard Library Function:</b> {c1}'
+				info = f'<b>Standard library function</b> used to {c2}.'
+				new_cards.append([kw, info, c3])
 			except Exception as e:
 				print(e)
 				print(card)

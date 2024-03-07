@@ -1,2 +1,1 @@
-<b>Standard Library Function:</b> void assert(int expression); | <b>Standard library function</b> used to prints a diagnostic message and ends
-the program if the expression is false.. 
+<b>Standard Library Function:</b> ['assert(int'] | <b>Standard library function</b> used to prints a diagnostic message and ends the program if the expression is false.. | void assert(int expression); 
