@@ -6,4 +6,4 @@
 <b>Vim Command:</b> :tabm[ove] # | <b>Vim command</b> used to move current tab to the #th position (indexed from 0). 
 <b>Vim Command:</b> :tabc[lose] | <b>Vim command</b> used to close the current tab and all its windows. 
 <b>Vim Command:</b> :tabo[nly] | <b>Vim command</b> used to close all tabs except for the current one. 
-<b>Vim Command:</b> :tabdo command | <b>Vim command</b> used to run the command on all tabs (e.g. :tabdo q. 
+<b>Vim Command:</b> :tabdo command | <b>Vim command</b> used to run the command on all tabs (e.g. :tabdo q - closes all opened tabs). 

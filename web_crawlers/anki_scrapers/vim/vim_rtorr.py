@@ -16,9 +16,9 @@ def download_commands():
 	for deck, items in raw_decks.items():
 		cards = decks[deck] = []
 		for item in items:
-			txt = [i.strip() for i in item.text.split('-')]
+			txt = [i.strip() for i in item.text.partition('-')]
 			kw = f'<b>Vim Command:</b> {txt[0]}'
-			info = f'<b>Vim command</b> used to {txt[1]}.'
+			info = f'<b>Vim command</b> used to {txt[2]}.'
 			cards.append([kw, info])
    
 

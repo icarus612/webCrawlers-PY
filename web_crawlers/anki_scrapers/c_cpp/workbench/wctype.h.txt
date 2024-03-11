@@ -1,18 +1,18 @@
-<b>Standard Library Function:</b> ['iswalnum'] | <b>Standard library function</b> used to checks for any alphanumeric wide character.. | int iswalnum (wint_t wc); 
-<b>Standard Library Function:</b> ['iswalpha'] | <b>Standard library function</b> used to checks for any alphabetic wide character.. | int iswalpha (wint_t wc); 
-<b>Standard Library Function:</b> ['iswblank'] | <b>Standard library function</b> used to checks for any blank or tab wide character.. | int iswblank (wint_t wc); 
-<b>Standard Library Function:</b> ['iswcntrl'] | <b>Standard library function</b> used to tests for any control wide character.. | int iswcntrl (wint_t wc); 
-<b>Standard Library Function:</b> ['iswctype(wint_t', 'wctype_t'] | <b>Standard library function</b> used to determines whether or not the wide character wc has the property wc_prop.. | int iswctype(wint_t wc, wctype_t wc_prop); 
-<b>Standard Library Function:</b> ['iswdigit'] | <b>Standard library function</b> used to checks for any decimal-digit wide character.. | int iswdigit (wint_t wc); 
-<b>Standard Library Function:</b> ['iswgraph'] | <b>Standard library function</b> used to checks for any printing wide character except for the wide-character space.. | int iswgraph (wint_t wc); 
-<b>Standard Library Function:</b> ['iswlower'] | <b>Standard library function</b> used to checks for any lowercase wide character.. | int iswlower (wint_t wc); 
-<b>Standard Library Function:</b> ['iswprint'] | <b>Standard library function</b> used to checks for any printing wide character.. | int iswprint (wint_t wc); 
-<b>Standard Library Function:</b> ['iswpunct'] | <b>Standard library function</b> used to test for a wide non-alphanumeric, non-space character.. | int iswpunct (wint_t wc); 
-<b>Standard Library Function:</b> ['iswspace'] | <b>Standard library function</b> used to checks for any wide character that corresponds to an implementation-defined set of wide characters for which iswalnum is false.. | int iswspace (wint_t wc); 
-<b>Standard Library Function:</b> ['iswupper'] | <b>Standard library function</b> used to checks for any uppercase wide character.. | int iswupper (wint_t wc); 
-<b>Standard Library Function:</b> ['iswxdigit'] | <b>Standard library function</b> used to checks for any hexadecimal digit character.. | int iswxdigit (wint_t wc); 
-<b>Standard Library Function:</b> ['isxdigit(int'] | <b>Standard library function</b> used to tests if c is a hexadecimal digit.. | int isxdigit(int c); 
-<b>Standard Library Function:</b> ['towctrans(wint_t', 'wctrans_t'] | <b>Standard library function</b> used to translates the wide character wc based on the mapping described by desc.. | wint_t towctrans(wint_t wc, wctrans_t desc); 
-<b>Standard Library Function:</b> ['towlower'] | <b>Standard library function</b> used to converts uppercase letter to lowercase letter.. | wint_t towlower (wint_t wc); 
-<b>Standard Library Function:</b> ['towupper'] | <b>Standard library function</b> used to converts lowercase letter to uppercase letter.. | wint_t towupper (wint_t wc); 
-<b>Standard Library Function:</b> ['wctrans(const'] | <b>Standard library function</b> used to constructs a value with type wctrans_t that describes a mapping between wide characters identified by the string argument property.. | wctrans_t wctrans(const char *property); 
+<b>Wctype Function:</b> int iswalnum (wint_t wc); | <b>Wctype function</b> used to checks for any alphanumeric wide character. 
+<b>Wctype Function:</b> int iswalpha (wint_t wc); | <b>Wctype function</b> used to checks for any alphabetic wide character. 
+<b>Wctype Function:</b> int iswblank (wint_t wc); | <b>Wctype function</b> used to checks for any blank or tab wide character. 
+<b>Wctype Function:</b> int iswcntrl (wint_t wc); | <b>Wctype function</b> used to tests for any control wide character. 
+<b>Wctype Function:</b> int iswctype(wint_t wc, wctype_t wc_prop); | <b>Wctype function</b> used to determines whether or not the wide character wc has the property wc_prop. 
+<b>Wctype Function:</b> int iswdigit (wint_t wc); | <b>Wctype function</b> used to checks for any decimal-digit wide character. 
+<b>Wctype Function:</b> int iswgraph (wint_t wc); | <b>Wctype function</b> used to checks for any printing wide character except for the wide-character space. 
+<b>Wctype Function:</b> int iswlower (wint_t wc); | <b>Wctype function</b> used to checks for any lowercase wide character. 
+<b>Wctype Function:</b> int iswprint (wint_t wc); | <b>Wctype function</b> used to checks for any printing wide character. 
+<b>Wctype Function:</b> int iswpunct (wint_t wc); | <b>Wctype function</b> used to test for a wide non-alphanumeric, non-space character. 
+<b>Wctype Function:</b> int iswspace (wint_t wc); | <b>Wctype function</b> used to checks for any wide character that corresponds to an implementation-defined set of wide characters for which iswalnum is false. 
+<b>Wctype Function:</b> int iswupper (wint_t wc); | <b>Wctype function</b> used to checks for any uppercase wide character. 
+<b>Wctype Function:</b> int iswxdigit (wint_t wc); | <b>Wctype function</b> used to checks for any hexadecimal digit character. 
+<b>Wctype Function:</b> int isxdigit(int <i>c</i>); | <b>Wctype function</b> used to tests if c is a hexadecimal digit. 
+<b>Wctype Function:</b> wint_t towctrans(wint_t <i>wc</i>, wctrans_t <i>desc</i>); | <b>Wctype function</b> used to translates the wide character wc based on the mapping described by desc. 
+<b>Wctype Function:</b> wint_t towlower (wint_t wc); | <b>Wctype function</b> used to converts uppercase letter to lowercase letter. 
+<b>Wctype Function:</b> wint_t towupper (wint_t wc); | <b>Wctype function</b> used to converts lowercase letter to uppercase letter. 
+<b>Wctype Function:</b> wctrans_t wctrans(const char <i>*property</i>); | <b>Wctype function</b> used to constructs a value with type wctrans_t that describes a mapping between wide characters identified by the string argument property. 

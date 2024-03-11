@@ -1,15 +1,15 @@
-<b>Standard Library Function:</b> ['isalnum(int'] | <b>Standard library function</b> used to tests if c is alphanumeric.. | int isalnum(int c); 
-<b>Standard Library Function:</b> ['isalpha(int'] | <b>Standard library function</b> used to tests if c is alphabetic.. | int isalpha(int c); 
-<b>Standard Library Function:</b> ['isascii(int'] | <b>Standard library function</b> used to tests if c is within the 7-bit US-ASCII range.. | int isascii(int c); 
-<b>Standard Library Function:</b> ['isblank(int'] | <b>Standard library function</b> used to tests if c is a blank or tab character.. | int isblank(int c); 
-<b>Standard Library Function:</b> ['iscntrl(int'] | <b>Standard library function</b> used to tests if c is a control character.. | int iscntrl(int c); 
-<b>Standard Library Function:</b> ['isdigit(int'] | <b>Standard library function</b> used to tests if c is a decimal digit.. | int isdigit(int c); 
-<b>Standard Library Function:</b> ['isgraph(int'] | <b>Standard library function</b> used to tests if c is a printable character excluding the space.. | int isgraph(int c); 
-<b>Standard Library Function:</b> ['islower(int'] | <b>Standard library function</b> used to tests if c is a lowercase letter.. | int islower(int c); 
-<b>Standard Library Function:</b> ['isprint(int'] | <b>Standard library function</b> used to tests if c is a printable character including the space.. | int isprint(int c); 
-<b>Standard Library Function:</b> ['ispunct(int'] | <b>Standard library function</b> used to tests if c is a punctuation character.. | int ispunct(int c); 
-<b>Standard Library Function:</b> ['isspace(int'] | <b>Standard library function</b> used to tests if c is a whitespace character.. | int isspace(int c); 
-<b>Standard Library Function:</b> ['isupper(int'] | <b>Standard library function</b> used to tests if c is an uppercase letter.. | int isupper(int c); 
-<b>Standard Library Function:</b> ['toascii(int'] | <b>Standard library function</b> used to converts c to a character in the 7-bit US-ASCII character set.. | int toascii(int c); 
-<b>Standard Library Function:</b> ['tolower(int'] | <b>Standard library function</b> used to converts c to lowercase.. | int tolower(int c); 
-<b>Standard Library Function:</b> ['toupper(int'] | <b>Standard library function</b> used to converts c to uppercase.. | int toupper(int c); 
+<b>Ctype Function:</b> int isalnum(int <i>c</i>); | <b>Ctype function</b> used to tests if c is alphanumeric. 
+<b>Ctype Function:</b> int isalpha(int <i>c</i>); | <b>Ctype function</b> used to tests if c is alphabetic. 
+<b>Ctype Function:</b> int isascii(int <i>c</i>); | <b>Ctype function</b> used to tests if c is within the 7-bit US-ASCII range. 
+<b>Ctype Function:</b> int isblank(int <i>c</i>); | <b>Ctype function</b> used to tests if c is a blank or tab character. 
+<b>Ctype Function:</b> int iscntrl(int <i>c</i>); | <b>Ctype function</b> used to tests if c is a control character. 
+<b>Ctype Function:</b> int isdigit(int <i>c</i>); | <b>Ctype function</b> used to tests if c is a decimal digit. 
+<b>Ctype Function:</b> int isgraph(int <i>c</i>); | <b>Ctype function</b> used to tests if c is a printable character excluding the space. 
+<b>Ctype Function:</b> int islower(int <i>c</i>); | <b>Ctype function</b> used to tests if c is a lowercase letter. 
+<b>Ctype Function:</b> int isprint(int <i>c</i>); | <b>Ctype function</b> used to tests if c is a printable character including the space. 
+<b>Ctype Function:</b> int ispunct(int <i>c</i>); | <b>Ctype function</b> used to tests if c is a punctuation character. 
+<b>Ctype Function:</b> int isspace(int <i>c</i>); | <b>Ctype function</b> used to tests if c is a whitespace character. 
+<b>Ctype Function:</b> int isupper(int <i>c</i>); | <b>Ctype function</b> used to tests if c is an uppercase letter. 
+<b>Ctype Function:</b> int toascii(int <i>c</i>); | <b>Ctype function</b> used to converts c to a character in the 7-bit US-ASCII character set. 
+<b>Ctype Function:</b> int tolower(int <i>c</i>); | <b>Ctype function</b> used to converts c to lowercase. 
+<b>Ctype Function:</b> int toupper(int <i>c</i>); | <b>Ctype function</b> used to converts c to uppercase. 

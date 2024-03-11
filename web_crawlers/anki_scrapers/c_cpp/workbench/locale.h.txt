@@ -1,3 +1,3 @@
-<b>Standard Library Function:</b> ['lconv'] | <b>Standard library function</b> used to formats numeric quantities in struct lconv according to the current locale.. | struct lconv *localeconv(void); 
-<b>Standard Library Function:</b> ['*setlocale(int', 'const'] | <b>Standard library function</b> used to changes or queries variables defined in the locale.. | char *setlocale(int category, const char *locale); 
-<b>Standard Library Function:</b> ['wcslconv'] | <b>Standard library function</b> used to formats numeric quantities in struct wcslconv according to the current locale.. | struct wcslconv *wcslocaleconv(void); 
+<b>Locale Function:</b> struct lconv *localeconv(void); | <b>Locale function</b> used to formats numeric quantities in struct lconv according to the current locale. 
+<b>Locale Function:</b> char *setlocale(int <i>category</i>, const char *<i>locale</i>); | <b>Locale function</b> used to changes or queries variables defined in the locale. 
+<b>Locale Function:</b> struct wcslconv *wcslocaleconv(void); | <b>Locale function</b> used to formats numeric quantities in struct wcslconv according to the current locale. 

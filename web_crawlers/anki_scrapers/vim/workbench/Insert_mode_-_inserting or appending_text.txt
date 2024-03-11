@@ -9,9 +9,9 @@
 <b>Vim Command:</b> Ctrl + w | <b>Vim command</b> used to delete word before the cursor during insert mode. 
 <b>Vim Command:</b> Ctrl + j | <b>Vim command</b> used to add a line break at the cursor position during insert mode. 
 <b>Vim Command:</b> Ctrl + t | <b>Vim command</b> used to indent (move right) line one shiftwidth during insert mode. 
-<b>Vim Command:</b> Ctrl + d | <b>Vim command</b> used to de. 
-<b>Vim Command:</b> Ctrl + n | <b>Vim command</b> used to insert (auto. 
-<b>Vim Command:</b> Ctrl + p | <b>Vim command</b> used to insert (auto. 
+<b>Vim Command:</b> Ctrl + d | <b>Vim command</b> used to de-indent (move left) line one shiftwidth during insert mode. 
+<b>Vim Command:</b> Ctrl + n | <b>Vim command</b> used to insert (auto-complete) next match before the cursor during insert mode. 
+<b>Vim Command:</b> Ctrl + p | <b>Vim command</b> used to insert (auto-complete) previous match before the cursor during insert mode. 
 <b>Vim Command:</b> Ctrl + rx | <b>Vim command</b> used to insert the contents of register x. 
-<b>Vim Command:</b> Ctrl + ox | <b>Vim command</b> used to Temporarily enter normal mode to issue one normal. 
+<b>Vim Command:</b> Ctrl + ox | <b>Vim command</b> used to Temporarily enter normal mode to issue one normal-mode command x.. 
 <b>Vim Command:</b> Esc or Ctrl + c | <b>Vim command</b> used to exit insert mode. 

@@ -1,45 +1,45 @@
-<b>Standard Library Function:</b> ['acos(double'] | <b>Standard library function</b> used to calculates the arc cosine of x.. | double acos(double x); 
-<b>Standard Library Function:</b> ['asin(double'] | <b>Standard library function</b> used to calculates the arc sine of x.. | double asin(double x); 
-<b>Standard Library Function:</b> ['atan(double'] | <b>Standard library function</b> used to calculates the arc tangent of x.. | double atan(double x); 
-<b>Standard Library Function:</b> ['atan2(double', 'double'] | <b>Standard library function</b> used to calculates the arc tangent of y/x.. | double atan2(double y, double x); 
-<b>Standard Library Function:</b> ['ceil(double'] | <b>Standard library function</b> used to calculates the double value representing the smallest integer that is greater than or equal to x.. | double ceil(double x); 
-<b>Standard Library Function:</b> ['cos(double'] | <b>Standard library function</b> used to calculates the cosine of x.. | double cos(double x); 
-<b>Standard Library Function:</b> ['cosh(double'] | <b>Standard library function</b> used to calculates the hyperbolic cosine of x.. | double cosh(double x); 
-<b>Standard Library Function:</b> ['erf(double'] | <b>Standard library function</b> used to calculates the error function of  x.. | double erf(double x); 
-<b>Standard Library Function:</b> ['erfc(double'] | <b>Standard library function</b> used to calculates the error function for large values of x.. | double erfc(double x); 
-<b>Standard Library Function:</b> ['exp(double'] | <b>Standard library function</b> used to calculates the exponential function of a floating-point argument x.. | double exp(double x); 
-<b>Standard Library Function:</b> ['fabs(double'] | <b>Standard library function</b> used to calculates the absolute value of a floating-point argument x.. | double fabs(double x); 
-<b>Standard Library Function:</b> ['floor(double'] | <b>Standard library function</b> used to calculates the floating-point value representing the largest integer less than or equal to x.. | double floor(double x); 
-<b>Standard Library Function:</b> ['fmod(double', 'double'] | <b>Standard library function</b> used to calculates the floating-point remainder of x/y.. | double fmod(double x, double y); 
-<b>Standard Library Function:</b> ['frexp(double', 'int'] | <b>Standard library function</b> used to separates a floating-point number into its mantissa and exponent.. | double frexp(double x, int *expptr); 
-<b>Standard Library Function:</b> ['gamma(double'] | <b>Standard library function</b> used to computes the Gamma Function. | double gamma(double x); 
-<b>Standard Library Function:</b> ['hypot(double', 'double'] | <b>Standard library function</b> used to calculates the hypotenuse of a right-angled triangle with sides of length side1 and side2.. | double hypot(double side1, double side2); 
-<b>Standard Library Function:</b> ['j0(double'] | <b>Standard library function</b> used to calculates the Bessel function value of the first kind of order 0.. | double j0(double x); 
-<b>Standard Library Function:</b> ['j1(double'] | <b>Standard library function</b> used to calculates the Bessel function value of the first kind of order 1.. | double j1(double x); 
-<b>Standard Library Function:</b> ['jn(int', 'double'] | <b>Standard library function</b> used to calculates the Bessel function value of the first kind of order n.. | double jn(int n, double x); 
-<b>Standard Library Function:</b> ['ldexp(double', 'int'] | <b>Standard library function</b> used to returns the value of x multiplied by (2 to the power of exp).. | double ldexp(double x, int exp); 
-<b>Standard Library Function:</b> ['log(double'] | <b>Standard library function</b> used to calculates the natural logarithm of x.. | double log(double x); 
-<b>Standard Library Function:</b> ['log10(double'] | <b>Standard library function</b> used to calculates the base 10 logarithm of x.. | double log10(double x); 
-<b>Standard Library Function:</b> ['modf(double', 'double'] | <b>Standard library function</b> used to breaks down the floating-point value x into fractional and integral parts.. | double modf(double x, double *intptr); 
-<b>Standard Library Function:</b> ['nextafter(double', 'double'] | <b>Standard library function</b> used to calculates the next representable value after x in the direction of y.. | double nextafter(double x, double y); 
-<b>Standard Library Function:</b> ['double', 'long'] | <b>Standard library function</b> used to calculates the next representable value after x in the direction of y.. | long double nextafterl(long double x, long double y); 
-<b>Standard Library Function:</b> ['nexttoward(double', 'long'] | <b>Standard library function</b> used to calculates the next representable value after x in the direction of y.. | double nexttoward(double x, long double y); 
-<b>Standard Library Function:</b> ['double', 'long'] | <b>Standard library function</b> used to calculates the next representable value after x in the direction of y.. | long double nexttowardl(long double x, long double y); 
-<b>Standard Library Function:</b> ['pow(double', 'double'] | <b>Standard library function</b> used to calculates the value x to the power y.. | double pow(double x, double y); 
-<b>Standard Library Function:</b> ['quantized32(_Decimal32', '_Decimal32'] | <b>Standard library function</b> used to compute the quantum exponent of a single-precision decimal floating-point value.. | _Decimal32 quantized32(_Decimal32 x, _Decimal32 y); 
-<b>Standard Library Function:</b> ['quantized64(_Decimal64', '_Decimal64'] | <b>Standard library function</b> used to compute the quantum exponent of a double-precision decimal floating-point value.. | _Decimal64 quantized64(_Decimal64 x, _Decimal64 y); 
-<b>Standard Library Function:</b> ['quantized128(_Decimal128', '_Decimal128'] | <b>Standard library function</b> used to compute the quantum exponent of a quad-precision decimal floating-point value.. | _Decimal128 quantized128(_Decimal128 x, _Decimal128 y); 
-<b>Standard Library Function:</b> ['quantexpd32(_Decimal32'] | <b>Standard library function</b> used to set the quantum exponent of a single-precision decimal floating-point value to the quantum exponent of another single-precision decimal floating-point value.. | int quantexpd32(_Decimal32 x); 
-<b>Standard Library Function:</b> ['quantexpd64(_Decimal64'] | <b>Standard library function</b> used to set the quantum exponent of a double-precision decimal floating-point value to the quantum exponent of another double-precision decimal floating-point value.. | int quantexpd64(_Decimal64 x); 
-<b>Standard Library Function:</b> ['quantexpd128(_Decimal128'] | <b>Standard library function</b> used to set the quantum exponent of a quad-precision decimal floating-point value to the quantum exponent of another quad-precision decimal floating-point value.. | int quantexpd128(_Decimal128 x); 
-<b>Standard Library Function:</b> ['samequantumd32(_Decimal32', '_Decimal32'] | <b>Standard library function</b> used to determine if the quantum exponents of two single-precision decimal floating-point values are the same.. | __bool__ samequantumd32(_Decimal32 x, _Decimal32 y); 
-<b>Standard Library Function:</b> ['samequantumd64(_Decimal64', '_Decimal64'] | <b>Standard library function</b> used to determine if the quantum exponents of two double-precision decimal floating-point values are the same.. | __bool__ samequantumd64(_Decimal64 x, _Decimal64 y); 
-<b>Standard Library Function:</b> ['samequantumd128(_Decimal128', '_Decimal128'] | <b>Standard library function</b> used to determine if the quantum exponents of two quad-precision decimal floating-point values are the same.. | __bool__ samequantumd128(_Decimal128 x, _Decimal128 y); 
-<b>Standard Library Function:</b> ['sin(double'] | <b>Standard library function</b> used to calculates the sine of x.. | double sin(double x); 
-<b>Standard Library Function:</b> ['sinh(double'] | <b>Standard library function</b> used to calculates the hyperbolic sine of x.. | double sinh(double x); 
-<b>Standard Library Function:</b> ['sqrt(double'] | <b>Standard library function</b> used to calculates the square root of x.. | double sqrt(double x); 
-<b>Standard Library Function:</b> ['tan(double'] | <b>Standard library function</b> used to calculates the tangent of x.. | double tan(double x); 
-<b>Standard Library Function:</b> ['tanh(double'] | <b>Standard library function</b> used to calculates the hyperbolic tangent of x.. | double tanh(double x); 
-<b>Standard Library Function:</b> ['y0(double'] | <b>Standard library function</b> used to calculates the Bessel function value of the second kind of order 0.. | double y0(double x); 
-<b>Standard Library Function:</b> ['y1(double'] | <b>Standard library function</b> used to calculates the Bessel function value of the second kind of order 1.. | double y1(double x); 
-<b>Standard Library Function:</b> ['yn(int', 'double'] | <b>Standard library function</b> used to calculates the Bessel function value of the second kind of order n.. | double yn(int n, double x); 
+<b>Math Function:</b> double acos(double <i>x</i>); | <b>Math function</b> used to calculates the arc cosine of x. 
+<b>Math Function:</b> double asin(double <i>x</i>); | <b>Math function</b> used to calculates the arc sine of x. 
+<b>Math Function:</b> double atan(double <i>x</i>); | <b>Math function</b> used to calculates the arc tangent of x. 
+<b>Math Function:</b> double atan2(double <i>y</i>, double <i>x</i>); | <b>Math function</b> used to calculates the arc tangent of y/x. 
+<b>Math Function:</b> double ceil(double <i>x</i>); | <b>Math function</b> used to calculates the double value representing the smallest integer that is greater than or equal to x. 
+<b>Math Function:</b> double cos(double <i>x</i>); | <b>Math function</b> used to calculates the cosine of x. 
+<b>Math Function:</b> double cosh(double <i>x</i>); | <b>Math function</b> used to calculates the hyperbolic cosine of x. 
+<b>Math Function:</b> double erf(double <i>x</i>); | <b>Math function</b> used to calculates the error function of  x. 
+<b>Math Function:</b> double erfc(double <i>x</i>); | <b>Math function</b> used to calculates the error function for large values of x. 
+<b>Math Function:</b> double exp(double <i>x</i>); | <b>Math function</b> used to calculates the exponential function of a floating-point argument x. 
+<b>Math Function:</b> double fabs(double <i>x</i>); | <b>Math function</b> used to calculates the absolute value of a floating-point argument x. 
+<b>Math Function:</b> double floor(double <i>x</i>); | <b>Math function</b> used to calculates the floating-point value representing the largest integer less than or equal to x. 
+<b>Math Function:</b> double fmod(double <i>x</i>, double <i>y</i>); | <b>Math function</b> used to calculates the floating-point remainder of x/y. 
+<b>Math Function:</b> double frexp(double <i>x</i>, int *<i>expptr</i>); | <b>Math function</b> used to separates a floating-point number into its mantissa and exponent. 
+<b>Math Function:</b> double gamma(double <i>x</i>); | <b>Math function</b> used to computes the Gamma Function 
+<b>Math Function:</b> double hypot(double <i>side1</i>, double <i>side2</i>); | <b>Math function</b> used to calculates the hypotenuse of a right-angled triangle with sides of length side1 and side2. 
+<b>Math Function:</b> double j0(double <i>x</i>); | <b>Math function</b> used to calculates the Bessel function value of the first kind of order 0. 
+<b>Math Function:</b> double j1(double <i>x</i>); | <b>Math function</b> used to calculates the Bessel function value of the first kind of order 1. 
+<b>Math Function:</b> double jn(int <i>n</i>, double <i>x</i>); | <b>Math function</b> used to calculates the Bessel function value of the first kind of order n. 
+<b>Math Function:</b> double ldexp(double <i>x</i>, int <i>exp</i>); | <b>Math function</b> used to returns the value of x multiplied by (2 to the power of exp). 
+<b>Math Function:</b> double log(double <i>x</i>); | <b>Math function</b> used to calculates the natural logarithm of x. 
+<b>Math Function:</b> double log10(double <i>x</i>); | <b>Math function</b> used to calculates the base 10 logarithm of x. 
+<b>Math Function:</b> double modf(double <i>x</i>, double *<i>intptr</i>); | <b>Math function</b> used to breaks down the floating-point value x into fractional and integral parts. 
+<b>Math Function:</b> double nextafter(double <i>x</i>, double <i>y</i>); | <b>Math function</b> used to calculates the next representable value after x in the direction of y. 
+<b>Math Function:</b> long double nextafterl(long double <i>x</i>, long double <i>y</i>); | <b>Math function</b> used to calculates the next representable value after x in the direction of y. 
+<b>Math Function:</b> double nexttoward(double <i>x</i>, long double <i>y</i>); | <b>Math function</b> used to calculates the next representable value after x in the direction of y. 
+<b>Math Function:</b> long double nexttowardl(long double <i>x</i>, long double <i>y</i>); | <b>Math function</b> used to calculates the next representable value after x in the direction of y. 
+<b>Math Function:</b> double pow(double <i>x</i>, double <i>y</i>); | <b>Math function</b> used to calculates the value x to the power y. 
+<b>Math Function:</b> _Decimal32 quantized32(_Decimal32 <i>x</i>, _Decimal32 <i>y</i>); | <b>Math function</b> used to compute the quantum exponent of a single-precision decimal floating-point value. 
+<b>Math Function:</b> _Decimal64 quantized64(_Decimal64 <i>x</i>, _Decimal64 <i>y</i>); | <b>Math function</b> used to compute the quantum exponent of a double-precision decimal floating-point value. 
+<b>Math Function:</b> _Decimal128 quantized128(_Decimal128 <i>x</i>, _Decimal128 <i>y</i>); | <b>Math function</b> used to compute the quantum exponent of a quad-precision decimal floating-point value. 
+<b>Math Function:</b> int quantexpd32(_Decimal32 <i>x</i>); | <b>Math function</b> used to set the quantum exponent of a single-precision decimal floating-point value to the quantum exponent of another single-precision decimal floating-point value. 
+<b>Math Function:</b> int quantexpd64(_Decimal64 <i>x</i>); | <b>Math function</b> used to set the quantum exponent of a double-precision decimal floating-point value to the quantum exponent of another double-precision decimal floating-point value. 
+<b>Math Function:</b> int quantexpd128(_Decimal128 <i>x</i>); | <b>Math function</b> used to set the quantum exponent of a quad-precision decimal floating-point value to the quantum exponent of another quad-precision decimal floating-point value. 
+<b>Math Function:</b> __bool__ samequantumd32(_Decimal32 <i>x</i>, _Decimal32 <i>y</i>); | <b>Math function</b> used to determine if the quantum exponents of two single-precision decimal floating-point values are the same. 
+<b>Math Function:</b> __bool__ samequantumd64(_Decimal64 <i>x</i>, _Decimal64 <i>y</i>); | <b>Math function</b> used to determine if the quantum exponents of two double-precision decimal floating-point values are the same. 
+<b>Math Function:</b> __bool__ samequantumd128(_Decimal128 <i>x</i>, _Decimal128 <i>y</i>); | <b>Math function</b> used to determine if the quantum exponents of two quad-precision decimal floating-point values are the same. 
+<b>Math Function:</b> double sin(double <i>x</i>); | <b>Math function</b> used to calculates the sine of x. 
+<b>Math Function:</b> double sinh(double <i>x</i>); | <b>Math function</b> used to calculates the hyperbolic sine of x. 
+<b>Math Function:</b> double sqrt(double <i>x</i>); | <b>Math function</b> used to calculates the square root of x. 
+<b>Math Function:</b> double tan(double <i>x</i>); | <b>Math function</b> used to calculates the tangent of x. 
+<b>Math Function:</b> double tanh(double <i>x</i>); | <b>Math function</b> used to calculates the hyperbolic tangent of x. 
+<b>Math Function:</b> double y0(double <i>x</i>); | <b>Math function</b> used to calculates the Bessel function value of the second kind of order 0. 
+<b>Math Function:</b> double y1(double <i>x</i>); | <b>Math function</b> used to calculates the Bessel function value of the second kind of order 1. 
+<b>Math Function:</b> double yn(int <i>n</i>, double <i>x</i>); | <b>Math function</b> used to calculates the Bessel function value of the second kind of order n. 

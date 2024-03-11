@@ -1,2 +1,2 @@
-<b>Standard Library Function:</b> ['raise(int'] | <b>Standard library function</b> used to sends the signal sig to the running program.. | int raise(int sig); 
-<b>Standard Library Function:</b> ['(int', 'void(*func)(int)))'] | <b>Standard library function</b> used to registers func as a signal handler for the signal sig.. | void(*signal (int sig, void(*func)(int))) (int); 
+<b>Signal Function:</b> int raise(int <i>sig</i>); | <b>Signal function</b> used to sends the signal sig to the running program. 
+<b>Signal Function:</b> void(*signal (int <i>sig</i>, void(*<i>func</i>)(int))) (int); | <b>Signal function</b> used to registers func as a signal handler for the signal sig. 

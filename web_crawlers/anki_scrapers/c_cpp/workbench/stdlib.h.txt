@@ -1,35 +1,35 @@
-<b>Standard Library Function:</b> ['abort(void);'] | <b>Standard library function</b> used to stops a program abnormally.. | void abort(void); 
-<b>Standard Library Function:</b> ['abs(int'] | <b>Standard library function</b> used to calculates the absolute value of an integer argument n.. | int abs(int n); 
-<b>Standard Library Function:</b> ['atexit(void'] | <b>Standard library function</b> used to registers a function to be called at normal termination.. | int atexit(void (*func)(void)); 
-<b>Standard Library Function:</b> ['atof(const'] | <b>Standard library function</b> used to converts string to a double-precision floating-point value.. | double atof(const char *string); 
-<b>Standard Library Function:</b> ['atoi(const'] | <b>Standard library function</b> used to converts string to an integer.. | int atoi(const char *string); 
-<b>Standard Library Function:</b> ['int'] | <b>Standard library function</b> used to converts string to a long integer.. | long int atol(const char *string); 
-<b>Standard Library Function:</b> ['*bsearch(const', 'const', 'size_t', 'size_t', 'int', 'const'] | <b>Standard library function</b> used to performs a binary search on an array of num elements, each of size bytes. The array must be sorted in ascending order by the function pointed to by compare.. | void *bsearch(const void *key, const void *base, size_t num, size_t size, int (*compare) (const void *element1, const void *element2)); 
-<b>Standard Library Function:</b> ['*calloc(size_t', 'size_t'] | <b>Standard library function</b> used to reserves storage space for an array of num elements, each of size size, and initializes the values of all elements to 0.. | void *calloc(size_t num, size_t size); 
-<b>Standard Library Function:</b> ['div(int', 'int'] | <b>Standard library function</b> used to calculates the quotient and remainder of the division of numerator by denominator.. | div_t div(int numerator, int denominator); 
-<b>Standard Library Function:</b> ['exit(int'] | <b>Standard library function</b> used to ends a program normally.. | void exit(int status); 
-<b>Standard Library Function:</b> ['free(void'] | <b>Standard library function</b> used to frees a block of storage.. | void free(void *ptr); 
-<b>Standard Library Function:</b> ['*getenv(const'] | <b>Standard library function</b> used to searches environment variables for varname.. | char *getenv(const char *varname); 
-<b>Standard Library Function:</b> ['int'] | <b>Standard library function</b> used to calculates the absolute value of n.. | long int labs(long int n); 
-<b>Standard Library Function:</b> ['ldiv(long', 'long'] | <b>Standard library function</b> used to calculates the quotient and remainder of numerator/denominator.. | ldiv_t ldiv(long int numerator, long int denominator); 
-<b>Standard Library Function:</b> ['*malloc(size_t'] | <b>Standard library function</b> used to reserves a block of storage.. | void *malloc(size_t size); 
-<b>Standard Library Function:</b> ['mblen(const', 'size_t'] | <b>Standard library function</b> used to determines the length of a multibyte character string.. | int mblen(const char *string, size_t n); 
-<b>Standard Library Function:</b> ['mbstowcs(wchar_t', 'const', 'size_t'] | <b>Standard library function</b> used to converts the multibyte characters in string to their corresponding wchar_t codes, and stores not more than n codes in pwc.. | size_t mbstowcs(wchar_t *pwc, const char *string, size_t n); 
-<b>Standard Library Function:</b> ['mbtowc(wchar_t', 'const', 'size_t'] | <b>Standard library function</b> used to stores the wchar_t code corresponding to the first n bytes of multibyte character string into the wchar_t character pwc.. | int mbtowc(wchar_t *pwc, const char *string, size_t n); 
-<b>Standard Library Function:</b> ['*putenv(const'] | <b>Standard library function</b> used to sets the value of an environment variable by altering an existing variable or creating a new one.. | int *putenv(const char *varname); 
-<b>Standard Library Function:</b> ['qsort(void', 'size_t', 'size_t', 'int(*compare)(const', 'const'] | <b>Standard library function</b> used to performs a quick sort of an array of num elements, each of width bytes in size.. | void qsort(void *base, size_t num, size_t width, int(*compare)(const void *element1, const void *element2)); 
-<b>Standard Library Function:</b> ['rand(void);'] | <b>Standard library function</b> used to returns a pseudo-random integer.. | int rand(void); 
-<b>Standard Library Function:</b> ['rand_r(void);'] | <b>Standard library function</b> used to returns a pseudo-random integer. (Restartable version). | int rand_r(void); 
-<b>Standard Library Function:</b> ['*realloc(void', 'size_t'] | <b>Standard library function</b> used to changes the size of a previously reserved storage block.. | void *realloc(void *ptr, size_t size); 
-<b>Standard Library Function:</b> ['srand(unsigned'] | <b>Standard library function</b> used to sets the seed for the pseudo-random number generator.. | void srand(unsigned int seed); 
-<b>Standard Library Function:</b> ['strtod(const', 'char'] | <b>Standard library function</b> used to converts nptr to a double precision value.. | double strtod(const char *nptr, char **endptr); 
-<b>Standard Library Function:</b> ['strtod32(const', 'char'] | <b>Standard library function</b> used to converts nptr to a single-precision decimal floating-point value.. | _Decimal32 strtod32(const char *nptr, char **endptr); 
-<b>Standard Library Function:</b> ['strtod64(const', 'char'] | <b>Standard library function</b> used to converts nptr to a double-precision decimal floating-point value.. | _Decimal64 strtod64(const char *nptr, char **endptr); 
-<b>Standard Library Function:</b> ['strtod128(const', 'char'] | <b>Standard library function</b> used to converts nptr to a quad-precision decimal floating-point value.. | _Decimal128 strtod128(const char *nptr, char **endptr); 
-<b>Standard Library Function:</b> ['strtof(const', 'char'] | <b>Standard library function</b> used to converts nptr to a float value.. | float strtof(const char *nptr, char **endptr); 
-<b>Standard Library Function:</b> ['int', 'char', 'int'] | <b>Standard library function</b> used to converts nptr to a signed long integer.. | long int strtol(const char *nptr, char **endptr, int base); 
-<b>Standard Library Function:</b> ['double', 'char'] | <b>Standard library function</b> used to converts nptr to a long double value.. | long double strtold(const char *nptr, char **endptr); 
-<b>Standard Library Function:</b> ['long', 'char', 'int'] | <b>Standard library function</b> used to converts string1 to an unsigned long integer.. | unsigned long int strtoul(const char *string1, char **string2, int base); 
-<b>Standard Library Function:</b> ['system(const'] | <b>Standard library function</b> used to passes string to the system command analyzer.. | int system(const char *string); 
-<b>Standard Library Function:</b> ['wcstombs(char', 'const', 'size_t'] | <b>Standard library function</b> used to converts the wchar_t string into a multibyte string dest.. | size_t wcstombs(char *dest, const wchar_t *string, size_t count); 
-<b>Standard Library Function:</b> ['wctomb(char', 'wchar_t'] | <b>Standard library function</b> used to converts the wchar_t value of character into a multibyte string.. | int wctomb(char *string, wchar_t character); 
+<b>Stdlib Function:</b> void abort(void); | <b>Stdlib function</b> used to stops a program abnormally. 
+<b>Stdlib Function:</b> int abs(int <i>n</i>); | <b>Stdlib function</b> used to calculates the absolute value of an integer argument n. 
+<b>Stdlib Function:</b> int atexit(void (*<i>func</i>)(void)); | <b>Stdlib function</b> used to registers a function to be called at normal termination. 
+<b>Stdlib Function:</b> double atof(const char *<i>string</i>); | <b>Stdlib function</b> used to converts string to a double-precision floating-point value. 
+<b>Stdlib Function:</b> int atoi(const char *<i>string</i>); | <b>Stdlib function</b> used to converts string to an integer. 
+<b>Stdlib Function:</b> long int atol(const char *<i>string</i>); | <b>Stdlib function</b> used to converts string to a long integer. 
+<b>Stdlib Function:</b> void *bsearch(const void *<i>key</i>, const void *<i>base</i>, size_t <i>num</i>, size_t <i>size</i>, int (*<i>compare</i>) (const void *<i>element1</i>, const void *<i>element2</i>)); | <b>Stdlib function</b> used to performs a binary search on an array of num elements, each of size bytes. The array must be sorted in ascending order by the function pointed to by compare. 
+<b>Stdlib Function:</b> void *calloc(size_t <i>num</i>, size_t <i>size</i>); | <b>Stdlib function</b> used to reserves storage space for an array of num elements, each of size size, and initializes the values of all elements to 0. 
+<b>Stdlib Function:</b> div_t div(int <i>numerator</i>, int <i>denominator</i>); | <b>Stdlib function</b> used to calculates the quotient and remainder of the division of numerator by denominator. 
+<b>Stdlib Function:</b> void exit(int <i>status</i>); | <b>Stdlib function</b> used to ends a program normally. 
+<b>Stdlib Function:</b> void free(void *<i>ptr</i>); | <b>Stdlib function</b> used to frees a block of storage. 
+<b>Stdlib Function:</b> char *getenv(const char *<i>varname</i>); | <b>Stdlib function</b> used to searches environment variables for varname. 
+<b>Stdlib Function:</b> long int labs(long int <i>n</i>); | <b>Stdlib function</b> used to calculates the absolute value of n. 
+<b>Stdlib Function:</b> ldiv_t ldiv(long int <i>numerator</i>, long int <i>denominator</i>); | <b>Stdlib function</b> used to calculates the quotient and remainder of numerator/denominator. 
+<b>Stdlib Function:</b> void *malloc(size_t <i>size</i>); | <b>Stdlib function</b> used to reserves a block of storage. 
+<b>Stdlib Function:</b> int mblen(const char *<i>string</i>, size_t <i>n</i>); | <b>Stdlib function</b> used to determines the length of a multibyte character string. 
+<b>Stdlib Function:</b> size_t mbstowcs(wchar_t *<i>pwc</i>, const char *<i>string</i>, size_t <i>n</i>); | <b>Stdlib function</b> used to converts the multibyte characters in string to their corresponding wchar_t codes, and stores not more than n codes in pwc. 
+<b>Stdlib Function:</b> int mbtowc(wchar_t *<i>pwc</i>, const char *<i>string</i>, size_t <i>n</i>); | <b>Stdlib function</b> used to stores the wchar_t code corresponding to the first n bytes of multibyte character string into the wchar_t character pwc. 
+<b>Stdlib Function:</b> int *putenv(const char *<span class="ph synph"><span class="ph var">varname</span></span>); | <b>Stdlib function</b> used to sets the value of an environment variable by altering an existing variable or creating a new one. 
+<b>Stdlib Function:</b> void qsort(void *<i>base</i>, size_t <i>num</i>, size_t <i>width</i>, int(*<i>compare</i>)(const void *<i>element1</i>, const void *<i>element2</i>)); | <b>Stdlib function</b> used to performs a quick sort of an array of num elements, each of width bytes in size. 
+<b>Stdlib Function:</b> int rand(void); | <b>Stdlib function</b> used to returns a pseudo-random integer. 
+<b>Stdlib Function:</b> int rand_r(void); | <b>Stdlib function</b> used to returns a pseudo-random integer. (Restartable version) 
+<b>Stdlib Function:</b> void *realloc(void *<i>ptr</i>, size_t <i>size</i>); | <b>Stdlib function</b> used to changes the size of a previously reserved storage block. 
+<b>Stdlib Function:</b> void srand(unsigned int <i>seed</i>); | <b>Stdlib function</b> used to sets the seed for the pseudo-random number generator. 
+<b>Stdlib Function:</b> double strtod(const char *<i>nptr</i>, char **<i>endptr</i>); | <b>Stdlib function</b> used to converts nptr to a double precision value. 
+<b>Stdlib Function:</b> _Decimal32 strtod32(const char *<i>nptr</i>, char **<i>endptr</i>); | <b>Stdlib function</b> used to converts nptr to a single-precision decimal floating-point value. 
+<b>Stdlib Function:</b> _Decimal64 strtod64(const char *<i>nptr</i>, char **<i>endptr</i>); | <b>Stdlib function</b> used to converts nptr to a double-precision decimal floating-point value. 
+<b>Stdlib Function:</b> _Decimal128 strtod128(const char *<i>nptr</i>, char **<i>endptr</i>); | <b>Stdlib function</b> used to converts nptr to a quad-precision decimal floating-point value. 
+<b>Stdlib Function:</b> float strtof(const char *<i>nptr</i>, char **<i>endptr</i>); | <b>Stdlib function</b> used to converts nptr to a float value. 
+<b>Stdlib Function:</b> long int strtol(const char *<i>nptr</i>, char **<i>endptr</i>, int <i>base</i>); | <b>Stdlib function</b> used to converts nptr to a signed long integer. 
+<b>Stdlib Function:</b> long double strtold(const char *<i>nptr</i>, char **<i>endptr</i>); | <b>Stdlib function</b> used to converts nptr to a long double value. 
+<b>Stdlib Function:</b> unsigned long int strtoul(const char *<i>string1</i>, char **<i>string2</i>, int <i>base</i>); | <b>Stdlib function</b> used to converts string1 to an unsigned long integer. 
+<b>Stdlib Function:</b> int system(const char *<i>string</i>); | <b>Stdlib function</b> used to passes string to the system command analyzer. 
+<b>Stdlib Function:</b> size_t wcstombs(char *dest, const wchar_t *<i>string</i>, size_t <span class="ph synph"><span class="ph var">count</span></span>); | <b>Stdlib function</b> used to converts the wchar_t string into a multibyte string dest. 
+<b>Stdlib Function:</b> int wctomb(char *<i>string</i>, wchar_t <i>character</i>); | <b>Stdlib function</b> used to converts the wchar_t value of character into a multibyte string. 

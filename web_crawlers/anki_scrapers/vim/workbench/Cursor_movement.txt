@@ -2,8 +2,8 @@
 <b>Vim Command:</b> j | <b>Vim command</b> used to move cursor down. 
 <b>Vim Command:</b> k | <b>Vim command</b> used to move cursor up. 
 <b>Vim Command:</b> l | <b>Vim command</b> used to move cursor right. 
-<b>Vim Command:</b> gj | <b>Vim command</b> used to move cursor down (multi. 
-<b>Vim Command:</b> gk | <b>Vim command</b> used to move cursor up (multi. 
+<b>Vim Command:</b> gj | <b>Vim command</b> used to move cursor down (multi-line text). 
+<b>Vim Command:</b> gk | <b>Vim command</b> used to move cursor up (multi-line text). 
 <b>Vim Command:</b> H | <b>Vim command</b> used to move to top of screen. 
 <b>Vim Command:</b> M | <b>Vim command</b> used to move to middle of screen. 
 <b>Vim Command:</b> L | <b>Vim command</b> used to move to bottom of screen. 
@@ -15,11 +15,11 @@
 <b>Vim Command:</b> B | <b>Vim command</b> used to jump backwards to the start of a word (words can contain punctuation). 
 <b>Vim Command:</b> ge | <b>Vim command</b> used to jump backwards to the end of a word. 
 <b>Vim Command:</b> gE | <b>Vim command</b> used to jump backwards to the end of a word (words can contain punctuation). 
-<b>Vim Command:</b> % | <b>Vim command</b> used to move cursor to matching character (default supported pairs: '()', '{}', '[]'. 
+<b>Vim Command:</b> % | <b>Vim command</b> used to move cursor to matching character (default supported pairs: '()', '{}', '[]' - use :h matchpairs in vim for more info). 
 <b>Vim Command:</b> 0 | <b>Vim command</b> used to jump to the start of the line. 
-<b>Vim Command:</b> ^ | <b>Vim command</b> used to jump to the first non. 
+<b>Vim Command:</b> ^ | <b>Vim command</b> used to jump to the first non-blank character of the line. 
 <b>Vim Command:</b> $ | <b>Vim command</b> used to jump to the end of the line. 
-<b>Vim Command:</b> g_ | <b>Vim command</b> used to jump to the last non. 
+<b>Vim Command:</b> g_ | <b>Vim command</b> used to jump to the last non-blank character of the line. 
 <b>Vim Command:</b> gg | <b>Vim command</b> used to go to the first line of the document. 
 <b>Vim Command:</b> G | <b>Vim command</b> used to go to the last line of the document. 
 <b>Vim Command:</b> 5gg or 5G | <b>Vim command</b> used to go to line 5. 

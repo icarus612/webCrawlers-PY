@@ -1,4 +1,4 @@
-<b>Vim Command:</b> v | <b>Vim command</b> used to start visual mode, mark lines, then do a command (like y. 
+<b>Vim Command:</b> v | <b>Vim command</b> used to start visual mode, mark lines, then do a command (like y-yank). 
 <b>Vim Command:</b> V | <b>Vim command</b> used to start linewise visual mode. 
 <b>Vim Command:</b> o | <b>Vim command</b> used to move to other end of marked area. 
 <b>Vim Command:</b> Ctrl + v | <b>Vim command</b> used to start visual block mode. 

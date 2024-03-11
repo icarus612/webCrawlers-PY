@@ -1,23 +1,23 @@
-<b>Standard Library Function:</b> ['*asctime(const'] | <b>Standard library function</b> used to converts the time that is stored as a structure to a character string.. | char *asctime(const struct tm *time); 
-<b>Standard Library Function:</b> ['*asctime_r', 'char'] | <b>Standard library function</b> used to converts tm that is stored as a structure to a character string. (Restartable version of asctime.). | char *asctime_r (const struct tm *tm, char *buf); 
-<b>Standard Library Function:</b> ['clock(void);'] | <b>Standard library function</b> used to returns the processor time that has elapsed since the job was started.. | clock_t clock(void); 
-<b>Standard Library Function:</b> ['*ctime(const'] | <b>Standard library function</b> used to converts time to a character string.. | char *ctime(const time_t *time); 
-<b>Standard Library Function:</b> ['*ctime64(const'] | <b>Standard library function</b> used to converts time to a character string.. | char *ctime64(const time64_t *time); 
-<b>Standard Library Function:</b> ['*ctime_r(const', 'char'] | <b>Standard library function</b> used to converts time to a character string. (Restartable version of ctime.). | char *ctime_r(const time_t *time, char *buf); 
-<b>Standard Library Function:</b> ['*ctime64_r(const', 'char'] | <b>Standard library function</b> used to converts time to a character string. (Restartable version of ctime64.). | char *ctime64_r(const time64_t *time, char *buf); 
-<b>Standard Library Function:</b> ['difftime(time_t', 'time_t'] | <b>Standard library function</b> used to computes the difference between time2 and time1.. | double difftime(time_t time2, time_t time1); 
-<b>Standard Library Function:</b> ['difftime64(time64_t', 'time64_t'] | <b>Standard library function</b> used to computes the difference between time2 and time1.. | double difftime64(time64_t time2, time64_t time1); 
-<b>Standard Library Function:</b> ['tm'] | <b>Standard library function</b> used to converts a time value to a structure of type tm.. | struct tm *gmtime(const time_t *time); 
-<b>Standard Library Function:</b> ['tm'] | <b>Standard library function</b> used to converts a time value to a structure of type tm.. | struct tm *gmtime64(const time64_t *time); 
-<b>Standard Library Function:</b> ['tm', 'struct'] | <b>Standard library function</b> used to converts a time value to a structure of type tm. (Restartable version of gmtime.). | struct tm *gmtime_r (const time_t *time, struct tm *result); 
-<b>Standard Library Function:</b> ['tm', 'struct'] | <b>Standard library function</b> used to converts a time value to a structure of type tm. (Restartable version of gmtime64.). | struct tm *gmtime64_r (const time64_t *time, struct tm *result); 
-<b>Standard Library Function:</b> ['tm'] | <b>Standard library function</b> used to converts timeval to a structure of type tm.. | struct tm *localtime(const time_t *timeval); 
-<b>Standard Library Function:</b> ['tm'] | <b>Standard library function</b> used to converts timeval to a structure of type tm.. | struct tm *localtime64(const time64_t *timeval); 
-<b>Standard Library Function:</b> ['tm', 'struct'] | <b>Standard library function</b> used to converts a time value to a structure of type tm. (Restartable version of localtime.). | struct tm *localtime_r (const time_t *timeval, struct tm *result); 
-<b>Standard Library Function:</b> ['tm', 'struct'] | <b>Standard library function</b> used to converts a time value to a structure of type tm. (Restartable version of localtime64.). | struct tm *localtime64_r (const time64_t *timeval, struct tm *result); 
-<b>Standard Library Function:</b> ['mktime(struct'] | <b>Standard library function</b> used to converts local time into calendar time.. | time_t mktime(struct tm *time); 
-<b>Standard Library Function:</b> ['mktime64(struct'] | <b>Standard library function</b> used to converts local time into calendar time.. | time64_t mktime64(struct tm *time); 
-<b>Standard Library Function:</b> ['strftime', 'size_t', 'const', 'const'] | <b>Standard library function</b> used to stores characters in an array pointed to by dest, according to the string determined by format.. | size_t strftime (char *dest, size_t maxsize, const char *format, const struct tm *timeptr); 
-<b>Standard Library Function:</b> ['*strptime', 'const', 'struct'] | <b>Standard library function</b> used to date and time conversion. | char *strptime (const char *buf, const char *format, struct tm *tm); 
-<b>Standard Library Function:</b> ['time(time_t'] | <b>Standard library function</b> used to returns the current calendar time.. | time_t time(time_t *timeptr); 
-<b>Standard Library Function:</b> ['time64(time64_t'] | <b>Standard library function</b> used to returns the current calendar time.. | time64_t time64(time64_t *timeptr); 
+<b>Time Function:</b> char *asctime(const struct tm *<i>time</i>); | <b>Time function</b> used to converts the time that is stored as a structure to a character string. 
+<b>Time Function:</b> char *asctime_r (const struct tm *tm, char *buf); | <b>Time function</b> used to converts tm that is stored as a structure to a character string. (Restartable version of asctime.) 
+<b>Time Function:</b> clock_t clock(void); | <b>Time function</b> used to returns the processor time that has elapsed since the job was started. 
+<b>Time Function:</b> char *ctime(const time_t *<i>time</i>); | <b>Time function</b> used to converts time to a character string. 
+<b>Time Function:</b> char *ctime64(const time64_t *<i>time</i>); | <b>Time function</b> used to converts time to a character string. 
+<b>Time Function:</b> char *ctime_r(const time_t *time, char *buf); | <b>Time function</b> used to converts time to a character string. (Restartable version of ctime.) 
+<b>Time Function:</b> char *ctime64_r(const time64_t *time, char *buf); | <b>Time function</b> used to converts time to a character string. (Restartable version of ctime64.) 
+<b>Time Function:</b> double difftime(time_t <i>time2</i>, time_t <i>time1</i>); | <b>Time function</b> used to computes the difference between time2 and time1. 
+<b>Time Function:</b> double difftime64(time64_t <i>time2</i>, time64_t <i>time1</i>); | <b>Time function</b> used to computes the difference between time2 and time1. 
+<b>Time Function:</b> struct tm *gmtime(const time_t *<i>time</i>); | <b>Time function</b> used to converts a time value to a structure of type tm. 
+<b>Time Function:</b> struct tm *gmtime64(const time64_t *<i>time</i>); | <b>Time function</b> used to converts a time value to a structure of type tm. 
+<b>Time Function:</b> struct tm *gmtime_r (const time_t *time, struct tm *result); | <b>Time function</b> used to converts a time value to a structure of type tm. (Restartable version of gmtime.) 
+<b>Time Function:</b> struct tm *gmtime64_r (const time64_t *time, struct tm *result); | <b>Time function</b> used to converts a time value to a structure of type tm. (Restartable version of gmtime64.) 
+<b>Time Function:</b> struct tm *localtime(const time_t *<i>timeval</i>); | <b>Time function</b> used to converts timeval to a structure of type tm. 
+<b>Time Function:</b> struct tm *localtime64(const time64_t *<i>timeval</i>); | <b>Time function</b> used to converts timeval to a structure of type tm. 
+<b>Time Function:</b> struct tm *localtime_r (const time_t *timeval, struct tm *result); | <b>Time function</b> used to converts a time value to a structure of type tm. (Restartable version of localtime.) 
+<b>Time Function:</b> struct tm *localtime64_r (const time64_t *timeval, struct tm *result); | <b>Time function</b> used to converts a time value to a structure of type tm. (Restartable version of localtime64.) 
+<b>Time Function:</b> time_t mktime(struct tm *<i>time</i>); | <b>Time function</b> used to converts local time into calendar time. 
+<b>Time Function:</b> time64_t mktime64(struct tm *<i>time</i>); | <b>Time function</b> used to converts local time into calendar time. 
+<b>Time Function:</b> size_t strftime (char *<i>dest</i>, size_t <i>maxsize</i>, const char *<i>format</i>, const struct tm *<i>timeptr</i>); | <b>Time function</b> used to stores characters in an array pointed to by dest, according to the string determined by format. 
+<b>Time Function:</b> char *strptime (const char *buf, const char *format, struct tm *tm); | <b>Time function</b> used to date and time conversion 
+<b>Time Function:</b> time_t time(time_t *<i>timeptr</i>); | <b>Time function</b> used to returns the current calendar time. 
+<b>Time Function:</b> time64_t time64(time64_t *<i>timeptr</i>); | <b>Time function</b> used to returns the current calendar time. 
