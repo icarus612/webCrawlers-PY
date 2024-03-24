@@ -1,0 +1,21 @@
+<b>Lua keyword: </b>and | <b>Lua keyword</b> used as the logical AND operator.
+<b>Lua keyword: </b>break | <b>Lua keyword</b> used to terminate the execution of the nearest enclosing loop.
+<b>Lua keyword: </b>do | <b>Lua keyword</b> used to start a block of code or a function definition.
+<b>Lua keyword: </b>else | <b>Lua keyword</b> used to the alternative branch in a control structure.
+<b>Lua keyword: </b>elseif | <b>Lua keyword</b> used to combination of else and if.
+<b>Lua keyword: </b>end | <b>Lua keyword</b> used to terminate a block of code or a function definition.
+<b>Lua keyword: </b>false | <b>Lua keyword</b> used to define a false value.
+<b>Lua keyword: </b>for | <b>Lua keyword</b> used to iterate over a sequence of values.
+<b>Lua keyword: </b>function | <b>Lua keyword</b> used to define a function.
+<b>Lua keyword: </b>if | <b>Lua keyword</b> used to create a conditional statement.
+<b>Lua keyword: </b>in | <b>Lua keyword</b> used as a key-value iterator for table fields.
+<b>Lua keyword: </b>local | <b>Lua keyword</b> used to declare a local variable.
+<b>Lua keyword: </b>nil | <b>Lua keyword</b> used to the 'null' value.
+<b>Lua keyword: </b>not | <b>Lua keyword</b> used to logical NOT operator.
+<b>Lua keyword: </b>or | <b>Lua keyword</b> used to logical OR operator.
+<b>Lua keyword: </b>repeat | <b>Lua keyword</b> used to start a loop that executes at least once.
+<b>Lua keyword: </b>return | <b>Lua keyword</b> used to return values from a function.
+<b>Lua keyword: </b>then | <b>Lua keyword</b> used as part of an if statement to seperate the condition from the code to be executed.
+<b>Lua keyword: </b>true | <b>Lua keyword</b> used to define a true value.
+<b>Lua keyword: </b>until | <b>Lua keyword</b> used to terminate a repeat loop.
+<b>Lua keyword: </b>while | <b>Lua keyword</b> used to start a loop that executes as long as its condition is true.

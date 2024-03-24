@@ -1,0 +1,45 @@
+<b>Built-in Function:</b> assert(<i>v</i>) | <b>Built-in function</b> used to issues an error when the value of its argument v is false | assert(<i>v</i>, <i>message</i>)
+
+<b>Built-in Function:</b> collectgarbage(<i>opt</i>, <i>arg</i>) | <b>Built-in function</b> used to controls the garbage collector | collectgarbage(<i>opt</i>, <i>arg</i>)
+
+<b>Built-in Function:</b> dofile(<i>filename</i>) | <b>Built-in function</b> used to loads and executes the contents of a file | dofile(<i>filename</i>)
+
+<b>Built-in Function:</b> error(<i>message</i>, <i>level</i>) | <b>Built-in function</b> used to terminates the last protected function call with an error message | error(<i>message</i>, <i>level</i>)
+
+<b>Built-in Function:</b> getmetatable(<i>object</i>) | <b>Built-in function</b> used to returns the metatable of the given object | getmetatable(<i>object</i>)
+
+<b>Built-in Function:</b> ipairs(<i>t</i>) | <b>Built-in function</b> used to iterates over the array values of a table | ipairs(<i>t</i>)
+
+<b>Built-in Function:</b> load(<i>chunk</i>, <i>chunkname</i>, <i>mode</i>, <i>env</i>) | <b>Built-in function</b> used to loads a chunk of Lua code | load(<i>chunk</i>, <i>chunkname</i>, <i>mode</i>, <i>env</i>)
+
+<b>Built-in Function:</b> loadfile(<i>filename</i>, <i>mode</i>, <i>env</i>) | <b>Built-in function</b> used to loads a file as a Lua chunk | loadfile(<i>filename</i>, <i>mode</i>, <i>env</i>)
+
+<b>Built-in Function:</b> next(<i>table</i>, <i>index</i>) | <b>Built-in function</b> used to allows a program to iterate over all key-value pairs of a table | next(<i>table</i>, <i>index</i>)
+
+<b>Built-in Function:</b> pairs(<i>t</i>) | <b>Built-in function</b> used to iterates over the key-value pairs of a table | pairs(<i>t</i>)
+
+<b>Built-in Function:</b> pcall(<i>f</i>, <i>arg1</i>, <i>...</i>) | <b>Built-in function</b> used to calls a function in protected mode | pcall(<i>f</i>, <i>arg1</i>, <i>...</i>)
+
+<b>Built-in Function:</b> print(<i>...</i>) | <b>Built-in function</b> used to prints values to the standard output | print(<i>...</i>)
+
+<b>Built-in Function:</b> rawequal(<i>v1</i>, <i>v2</i>) | <b>Built-in function</b> used to checks if two values are equal, without invoking the __eq metamethod | rawequal(<i>v1</i>, <i>v2</i>)
+
+<b>Built-in Function:</b> rawget(<i>table</i>, <i>index</i>) | <b>Built-in function</b> used to gets the real value of table[index], without invoking the __index metamethod | rawget(<i>table</i>, <i>index</i>)
+
+<b>Built-in Function:</b> rawlen(<i>v</i>) | <b>Built-in function</b> used to returns the length of a table or string, without invoking the __len metamethod | rawlen(<i>v</i>)
+
+<b>Built-in Function:</b> rawset(<i>table</i>, <i>index</i>, <i>value</i>) | <b>Built-in function</b> used to sets the real value of table[index] to value, without invoking the __newindex metamethod | rawset(<i>table</i>, <i>index</i>, <i>value</i>)
+
+<b>Built-in Function:</b> require(<i>modname</i>) | <b>Built-in function</b> used to loads a module | require(<i>modname</i>)
+
+<b>Built-in Function:</b> select(<i>index</i>, <i>...</i>) | <b>Built-in function</b> used to returns all arguments after argument number index | select(<i>index</i>, <i>...</i>)
+
+<b>Built-in Function:</b> setmetatable(<i>table</i>, <i>metatable</i>) | <b>Built-in function</b> used to sets the metatable for the given table | setmetatable(<i>table</i>, <i>metatable</i>)
+
+<b>Built-in Function:</b> tonumber(<i>e</i>, <i>base</i>) | <b>Built-in function</b> used to tries to convert its argument to a number | tonumber(<i>e</i>, <i>base</i>)
+
+<b>Built-in Function:</b> tostring(<i>e</i>) | <b>Built-in function</b> used to receives an argument of any type and converts it to a string | tostring(<i>e</i>)
+
+<b>Built-in Function:</b> type(<i>v</i>) | <b>Built-in function</b> used to returns the type of its argument | type(<i>v</i>)
+
+<b>Built-in Function:</b> xpcall(<i>f</i>, <i>err</i>) | <b>Built-in function</b> used to calls a function in protected mode, using err as the error handler | xpcall(<i>f</i>, <i>err</i>)
