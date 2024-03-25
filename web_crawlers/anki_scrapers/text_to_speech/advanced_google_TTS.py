@@ -1,7 +1,7 @@
 import json
 import argparse
+import os
 from google_speech import Speech
-from os import path
 from retrying import retry
 
 @retry(wait_exponential_multiplier=1000, wait_exponential_max=40000)
@@ -18,16 +18,18 @@ def load_json_file(file_name):
 		text = file.read()	
 	return json.loads(text) 
 
-def save_audio(file_name, audio, replace=True):
-	if replace or not path.isfile(file_name):
-		with open(file_name, 'w') as file:
-			file.write(audio)
+def save_speech_audio(file_name, audio, replace=True):
+	if replace or not os.path.isfile(file_name):
+		Speech.save(audio, file_name)
 
 def build_and_save(word, language, file_name=None, dir_name='audio_files', replace=True):
+	if not os.path.isdir(dir_name):
+		os.mkdir(dir_name)
+
 	if not file_name:
-		file_name = path.join(dir_name, word.replace(' ', '_') + '.mp3')
+		file_name = os.path.join(dir_name, f'{word.replace(" ", "_")}_{language}.mp3')
 	audio = TTS(word, language)
-	save_audio(file_name, audio, replace=replace)
+	save_speech_audio(file_name, audio, replace=replace)
 
 
 if __name__ == '__main__':
